@@ -32,3 +32,10 @@ Or render and serve locally with:
 ```
 quarto serve
 ```
+
+Or if you are using R, you can install the `quarto` package and then run:
+
+```r
+library(quarto)
+quarto_serve()
+```
