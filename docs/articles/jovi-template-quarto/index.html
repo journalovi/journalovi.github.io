@@ -156,8 +156,9 @@
 <li><a href="#setting-up-and-writing-a-jovi-article" class="nav-link" data-scroll-target="#setting-up-and-writing-a-jovi-article"> <span class="header-section-number">1</span> Setting up and writing a JoVI article</a></li>
 <li><a href="#citations-and-footnotes" class="nav-link" data-scroll-target="#citations-and-footnotes"> <span class="header-section-number">2</span> Citations and footnotes</a></li>
 <li><a href="#figures-and-images" class="nav-link" data-scroll-target="#figures-and-images"> <span class="header-section-number">3</span> Figures and images</a></li>
-<li><a href="#code" class="nav-link" data-scroll-target="#code"> <span class="header-section-number">4</span> Code</a></li>
-<li><a href="#equations" class="nav-link" data-scroll-target="#equations"> <span class="header-section-number">5</span> Equations</a></li>
+<li><a href="#body-text" class="nav-link" data-scroll-target="#body-text"> <span class="header-section-number">4</span> Body text</a></li>
+<li><a href="#code" class="nav-link" data-scroll-target="#code"> <span class="header-section-number">5</span> Code</a></li>
+<li><a href="#equations" class="nav-link" data-scroll-target="#equations"> <span class="header-section-number">6</span> Equations</a></li>
 </ul>
 </nav></div>
   <div class="col mx-auto col-sm-12 col-md-9 col-lg-7 px-lg-4">
@@ -216,11 +217,16 @@
 </figure>
 </div>
 <p>Then you can refer to the above figure in text using <code>@fig-teaser</code>; for example:</p>
-<p>Refer to <a href="#fig-teaser">fig.&nbsp;1</a>. For the highest-quality output, we recommend using SVG figures if possible.</p>
-<p>Quarto also supports more complex figure layouts and subfigures; see <a href="https://quarto.org/docs/authoring/figures-and-layout.html">the Quarto page on figures</a>. For more on cross-references, see the <a href="https://quarto.org/docs/authoring/cross-references.html">Quarto page on cross-references</a>.</p>
+<p>Refer to <a href="#fig-teaser">fig.&nbsp;1</a>. For more on cross-references, see the <a href="https://quarto.org/docs/authoring/cross-references.html">Quarto page on cross-references</a>.</p>
+<p>For the highest-quality output, we recommend using SVG figures if possible.</p>
+<p>Quarto also contains classes for more complex figure layouts and subfigures, which we recommend using in most cases if you need more complex layouts; see <a href="https://quarto.org/docs/authoring/figures-and-layout.html">the Quarto page on figures</a>. That said, we encourage exploration of what is possible with online article formats, and you should feel free to experiment so long as the result is archivable, accessible, and readable.</p>
 </section>
-<section id="code" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="code"><span class="header-section-number">4</span> Code</h2>
+<section id="body-text" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="body-text"><span class="header-section-number">4</span> Body text</h2>
+<p>The basic body text, header formatting, and basic tags such as links, emphasis, etc should be left as-is except in rare cases (for which you should be able to demonstrate the value of your modifications). That said, we do encourage experimentation with what is possible in this format; some possibilities that just scrath the surface include: using color or other formatting to link text content semantically with figures; using inline figures; experimenting with interactive widgets in text and figures. So long as content retains archivability, accessibility, and readability, we welcome experimentation with the format.</p>
+</section>
+<section id="code" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="code"><span class="header-section-number">5</span> Code</h2>
 <p>Quarto supports R and python code; for example:</p>
 <div class="cell">
 <div class="sourceCode" id="cb3"><pre class="sourceCode r cell-code code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">2</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
@@ -229,8 +235,8 @@
 </div>
 </div>
 </section>
-<section id="equations" class="level2" data-number="5">
-<h2 data-number="5" class="anchored" data-anchor-id="equations"><span class="header-section-number">5</span> Equations</h2>
+<section id="equations" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="equations"><span class="header-section-number">6</span> Equations</h2>
 <p>Equations can be included using LaTeX syntax:</p>
 <p><span class="math display">\[
 x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}

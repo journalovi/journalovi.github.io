@@ -21,18 +21,24 @@
     "href": "articles\\jovi-template-quarto\\index.html#figures-and-images",
     "title": "JoVI article template",
     "section": "3 Figures and images",
-    "text": "Images can be included and for accessibility purposes should always have alt text. Alt text of visualizations should provide meaningful descriptions of the visualization.\n![](images/teaser.svg){fig.alt=\"Mean expected payoff / optimal\npayoff for 10 conditions, showing an increase over time in most\nconditions, with dot50 having the highest value of\napproximately 97% of optimal.\"}\n\nYou can also add captions and figure references using a ::: block combined with an id prefixed with #fig-:\n::: {#fig-teaser}\n![](images/teaser.svg){fig.alt=\"Mean expected payoff / optimal\npayoff for 10 conditions, showing an increase over time in most\nconditions, with dot50 having the highest value of\napproximately 97% of optimal.\"}\n\nMean expected payoff / optimal payoff for 10 conditions.\n:::\n\n\n\nFigure 1: Mean expected payoff / optimal payoff for 10 conditions.\n\n\nThen you can refer to the above figure in text using @fig-teaser; for example:\nRefer to fig. 1. For the highest-quality output, we recommend using SVG figures if possible.\nQuarto also supports more complex figure layouts and subfigures; see the Quarto page on figures. For more on cross-references, see the Quarto page on cross-references."
+    "text": "Images can be included and for accessibility purposes should always have alt text. Alt text of visualizations should provide meaningful descriptions of the visualization.\n![](images/teaser.svg){fig.alt=\"Mean expected payoff / optimal\npayoff for 10 conditions, showing an increase over time in most\nconditions, with dot50 having the highest value of\napproximately 97% of optimal.\"}\n\nYou can also add captions and figure references using a ::: block combined with an id prefixed with #fig-:\n::: {#fig-teaser}\n![](images/teaser.svg){fig.alt=\"Mean expected payoff / optimal\npayoff for 10 conditions, showing an increase over time in most\nconditions, with dot50 having the highest value of\napproximately 97% of optimal.\"}\n\nMean expected payoff / optimal payoff for 10 conditions.\n:::\n\n\n\nFigure 1: Mean expected payoff / optimal payoff for 10 conditions.\n\n\nThen you can refer to the above figure in text using @fig-teaser; for example:\nRefer to fig. 1. For more on cross-references, see the Quarto page on cross-references.\nFor the highest-quality output, we recommend using SVG figures if possible.\nQuarto also contains classes for more complex figure layouts and subfigures, which we recommend using in most cases if you need more complex layouts; see the Quarto page on figures. That said, we encourage exploration of what is possible with online article formats, and you should feel free to experiment so long as the result is archivable, accessible, and readable."
+  },
+  {
+    "href": "articles\\jovi-template-quarto\\index.html#body-text",
+    "title": "JoVI article template",
+    "section": "4 Body text",
+    "text": "The basic body text, header formatting, and basic tags such as links, emphasis, etc should be left as-is except in rare cases (for which you should be able to demonstrate the value of your modifications). That said, we do encourage experimentation with what is possible in this format; some possibilities that just scrath the surface include: using color or other formatting to link text content semantically with figures; using inline figures; experimenting with interactive widgets in text and figures. So long as content retains archivability, accessibility, and readability, we welcome experimentation with the format."
   },
   {
     "href": "articles\\jovi-template-quarto\\index.html#code",
     "title": "JoVI article template",
-    "section": "4 Code",
+    "section": "5 Code",
     "text": "Quarto supports R and python code; for example:\n\n1 + 2\n\n[1] 3"
   },
   {
     "href": "articles\\jovi-template-quarto\\index.html#equations",
     "title": "JoVI article template",
-    "section": "5 Equations",
+    "section": "6 Equations",
     "text": "Equations can be included using LaTeX syntax:\n\\[\nx=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}\n\\]\nFor more on equations, see the corresponding section in the Quarto documentation.\n\n\n\nSimkin, Mikhail V, and Vwani P Roychowdhury. 2002. “Read Before You Cite!” arXiv Preprint Cond-Mat/0212043. https://arxiv.org/pdf/cond-mat/0212043."
   },
   {
@@ -129,13 +135,13 @@
     "href": "index.html#transparent-reviews",
     "title": "The Journal of Visualization and Interaction",
     "section": "8 Transparent Reviews",
-    "text": "JoVI does not publish a limited number of manuscripts and does not seek to have a certain rejection rate. All submitted work, reviews, and discussions will be publicly available for other researchers to use. Manuscripts that have successfully addressed all the issues raised by the reviewers and editorial team are considered “endorsed” by the editor and approving reviewers, not “accepted”** by the JoVI. To encourage accountability, editors’ names are listed on the articles they endorse, and reviewers may choose to be named or anonymous**. As articles are living documents, which versions have received endorsements are clearly indicated with the article. All submissions and their accompanying reviews and discussions remain accessible whether or not an article secures an endorsement or is retracted."
+    "text": "JoVI does not publish a limited number of manuscripts and does not seek to have a certain rejection rate. All submitted work, reviews, and discussions will be publicly available for other researchers to use. Manuscripts that have successfully addressed all the issues raised by the reviewers and editorial team are considered endorsed by the editor and approving reviewers, not accepted by the JoVI. To encourage accountability, editors’ names are listed on the articles they endorse, and reviewers may choose to be named or anonymous. As articles are living documents, which versions have received endorsements are clearly indicated with the article. All submissions and their accompanying reviews and discussions remain accessible whether or not an article secures an endorsement or is retracted."
   },
   {
     "href": "index.html#inclusive",
     "title": "The Journal of Visualization and Interaction",
     "section": "9 Inclusive",
-    "text": "JoVI is committed to diversity, equity, and inclusion (DEI). The journal strives to maintain an editorial board with diverse representation in terms of gender and gender expression, race and ethnicity, sexual orientation, age, ability, geographic location, and affiliation. We value diversity as an empowering force that leads to better, more innovative, and more impactful research. We commit to DEI by requiring editors, authors, and reviewers to follow our [code of conduct], and any who do not do so will lose the opportunity to review for or contribute to JoVI in the future. Part of our commitment also involves being sensitive to contributors at different stages of their careers; as such, we allow reviewers to review anonymously and authors to opt for anonymity prior to the first endorsement. We also strive for all endorsed articles to be accessible to people of different abilities."
+    "text": "JoVI is committed to diversity, equity, and inclusion (DEI). The journal strives to maintain an editorial board with diverse representation in terms of gender and gender expression, race and ethnicity, sexual orientation, age, ability, geographic location, and affiliation. We value diversity as an empowering force that leads to better, more innovative, and more impactful research. We commit to DEI by requiring editors, authors, and reviewers to follow our code of conduct, and any who do not do so will lose the opportunity to review for or contribute to JoVI in the future. Part of our commitment also involves being sensitive to contributors at different stages of their careers; as such, we allow reviewers to review anonymously and authors to opt for anonymity prior to the first endorsement. We also strive for all endorsed articles to be accessible to people of different abilities."
   },
   {
     "href": "submit.html",
