@@ -1,7 +1,18 @@
 /* css styles */
 
 .navbar {
+  background: white !important;
+  background-image: logo.svg;
   border: none;
+  border-bottom: 2px solid #9E005D;
+}
+
+.navbar-brand {
+  font-size: 0;
+}
+
+.navbar-brand > img {
+  max-height: 45px;
 }
 
 .header-section-number {

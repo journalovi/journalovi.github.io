@@ -1,11 +1,16 @@
 project:
   type: site
   output-dir: docs
+  resources:
+    - "images/*.svg"
 
 site:
   title: "JoVI"
+  image: "images/jovi.svg"
   navbar:
-    type: dark
+    title: "JoVI"
+    logo: "images/jovi.svg"
+    type: light
     background: primary
     left:
       - href: index.qmd
