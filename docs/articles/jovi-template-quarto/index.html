@@ -189,23 +189,26 @@
 </section>
 <section id="citations-and-footnotes" class="level2" data-number="2">
 <h2 data-number="2" class="anchored" data-anchor-id="citations-and-footnotes"><span class="header-section-number">2</span> Citations and footnotes</h2>
-<p>Citations can be inserted using <code>[@simkin2002read]</code>; e.g.&nbsp;[<span class="citation" data-cites="simkin2002read"><a href="#ref-simkin2002read" role="doc-biblioref">Simkin and Roychowdhury</a> (<a href="#ref-simkin2002read" role="doc-biblioref">2002</a>)</span>]. Citations for this paper are kept in <code>bibliography.bib</code> in BibTeX format.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> For more on footnotes and citations see <a href="https://quarto.org/docs/authoring/footnotes-and-citations.html">this Quarto documentation page</a>.</p>
+<p>Citations can be inserted using <code>[@simkin2002read]</code>; e.g.&nbsp;[<span class="citation" data-cites="simkin2002read"><a href="#ref-simkin2002read" role="doc-biblioref">Simkin and Roychowdhury</a> (<a href="#ref-simkin2002read" role="doc-biblioref">2002</a>)</span>]. Citations for this paper are kept in <code>bibliography.bib</code> in BibTeX format. You can also insert footnotes.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> Note that some traditional uses of footnotes (e.g.&nbsp;to include URLs) are unnecessary in JoVI, as you can (and should) instead simply link directly to the URL you want to refer to with an <a href="https://www.markdownguide.org/basic-syntax/#links">inline link</a>.</p>
+<p>For more on footnotes and citations see <a href="https://quarto.org/docs/authoring/footnotes-and-citations.html">this Quarto documentation page</a>.</p>
 </section>
 <section id="figures-and-images" class="level2" data-number="3">
 <h2 data-number="3" class="anchored" data-anchor-id="figures-and-images"><span class="header-section-number">3</span> Figures and images</h2>
 <p>Images can be included and for accessibility purposes <strong>should always</strong> have alt text. Alt text of visualizations should provide meaningful descriptions of the visualization.</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="al">![](images/teaser.svg)</span>{fig.alt="Mean expected payoff / optimal payoff for 10 conditions,</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>showing an increase over time in most conditions, with dot50 having the highest value of</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>approximately 97% of optimal."}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="al">![](images/teaser.svg)</span>{fig.alt="Mean expected payoff / optimal</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>payoff for 10 conditions, showing an increase over time in most</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>conditions, with dot50 having the highest value of</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>approximately 97% of optimal."}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p><img src="images/teaser.svg" class="img-fluid" alt="Mean expected payoff / optimal payoff for 10 conditions, showing an increase over time in most conditions, with dot50 having the highest value of approximately 97% of optimal."></p>
 <p>You can also add captions and figure references using a <code>:::</code> block combined with an id prefixed with <code>#fig-</code>:</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="al">![](images/teaser.svg)</span>{fig.alt="Mean expected payoff / optimal payoff for 10 conditions,</span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>showing an increase over time in most conditions, with dot50 having the highest value of</span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>approximately 97% of optimal."}</span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>Mean expected payoff / optimal payoff for 10 conditions.</span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>:::</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode" id="cb2"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>::: {#fig-teaser}</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="al">![](images/teaser.svg)</span>{fig.alt="Mean expected payoff / optimal</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>payoff for 10 conditions, showing an increase over time in most</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>conditions, with dot50 having the highest value of</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>approximately 97% of optimal."}</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>Mean expected payoff / optimal payoff for 10 conditions.</span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>:::</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div id="fig-teaser" class="quarto-figure quarto-figure-center anchored">
 <figure class="figure">
 <p><img src="images/teaser.svg" class="img-fluid figure-img" alt="Mean expected payoff / optimal payoff for 10 conditions, showing an increase over time in most conditions, with dot50 having the highest value of approximately 97% of optimal."></p>
@@ -243,7 +246,7 @@ Simkin, Mikhail V, and Vwani P Roychowdhury. 2002. <span>“Read Before You Cite
 <section class="footnotes" role="doc-endnotes"><h2>Footnotes</h2>
 
 <ol>
-<li id="fn1" role="doc-endnote"><p>You can also insert footnotes!<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn1" role="doc-endnote"><p>Like this one!<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
 </main>
