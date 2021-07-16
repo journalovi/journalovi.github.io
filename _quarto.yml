@@ -1,0 +1,22 @@
+project:
+  type: site
+
+site:
+  title: "JoVI"
+  navbar:
+    type: dark
+    background: primary
+    left:
+      - href: index.qmd
+        text: About
+      - href: submit.qmd
+        text: Submit
+      - href: code-of-conduct.qmd
+        text: Code of Conduct
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: true
+  freeze: true
