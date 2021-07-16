@@ -3,3 +3,5 @@ title: "Submission Instructions"
 ---
 
 TBD
+
+See the [JoVI article template](articles/jovi-template-quarto/) for more information.
