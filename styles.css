@@ -3,3 +3,10 @@
 .navbar {
   border: none;
 }
+
+.header-section-number {
+  color: #aaa;
+  float: right;
+  display: block;
+  padding-left: 0.5em;
+}

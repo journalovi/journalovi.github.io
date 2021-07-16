@@ -21,5 +21,8 @@ format:
     css: styles.css
     toc: true
 
+number-sections: true
+number-depth: 2
+
 execute:
   freeze: auto

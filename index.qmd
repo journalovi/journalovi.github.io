@@ -16,7 +16,6 @@ _The Journal of Visualization and Interaction_ (JoVI) is an **open access** publ
 
 Cross-disciplinary work from other fields such as statistics or psychology, which is relevant to the fields of visualization or human-computer interaction is also welcome. 
 
-
 ## Open by Default
 
 JoVI strongly supports transparency and openness and implements it as a default to enable readers to scrutinize and build on the research. Submitted manuscripts must link to all raw data and replication material for any empirical components, all reproducibility code for any analysis or computational component, and all other relevant research material (such as software code, interview protocols, and preregistrations – [link to policy page]). Otherwise, the submission must **explain why the material cannot be shared**, e.g., in cases of privacy concerns.
