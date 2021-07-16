@@ -19,4 +19,6 @@ format:
     theme: lumen
     css: styles.css
     toc: true
-  freeze: true
+
+execute:
+  freeze: auto
