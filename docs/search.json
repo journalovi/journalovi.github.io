@@ -1,5 +1,41 @@
 [
   {
+    "href": "articles\\jovi-template-quarto\\index.html#abstract",
+    "title": "JoVI article template",
+    "section": "Abstract",
+    "text": "All JoVI articles begin with a structured abstract. See TODO for guidance and a template for the abstract."
+  },
+  {
+    "href": "articles\\jovi-template-quarto\\index.html#setting-up-and-writing-a-jovi-article",
+    "title": "JoVI article template",
+    "section": "Setting up and writing a JoVI article",
+    "text": "JoVI articles are written in Quarto, which is a simple markdown-based text format. This template outlines some of the features that are most useful for writing academic articles in Quarto; for more visit https://quarto.org.\nYou can find the source for this article in the journalovi/jovi-template-quarto repository on Github. To create a new JoVI article, we recommend following these steps:\n\nInstall Quarto by following these instructions.\nCreate a new git repository to hold your article by forking our template repository.\n\nYou can then edit index.qmd in your new repository to write your paper. There are several options for editing and rendering the paper:\n\nYou can execute quarto serve from the commandline to render the paper to index.html and preview it in the browser.\nYou can edit the paper in RStudio and render it by clicking on the Render button: \n\nIf you plan to use RStudio, read more about RStudio and Quarto here. In particular, you should install RStudio > version 1.5, which as of this writing requires installing the latest “daily” version of RStudio. If you do, you can also enable the visual editor:"
+  },
+  {
+    "href": "articles\\jovi-template-quarto\\index.html#citations-and-footnotes",
+    "title": "JoVI article template",
+    "section": "Citations and footnotes",
+    "text": "Citations can be inserted using [@simkin2002read]; e.g. [Simkin and Roychowdhury (2002)]. Citations for this paper are kept in bibliography.bib in BibTeX format.1 For more on footnotes and citations see this Quarto documentation page."
+  },
+  {
+    "href": "articles\\jovi-template-quarto\\index.html#figures-and-images",
+    "title": "JoVI article template",
+    "section": "Figures and images",
+    "text": "Images can be included and for accessibility purposes should always have alt text. Alt text of visualizations should provide meaningful descriptions of the visualization.\n![](images/teaser.svg){fig.alt=\"Mean expected payoff / optimal payoff for 10 conditions,\nshowing an increase over time in most conditions, with dot50 having the highest value of\napproximately 97% of optimal.\"}\n\nYou can also add captions and figure references using a ::: block combined with an id prefixed with #fig-:\n![](images/teaser.svg){fig.alt=\"Mean expected payoff / optimal payoff for 10 conditions,\nshowing an increase over time in most conditions, with dot50 having the highest value of\napproximately 97% of optimal.\"}\n\nMean expected payoff / optimal payoff for 10 conditions.\n:::\n\n\n\nFigure 1: Mean expected payoff / optimal payoff for 10 conditions.\n\n\nThen you can refer to the above figure in text using @fig-teaser; for example:\nRefer to fig. 1. For the highest-quality output, we recommend using SVG figures if possible.\nQuarto also supports more complex figure layouts and subfigures; see the Quarto page on figures. For more on cross-references, see the Quarto page on cross-references."
+  },
+  {
+    "href": "articles\\jovi-template-quarto\\index.html#code",
+    "title": "JoVI article template",
+    "section": "Code",
+    "text": "Quarto supports R and python code; for example:\n\n1 + 2\n\n[1] 3"
+  },
+  {
+    "href": "articles\\jovi-template-quarto\\index.html#equations",
+    "title": "JoVI article template",
+    "section": "Equations",
+    "text": "Equations can be included using LaTeX syntax:\n\\[\nx=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a}\n\\]\nFor more on equations, see the corresponding section in the Quarto documentation.\n\n\n\nSimkin, Mikhail V, and Vwani P Roychowdhury. 2002. “Read Before You Cite!” arXiv Preprint Cond-Mat/0212043. https://arxiv.org/pdf/cond-mat/0212043."
+  },
+  {
     "href": "code-of-conduct.html#our-pledge",
     "title": "Code of Conduct",
     "section": "Our Pledge",
