@@ -152,13 +152,20 @@
   <div id="quarto-toc-sidebar" class="col col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-toc order-last"><nav id="TOC" role="doc-toc">
 <h2 id="toc-title">On this page</h2>
 <ul>
-<li><a href="#abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a></li>
-<li><a href="#setting-up-and-writing-a-jovi-article" class="nav-link" data-scroll-target="#setting-up-and-writing-a-jovi-article"> <span class="header-section-number">1</span> Setting up and writing a JoVI article</a></li>
+<li><a href="#abstract" class="nav-link active" data-scroll-target="#abstract">Abstract</a>
+<ul class="collapse">
+<li><a href="#for-all-article-types" class="nav-link" data-scroll-target="#for-all-article-types">For all article types</a></li>
+<li><a href="#for-empirical-research-reanalysis-or-meta-analysis" class="nav-link" data-scroll-target="#for-empirical-research-reanalysis-or-meta-analysis">For empirical research, reanalysis, or meta-analysis</a></li>
+<li><a href="#for-systems-or-techniques" class="nav-link" data-scroll-target="#for-systems-or-techniques"><span class="header-section-number"></span> For systems or techniques</a></li>
+<li><a href="#for-theories-or-models" class="nav-link" data-scroll-target="#for-theories-or-models"><span class="header-section-number"></span> For theories or models</a></li>
+</ul></li>
+<li><a href="#setup" class="nav-link" data-scroll-target="#setup"> <span class="header-section-number">1</span> Setting up and writing a JoVI article</a></li>
 <li><a href="#citations-and-footnotes" class="nav-link" data-scroll-target="#citations-and-footnotes"> <span class="header-section-number">2</span> Citations and footnotes</a></li>
 <li><a href="#figures-and-images" class="nav-link" data-scroll-target="#figures-and-images"> <span class="header-section-number">3</span> Figures and images</a></li>
 <li><a href="#body-text" class="nav-link" data-scroll-target="#body-text"> <span class="header-section-number">4</span> Body text</a></li>
 <li><a href="#code" class="nav-link" data-scroll-target="#code"> <span class="header-section-number">5</span> Code</a></li>
 <li><a href="#equations" class="nav-link" data-scroll-target="#equations"> <span class="header-section-number">6</span> Equations</a></li>
+<li><a href="#references" class="nav-link" data-scroll-target="#references">References</a></li>
 </ul>
 </nav></div>
   <div class="col mx-auto col-sm-12 col-md-9 col-lg-7 px-lg-4">
@@ -168,12 +175,63 @@
 <p class="author">Matthew Kay</p>
 </header>
 
+<p>This template describes how to set up the <a href="https://quarto.org/">Quarto</a> environment for writing a JoVI article, provides instructions and templates for content that must be included in every JoVI article (such as the structured abstract and authorship metadata), and gives brief examples of some useful functionality for writing papers (such as how to include figures and citations).</p>
+<p>If you have not setup <a href="https://quarto.org/">Quarto</a> or the JoVI template yet, skip to the <a href="#setup">Setup</a> section below.</p>
 <section id="abstract" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="abstract">Abstract</h2>
-<p>All JoVI articles begin with a structured abstract. See <strong>TODO</strong> for guidance and a template for the abstract.</p>
+<p>All JoVI articles begin with a structured abstract. Structured abstracts provide a succinct overview of an article using a prespecified set of sections. Which sections are used depends on the type of research and its goals. For example, articles with empirical methods must have a data collection section, while articles that do not analyze data to support a conclusion must not have the section.</p>
+<p>Your paper may fall into multiple categories. Use the templates below to fill in <strong>every</strong> subsection that applies to your paper type(s), then delete these first two paragraphs and the subsections that do not apply to your paper type(s). See <a href="../../structured-abstract-examples.html">structured abstract examples</a> for examples.</p>
+<section id="for-all-article-types" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="for-all-article-types">For all article types</h3>
+<section id="introduction" class="level4">
+<h4 class="anchored" data-anchor-id="introduction">Introduction</h4>
+<p>The research question and a succinct motivation for answering it.</p>
 </section>
-<section id="setting-up-and-writing-a-jovi-article" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="setting-up-and-writing-a-jovi-article"><span class="header-section-number">1</span> Setting up and writing a JoVI article</h2>
+<section id="conclusion" class="level4">
+<h4 class="anchored" data-anchor-id="conclusion">Conclusion</h4>
+<p>An interpretation of results, lessons learned, etc. in the context of the research question and its implications. <em>Avoid overgeneralizing</em>, and <em>avoid broad behavioral claims without strong evidence.</em></p>
+</section>
+<section id="materials" class="level4">
+<h4 class="anchored" data-anchor-id="materials">Materials</h4>
+<p>Link to repositories containing raw data, open source code or (pre-)registration number/links.</p>
+</section>
+</section>
+<section id="for-empirical-research-reanalysis-or-meta-analysis" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="for-empirical-research-reanalysis-or-meta-analysis">For empirical research, reanalysis, or meta-analysis</h3>
+<section id="data-collection-or-source" class="level4">
+<h4 class="anchored" data-anchor-id="data-collection-or-source">Data Collection or Source</h4>
+<p>An overview of experiment and/or data collection procedures. Mention if the collection was prespecified (via preregistration) or exploratory. For reanalyses or meta-analyses, citations of the original sources are sufficient. This section does not apply to articles that only use datasets for demonstrations.</p>
+</section>
+<section id="data-analysis" class="level4">
+<h4 class="anchored" data-anchor-id="data-analysis">Data Analysis</h4>
+<p>An overview of analysis approaches used as evidence for conclusions. This section does not apply to articles that only use datasets for demonstrations.</p>
+</section>
+<section id="analysis-results" class="level4">
+<h4 class="anchored" data-anchor-id="analysis-results">Analysis Results</h4>
+<p>A summary of the analysis findings</p>
+</section>
+</section>
+<section id="for-systems-or-techniques" class="level3" data-number="">
+<h3 data-number="" class="anchored" data-anchor-id="for-systems-or-techniques"><span class="header-section-number"></span> For systems or techniques</h3>
+<section id="implementation" class="level4">
+<h4 class="anchored" data-anchor-id="implementation">Implementation</h4>
+<p>How was the application or system implemented?</p>
+</section>
+<section id="demonstration" class="level4">
+<h4 class="anchored" data-anchor-id="demonstration">Demonstration</h4>
+<p>A description of any demonstrations or functionality that exemplify the utility of the system</p>
+</section>
+</section>
+<section id="for-theories-or-models" class="level3" data-number="">
+<h3 data-number="" class="anchored" data-anchor-id="for-theories-or-models"><span class="header-section-number"></span> For theories or models</h3>
+<section id="theorymodel" class="level4">
+<h4 class="anchored" data-anchor-id="theorymodel">Theory/model</h4>
+<p>A description of the theory or model, its key organizing principle, or new insights that might be gained from it</p>
+</section>
+</section>
+</section>
+<section id="setup" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="setup"><span class="header-section-number">1</span> Setting up and writing a JoVI article</h2>
 <p>JoVI articles are written in Quarto, which is a simple markdown-based text format. This template outlines some of the features that are most useful for writing academic articles in Quarto; for more visit <a href="https://quarto.org" class="uri">https://quarto.org</a>.</p>
 <p>You can find the source for this article in the <a href="https://github.com/journalovi/jovi-template-quarto">journalovi/jovi-template-quarto</a> repository on Github. To create a new JoVI article, we recommend following these steps:</p>
 <ol type="1">
@@ -183,10 +241,11 @@
 <p>You can then edit <code>index.qmd</code> in your new repository to write your paper. There are several options for editing and rendering the paper:</p>
 <ol type="1">
 <li><p>You can execute <code>quarto serve</code> from the commandline to render the paper to <code>index.html</code> and preview it in the browser.</p></li>
-<li><p>You can edit the paper in RStudio and render it by clicking on the <em>Render</em> button: <img src="images/rstudio-render-button.png" class="img-fluid" style="max-width: 382.5px" alt="Click Render in the Rstudio toolbar to render a Quarto document."></p></li>
+<li><p>You can edit the paper in RStudio and render it by clicking on the <em>Render</em> button:</p>
+<p><img src="images/rstudio-render-button.png" class="img-fluid" style="width: 382.5px" alt="Click Render in the Rstudio toolbar to render a Quarto document."></p></li>
 </ol>
 <p><strong>If you plan to use RStudio,</strong> read more about RStudio and Quarto <a href="https://quarto.org/docs/computations/using-rstudio.html">here</a>. In particular, you should install RStudio &gt; version 1.5, which as of this writing requires installing the <a href="https://dailies.rstudio.com/">latest “daily” version of RStudio</a>. If you do, you can also enable the visual editor:</p>
-<p><img src="images/rstudio-visual-editor.png" class="img-fluid" style="max-width: 554.5px" alt="Click the Settings button and then Use Visual Editor in the Rstudio toolbar to enable the visual editor."></p>
+<p><img src="images/rstudio-visual-editor.png" class="img-fluid" style="width: 554.5px" alt="Click the Settings button and then Use Visual Editor in the Rstudio toolbar to enable the visual editor."></p>
 </section>
 <section id="citations-and-footnotes" class="level2" data-number="2">
 <h2 data-number="2" class="anchored" data-anchor-id="citations-and-footnotes"><span class="header-section-number">2</span> Citations and footnotes</h2>
@@ -242,12 +301,15 @@
 x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
 \]</span></p>
 <p>For more on equations, see <a href="">the corresponding section in the Quarto documentation</a>.</p>
-<!-- -->
+</section>
+<section id="references" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="references">References</h2>
 <div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
 <div id="ref-simkin2002read" class="csl-entry" role="doc-biblioentry">
 Simkin, Mikhail V, and Vwani P Roychowdhury. 2002. <span>“Read Before You Cite!”</span> <em>arXiv Preprint Cond-Mat/0212043</em>. <a href="https://arxiv.org/pdf/cond-mat/0212043">https://arxiv.org/pdf/cond-mat/0212043</a>.
 </div>
 </div>
+<!-- -->
 </section>
 <section class="footnotes" role="doc-endnotes"><h2>Footnotes</h2>
 

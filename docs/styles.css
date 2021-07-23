@@ -1,4 +1,4 @@
-/* css styles */
+/* NAVBAR */
 
 .navbar {
   background: white !important;
@@ -12,7 +12,7 @@
 }
 
 .navbar-brand > img {
-  max-height: 45px;
+  max-height: 27px;
 }
 
 .header-section-number {
@@ -21,6 +21,47 @@
   display: block;
   padding-left: 0.5em;
   font-size: 0.75em;
+}
+
+
+/* HEADINGS */
+
+section .header-section-number {
   /* 0.25em/0.75em = 0.33em to get baseline alignment back given font size */
   padding-top: 0.33em;
+  font-weight: 300;
+}
+
+.sidebar-toc .header-section-number {
+  display: block;
+}
+
+h1, .h1 {
+  font-weight: bold;
+}
+
+h2, .h2 {
+  margin-top: 2.5rem;
+  font-size: calc(1.3rem + 0.9vw);
+}
+
+@media (min-width: 1200px) {
+  h2, .h2 {
+      font-size: 1.9rem;
+  }
+}
+
+h3, .h3 {
+  font-size: calc(1.15rem + 0.3vw);
+  font-weight: bold;
+}
+
+h4, .h4 {
+  font-size: 0.9rem;
+  font-weight: bold;
+  margin-bottom: 0;
+  margin-top: 1rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 0.01rem;
 }
