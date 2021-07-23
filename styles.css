@@ -24,6 +24,27 @@
 }
 
 
+/* LAYOUT */
+.col-lg-2 {
+  max-width: 275px;
+}
+.col-lg-7 {
+  max-width: 790px;
+}
+@media (min-width: 992px) {
+  .col-lg-2 {
+    width: 25%;
+  }
+  .col-lg-7 {
+    width: 75%;
+  }
+  .px-lg-4 {
+    padding-right: calc(var(--bs-gutter-x) / 2) !important;
+    padding-left: calc(var(--bs-gutter-x) / 2) !important;
+  }
+}
+
+
 /* HEADINGS */
 
 section .header-section-number {
