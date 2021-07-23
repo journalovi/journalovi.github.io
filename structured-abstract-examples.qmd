@@ -1,0 +1,133 @@
+---
+title: "Examples of structured abstracts"
+---
+
+Below are several examples of structured abstracts written based on existing papers in order to demonstrate their use.
+
+See the top of the [JoVI article template](http://localhost:6922/articles/jovi-template-quarto/#abstract) for the structured abstract template.
+
+
+## Perceptual proxies (empirical)
+
+Based on [Perceptual proxies for extracting averages in data visualization](https://psyarxiv.com/hsbpj/)
+
+#### Introduction
+
+Across science, education, and business, we process and communicate data visually. One bedrock finding in data visualization research is a hierarchy of precision for perceptual encodings of data, e.g., that encoding data with Cartesian positions allows more precise comparisons than encoding with sizes. But this hierarchy has only been tested for single value comparisons, under the assumption that those lessons would extrapolate to multi-value comparisons. 
+
+#### Data Collection or Source
+
+We ran four within-subject behavioral experiments (three preregistered) to measure subjects’ ability to differentiate single values or set averages. The experiments used a staircase method to measure accuracy when comparing pairs of dot plots (position), floating bar graphs (length), or regular bar graphs (position + length).
+
+#### Data Analysis
+
+We used the stopping point of the staircase to estimate the just noticeable difference and ran within-subject anovas and t-test to estimate differences between (1) chart types, (2) single values vs. set averages, and (3) set sizes.
+
+#### Analysis Results
+
+(1) Confirming known findings in the visualization literature, the results showed that single-value comparison was least precise with floating bar graphs (length only). (2) However, when comparing averages across multiple data points, the discriminability was indistinguishable between chart types. (3) An exploratory analysis found that comparisons between different set sizes reduced accuracy but not reliably for all chart types.
+
+#### Conclusion
+
+Viewers compare values using surprisingly primitive perceptual cues, e.g., the summed area of bars in a bar graph. These results highlight a critical need to study a broader constellation of visual cues that mediate the patterns that we can see in data, across visualization types and tasks.
+
+#### Materials
+
+**TBD**
+
+
+## Open practices in vis (empirical)
+
+Based on [Open practices in visualization research](https://osf.io/8ag3w/)
+
+#### Introduction
+
+Two fundamental tenets of scientific research are that it can be scrutinized and built-upon. Both require that the collected data and supporting materials be shared, so others can examine, reuse, and extend them. Assessing the accessibility of these components and the paper itself can serve as a proxy for the reliability, replicability, and applicability of a field’s research. 
+
+#### Data Collection or Source
+
+I checked all papers published in VIS in 2017 to see which were available on a preprint repository, included a preregistration, included data collection materials, included raw data, or included computation/analysis materials. 
+
+#### Data Analysis
+
+In an exploratory analysis of all VIS publications in 2017, I calculated the proportion of papers with a preprint and open practices  on a reliable open access repository or a website without long-term availability.
+
+#### Analysis Results
+
+A minority of published articles are available on an open access server, and extremely few included additional research materials on an open and reliable repository. The availability also varied by conference track.
+
+#### Conclusion
+
+The lack of open practices may severely hamper the ability to scrutinize, replicate, or reproduce visualization research. The paper provides suggestions for authors, reviewers, and editors to improve the poor state of open practices in the field.
+
+#### Materials
+
+**TBD**
+
+
+## Explorable multiverse (technique)
+
+Based on [Increasing the Transparency of Research Papers with
+Explorable Multiverse Analyses](https://hal.inria.fr/hal-01976951/document)
+
+#### Introduction
+
+We present _explorable multiverse analysis reports _(EMARs), a new approach to statistical reporting where readers of research papers can explore alternative analysis options by interacting with the paper itself. This approach draws from two ideas: _multiverse analysis_, a philosophy of statistical reporting where paper authors report the outcomes of many different statistical analyses in order to show how fragile or robust their findings are; and _explorable explanations_, narratives that can be read as normal explanations but where the reader can also become active by dynamically changing some elements of the explanation. 
+
+#### Implementation
+
+We use R scripts to build EMARs by pre-computing analysis results from every universe from a combination of all analysis parameters in a given multiverse. The output from those scripts is then presented using interactive HTML+JavaScript templates.
+
+#### Demonstration
+
+We prototype five example EMARs by re-analyzing existing papers and building interactive papers to demonstrate different interactive approaches to communicating multiverses. We show how combining multiverse analysis and explorable explanations might complement existing reporting approaches and constitute a step towards more transparent research papers. 
+
+Based on these examples and existing literature on multiverse analysis, we develop a design space for multiverse analysis reports. Our design space describes analysis parameters, analysis options, and multiplexing and aggregation techniques for summarizing and communicating multiverses. We identify several challenges to multiverse construction, including identifying simple end goals that can be multiplexed across universes (which can be easier with single statistics than entire plots, for example), and provide recommendations for writing conclusions in papers that span multiverses (to avoid authors/readers simply selecting desired results).
+
+#### Conclusion
+
+The development of tools to facilitate the multiverse analysis process within analysts' workflows remains a substantial challenge: our prototypes consist of custom R scripts and HTML templates that require significant technical expertise to develop. Automating these workflows for data analysts is an important next step.
+
+#### Materials
+
+See live demo [here](https://explorablemultiverse.github.io/). **[NOTE: for JoVI, a backup link to a permanent repository should also be included with live demo links]**
+
+
+## BinarySwipes (technique + user study)
+
+Based on [BinarySwipes: Fast List Search on Small Touchscreens](https://dl.acm.org/citation.cfm?id=3340774) (straightforward UI technique & user study) [Florian]
+
+#### Introduction
+
+We present BinarySwipes, an interaction technique based on binary search which is designed to speed up list search tasks on space-constrained touchscreens.
+
+Smartwatches and other wearables generally have small screens, thereby complicating touch-based interaction. Selection from a long list, eg to locate a contact or a music track, is particularly cumbersome due to the limited interaction space. 
+
+#### Implementation
+
+**TBD**
+
+#### Demonstration
+
+**TBD**
+
+#### Data Collection or Source
+
+We evaluate a prototypical implementation of BinarySwipes on a smartwatch with 21 participants in a controlled user study. We measure task completion time, error rate, and self-reported NASA TLX values.
+
+#### Data Analysis
+
+We analyze our data with respect to normal distribution (Shapiro-Wilk) and statistically significant differences between conditions (ANOVA with post-hoc Tukey HSD, Bonferroni correction).
+
+#### Analysis Results
+
+Results from our evaluation show improved performance over a plain linear search on lists with 100, 200 and 500 entries, but also increased mental load on the users.
+
+#### Conclusion
+
+BinarySwipes is a viable technique for quickly locating known items in long lists, but challenges remain for exploratory search, or when the presence of the item is not known in advance.
+
+#### Materials
+
+**TBD**
+
