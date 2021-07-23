@@ -3,18 +3,22 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="486px" height="477px" viewBox="0 0 486 477" style="enable-background:new 0 0 486 477;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#9E005D;}
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#9E005D;}
 </style>
 <g>
+	<rect x="0" class="st0" width="486" height="477"/>
+</g>
+<g>
 	<g>
-		<path class="st0" d="M450,36.15V198H288V36.15H450 M477,9.15H261V225h216V9.15L477,9.15z"/>
+		<path class="st1" d="M450,36.15V198H288V36.15H450 M477,9.15H261V225h216V9.15L477,9.15z"/>
 	</g>
 </g>
 <rect x="153" y="9" width="72" height="216"/>
 <rect x="153" y="252" width="72" height="144"/>
 <rect x="9" y="252" width="72" height="144"/>
 <g>
-	<rect x="333" y="81" class="st0" width="72" height="72"/>
+	<rect x="333" y="81" class="st1" width="72" height="72"/>
 </g>
 <rect x="9" y="189" width="144" height="36"/>
 <rect x="9" y="81" width="72" height="117"/>
