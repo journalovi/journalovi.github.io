@@ -14,7 +14,7 @@ _The Journal of Visualization and Interaction_ (JoVI) is an **open access** publ
 * replication studies, and 
 * comments on existing publications. 
 
-Cross-disciplinary work from other fields such as statistics or psychology, which is relevant to the fields of visualization or human-computer interaction is also welcome. 
+Cross-disciplinary work from other fields such as statistics or psychology, which is relevant to the fields of visualization or human-computer interaction, is also welcome. 
 
 ## Open by default
 
@@ -28,7 +28,7 @@ JoVI is a venue pushing the boundaries of how scholarly publications look. All a
 
 ## Credibility over novelty
 
-We consider _how research advances knowledge _rather than _superficial novelty _as a criterion for reviewing, and reviewing efforts are focused on the soundness of the methods used. Reviews aim to evaluate the credibility of a manuscript’s claims and the clarity of its evidence rather than reviewer preference. **Registered reports**, the submission of study plans prior to data collection, are therefore strongly encouraged by JoVI.
+We consider *how research advances knowledge* rather than *superficial novelty* as a criterion for reviewing, and reviewing efforts are focused on the soundness of the methods used. Reviews aim to evaluate the credibility of a manuscript’s claims and the clarity of its evidence rather than reviewer preference. **Registered reports**, the submission of study plans prior to data collection, are therefore strongly encouraged by JoVI.
 
 
 ## Corrections, comments, and continued conversation
