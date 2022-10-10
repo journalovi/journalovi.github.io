@@ -6,7 +6,7 @@ JoVI has two submission tracks: the [traditional track](#traditional) and the [e
 
 ## Traditional track {#traditional}
 
-Submission for the traditional track proceeds via ... **INSERT INFO HERE**
+Submission for the traditional track proceeds via the [OJS submission system](https://journals.aau.dk/index.php/jovi/), hosted courtesy of the Aalborg University Library. Please create an OJS account, preferably using your default institutional email address, and follow the instructions on OJS to submit your paper and supplementary materials.
 
 ## Experimental ("Github") track {#experimental}
 
