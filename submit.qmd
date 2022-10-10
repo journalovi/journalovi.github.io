@@ -8,11 +8,13 @@ JoVI has two submission tracks: the [traditional track](#traditional) and the [e
 
 Submission for the traditional track proceeds via the [OJS submission system](https://journals.aau.dk/index.php/jovi/), hosted courtesy of the Aalborg University Library. Please create an OJS account, preferably using your default institutional email address, and follow the instructions on OJS to submit your paper and supplementary materials.
 
+**INSERT DESCRIPTION OF HOW REVIEW PROCEEDS**
+
 ## Experimental ("Github") track {#experimental}
 
-The experimental track is an alternative submission and review process that manifests our commitment to experimenting with review processes. This track is less well-defined, in part because we wish it to evolve with authors as we use it.
+The experimental track is an alternative submission and review process that manifests our [commitment to experimenting with review processes](index.qmd#ambitions). This track is less well-defined, in part because we wish it to evolve with authors as we use it.
 
-All papers in the "Github" track must be written in [Quarto](https://quarto.org/), a markdown-based computational notebook format. Quarto can be used with documents written in a variety of forms (RMarkdown, Jupyter notebook, Word, Latex), and supports embedded computation (in mayn languages, including R, python, and Julia) and interactivity (using JavaScript / Observable).
+All papers in the "Github" track must be written in [Quarto](https://quarto.org/), a markdown-based computational notebook format. Quarto can be used with documents written in a variety of forms (RMarkdown, Jupyter notebook, Word, Latex), and supports embedded computation (in many languages, including R, python, and Julia) and interactivity (using JavaScript / Observable).
 
 All review on the experimental track will proceed as Github issues and pull requests, and published papers on this track can be updated using pull requests, even after publication.
 
