@@ -1,14 +1,14 @@
 ---
-title: "Submission instructions"
+title: "How to submit to JoVI"
 ---
 
-JoVI has two submission tracks: the traditional track and the experimental ("Github") track.
+JoVI has two submission tracks: the [traditional track](#traditional) and the [experimental ("Github") track](#experimental).
 
-## Traditional track
+## Traditional track {#traditional}
 
 Submission for the traditional track proceeds via ... **INSERT INFO HERE**
 
-## Experimental ("Github") track
+## Experimental ("Github") track {#experimental}
 
 The experimental track is an alternative submission and review process that manifests our commitment to experimenting with review processes. This track is less well-defined, in part because we wish it to evolve with authors as we use it.
 
