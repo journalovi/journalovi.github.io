@@ -2,6 +2,18 @@
 title: "Submission instructions"
 ---
 
-TBD
+JoVI has two submission tracks: the traditional track and the experimental ("Github") track.
 
-See the [JoVI article template](articles/jovi-template-quarto/) for more information.
+## Traditional track
+
+Submission for the traditional track proceeds via ... **INSERT INFO HERE**
+
+## Experimental ("Github") track
+
+The experimental track is an alternative submission and review process that manifests our commitment to experimenting with review processes. This track is less well-defined, in part because we wish it to evolve with authors as we use it.
+
+All papers in the "Github" track must be written in [Quarto](https://quarto.org/), a markdown-based computational notebook format. Quarto can be used with documents written in a variety of forms (RMarkdown, Jupyter notebook, Word, Latex), and supports embedded computation (in mayn languages, including R, python, and Julia) and interactivity (using JavaScript / Observable).
+
+All review on the experimental track will proceed as Github issues and pull requests, and published papers on this track can be updated using pull requests, even after publication.
+
+To submit to the experimental track, write your paper in quarto using [this template](https://github.com/journalovi/jovi-template-quarto) and then submit your article **INSERT INSTRUTIONS**.

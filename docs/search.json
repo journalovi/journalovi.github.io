@@ -112,6 +112,13 @@
     "text": "9 Inclusive\nJoVI is committed to diversity, equity, and inclusion (DEI). The journal strives to maintain an editorial board with diverse representation in terms of gender and gender expression, race and ethnicity, sexual orientation, age, ability, geographic location, and affiliation. We value diversity as an empowering force that leads to better, more innovative, and more impactful research. We commit to DEI by requiring editors, authors, and reviewers to follow our code of conduct, and any who do not do so will lose the opportunity to review for or contribute to JoVI in the future. Part of our commitment also involves being sensitive to contributors at different stages of their careers; as such, we allow reviewers to review anonymously and authors to opt for anonymity prior to the first endorsement. We also strive for all endorsed articles to be accessible to people of different abilities."
   },
   {
+    "objectID": "organizers.html",
+    "href": "organizers.html",
+    "title": "Organizers",
+    "section": "",
+    "text": "Lonni Besançon, Monash University\nFlorian Echtler, Aalborg University\nMatthew Kay, Northwestern University\nChat Wacharamanotham, Swansea University\n\nJoVI also owes a huge debt to Steve Haroz, who was instrumental in its formation and early iterations."
+  },
+  {
     "objectID": "structured-abstract-examples.html",
     "href": "structured-abstract-examples.html",
     "title": "Examples of structured abstracts",
@@ -151,6 +158,20 @@
     "href": "submit.html",
     "title": "Submission instructions",
     "section": "",
-    "text": "See the JoVI article template for more information."
+    "text": "JoVI has two submission tracks: the traditional track and the experimental (“Github”) track."
+  },
+  {
+    "objectID": "submit.html#traditional-track",
+    "href": "submit.html#traditional-track",
+    "title": "Submission instructions",
+    "section": "1 Traditional track",
+    "text": "1 Traditional track\nSubmission for the traditional track proceeds via … INSERT INFO HERE"
+  },
+  {
+    "objectID": "submit.html#experimental-github-track",
+    "href": "submit.html#experimental-github-track",
+    "title": "Submission instructions",
+    "section": "2 Experimental (“Github”) track",
+    "text": "2 Experimental (“Github”) track\nThe experimental track is an alternative submission and review process that manifests our commitment to experimenting with review processes. This track is less well-defined, in part because we wish it to evolve with authors as we use it.\nAll papers in the “Github” track must be written in Quarto, a markdown-based computational notebook format. Quarto can be used with documents written in a variety of forms (RMarkdown, Jupyter notebook, Word, Latex), and supports embedded computation (in mayn languages, including R, python, and Julia) and interactivity (using JavaScript / Observable).\nAll review on the experimental track will proceed as Github issues and pull requests, and published papers on this track can be updated using pull requests, even after publication.\nTo submit to the experimental track, write your paper in quarto using this template and then submit your article INSERT INSTRUTIONS."
   }
 ]
