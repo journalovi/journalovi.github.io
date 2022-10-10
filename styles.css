@@ -23,7 +23,7 @@
   font-size: 0.75em;
 }
 
-.navbar-dark .navbar-nav .nav-link, .navbar-dark .navbar-nav .nav-link.active {
+.navbar-dark .navbar-nav .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark  {
   color: #9E005D !important;
 }
 

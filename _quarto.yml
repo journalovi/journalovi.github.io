@@ -11,7 +11,8 @@ site:
     title: "JoVI"
     logo: "images/jovi_wordmark.svg"
     type: light
-    background: primary
+    background: light
+    foreground: dark
     left:
       - href: index.qmd
         text: About
