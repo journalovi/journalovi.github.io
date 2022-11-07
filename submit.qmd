@@ -2,13 +2,21 @@
 title: "How to submit to JoVI"
 ---
 
+Your submission will be handled by an Action Editor who will assign the submission to three expert reviewers. Review proceeds as a dialogue between authors and reviewers, with the goal of improving the work. Authors can expect that their submissions will not be rejected over easily fixable technicalities.
+
+All submitted work, reviews, and discussions will by default be publicly available for other researchers to use. To encourage accountability, editors’ names are listed on the articles they accept, and reviewers may choose to be named or anonymous. All submissions and their accompanying reviews and discussions remain accessible whether or not an article is accepted.
+
+JoVI encourages [registered reports](https://www.cos.io/initiatives/registered-reports), which consists in a two-stage submission and review. In the first stage, authors submit a paper that contains all plans, methods, and research questions prior to any data collection. Through dialogue and discussion, reviewers and authors agree on revised plans, methods, and research questions.  Then authors can collect and analyze data and write the final version of the paper, which will get a lightweight second-stage review by the same reviewers (except extenuating circumstances).
+
+
 JoVI has two submission tracks: the [traditional track](#traditional) and the [experimental ("Github") track](#experimental).
 
 ## Traditional track {#traditional}
 
-Submission for the traditional track proceeds via the [OJS submission system](https://journals.aau.dk/index.php/jovi/), hosted courtesy of the Aalborg University Library. Please create an OJS account, preferably using your default institutional email address, and follow the instructions on OJS to submit your paper and supplementary materials.
+You may prepare your paper with any academic paper template; we recommend the [ACM template](https://www.acm.org/publications/proceedings-template) or the [IEEE TVCG template](https://tc.computer.org/vgtc/publications/journal/).
 
-**INSERT DESCRIPTION OF HOW REVIEW PROCEEDS**
+Submission for the traditional track proceeds via the [OJS submission system](https://journals.aau.dk/index.php/jovi/), hosted courtesy of the Aalborg University Library. Please create an OJS account, preferably using your default institutional email address, and follow the instructions on OJS to submit your paper and supplementary materials. 
+
 
 ## Experimental ("Github") track {#experimental}
 
@@ -18,4 +26,5 @@ All papers in the "Github" track must be written in [Quarto](https://quarto.org/
 
 All review on the experimental track will proceed as Github issues and pull requests, and published papers on this track can be updated using pull requests, even after publication.
 
-To submit to the experimental track, write your paper in quarto using [this template](https://github.com/journalovi/jovi-template-quarto) and then submit your article **INSERT INSTRUTIONS**.
+To submit to the experimental track, write your paper in quarto using [this template](https://github.com/journalovi/jovi-template-quarto) and then email us your paper information and a link to your repository at **INSERT EMAIL ADDRESS**.
+
