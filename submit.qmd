@@ -6,7 +6,7 @@ Submissions are handled by an Action Editor who will assign each submission to t
 
 All submitted work, reviews, and discussions will by default be publicly available for other researchers to use. To encourage accountability, editors’ names are listed on the articles they accept, and reviewers may choose to be named or anonymous. All submissions and their accompanying reviews and discussions remain accessible whether or not an article is accepted.
 
-JoVI encourages [registered reports](https://www.cos.io/initiatives/registered-reports), which consists in a two-stage submission and review. In the first stage, authors submit a paper that contains all plans, methods, and research questions prior to any data collection. Through dialogue and discussion, reviewers and authors agree on revised plans, methods, and research questions.  Then authors can collect and analyze data and write the final version of the paper, which will get a lightweight second-stage review by the same reviewers (except extenuating circumstances).
+JoVI encourages [registered reports](https://www.cos.io/initiatives/registered-reports), which follow a two-stage submission and review process. In the first stage, authors submit a paper that contains all plans, methods, and research questions, prior to any data collection. Through dialogue and discussion, reviewers and authors agree on revised plans, methods, and research questions.  Then authors can collect and analyze data and write the final version of the paper, which will get a lightweight second-stage review by the same reviewers (except in extenuating circumstances).
 
 
 JoVI has two submission tracks: the [traditional track](#traditional) and the [experimental ("Github") track](#experimental).
