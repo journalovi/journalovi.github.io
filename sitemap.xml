@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/journalovi/journalovi.github.io/organizers.html</loc>
-    <lastmod>2022-10-10T17:20:54.937Z</lastmod>
-  </url>
-  <url>
     <loc>https://github.com/journalovi/journalovi.github.io/index.html</loc>
-    <lastmod>2022-10-10T17:20:55.773Z</lastmod>
+    <lastmod>2022-11-07T16:29:43.963Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/journalovi/journalovi.github.io/structured-abstract-examples.html</loc>
-    <lastmod>2022-10-10T17:20:56.257Z</lastmod>
+    <loc>https://github.com/journalovi/journalovi.github.io/organizers.html</loc>
+    <lastmod>2022-11-07T16:29:44.591Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/journalovi/journalovi.github.io/code-of-conduct.html</loc>
-    <lastmod>2022-10-10T17:20:56.705Z</lastmod>
+    <lastmod>2022-11-07T16:29:44.955Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/journalovi/journalovi.github.io/submit.html</loc>
-    <lastmod>2022-10-10T17:20:57.057Z</lastmod>
+    <lastmod>2022-11-07T16:29:45.287Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/journalovi/journalovi.github.io/structured-abstract-examples.html</loc>
+    <lastmod>2022-11-07T16:29:45.679Z</lastmod>
   </url>
 </urlset>
