@@ -19,6 +19,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Jessica Hullman, Northwestern University
 - Yvonne Jansen, CNRS
 - Arvind Satyanarayan, MIT CSAIL
+- Carlos Scheidegger, Posit
 - Jon Schwabish, Urban Institute
 
 ## Associate Editors
