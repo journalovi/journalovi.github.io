@@ -74,14 +74,14 @@
     "href": "index.html",
     "title": "The Journal of Visualization and Interaction",
     "section": "",
-    "text": "The Journal of Visualization and Interaction (JoVI) is a venue for publishing scholarly work related to the fields of visualization and human-computer interaction. Contributions to the journal include research in:\n\nhow people understand and interact with information and technology,\ninnovations in interaction techniques, interactive systems, or tools,\nsystematic literature reviews, and\nreplication studies\ncomments on existing publications.\n\nCross-disciplinary work from other fields such as statistics or psychology, which is relevant to the fields of visualization or human-computer interaction is also welcome.\nJoVI’s missions are the following:"
+    "text": "The Journal of Visualization and Interaction (JoVI) is a venue for publishing scholarly work related to the fields of visualization and human-computer interaction. Contributions to the journal include research in:\n\nhow people understand and interact with information and technology,\ninnovations in interaction techniques, interactive systems, or tools,\nsystematic literature reviews,\nreplication studies or reinterpretations of existing work,\nand commentary on existing publications.\n\nCross-disciplinary work from other fields such as statistics or psychology, which is relevant to the fields of visualization or human-computer interaction is also welcome.\nJoVI’s missions are the following:"
   },
   {
     "objectID": "index.html#open",
     "href": "index.html#open",
     "title": "The Journal of Visualization and Interaction",
     "section": "Open by default",
-    "text": "Open by default\nJoVI strongly supports transparency and openness and implements it as a default to enable readers to scrutinize and build on the research. All published manuscripts are open access. For any empirical components, manuscripts must make all raw data and material essential for replication available for public scrutiny. For any computational components, all codes need to be reproducible within a reasonable effort. When ethical concerns prevent submissions to meet these requirements, the manuscript must clearly describe the characteristics of these artifacts and adequately justify the tradeoff between openness and ethics."
+    "text": "Open by default\nJoVI strongly supports transparency and openness and implements it as a default to enable readers to scrutinize and build on the research. All published manuscripts are open access. For any empirical components, manuscripts must make all data and reasoning available in ways that invite scrutiny, so that subsequent researchers can assess claims, reuse methods and materials, and build upon findings. For any computational components, all code needs to be reproducible within a reasonable effort. When ethical concerns prevent submissions to meet these requirements, the manuscript must clearly describe the characteristics of these artifacts and adequately justify the tradeoff between openness and ethics."
   },
   {
     "objectID": "index.html#open-review",
