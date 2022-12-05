@@ -10,9 +10,9 @@ _The Journal of Visualization and Interaction_ (JoVI) is a venue for publishing 
 
 * how people understand and interact with information and technology, 
 * innovations in interaction techniques, interactive systems, or tools,
-* systematic literature reviews, and 
-* replication studies
-* comments on existing publications. 
+* systematic literature reviews, 
+* replication studies or reinterpretations of existing work,
+* and commentary on existing publications. 
 
 Cross-disciplinary work from other fields such as statistics or psychology, which is relevant to the fields of visualization or human-computer interaction is also welcome. 
 
@@ -21,7 +21,9 @@ JoVI’s missions are the following:
 
 ## Open by default {#open}
 
-JoVI strongly supports transparency and openness and implements it as a default to enable readers to scrutinize and build on the research. All published manuscripts are **open access**. For any empirical components, manuscripts must make all raw data and material essential for replication available for public scrutiny. For any computational components, all codes need to be reproducible within a reasonable effort. When ethical concerns prevent submissions to meet these requirements, the manuscript must clearly describe the characteristics of these artifacts and adequately justify the tradeoff between openness and ethics.
+JoVI strongly supports transparency and openness and implements it as a default to enable readers to scrutinize and build on the research. All published manuscripts are **open access**. 
+For any empirical components, manuscripts must make all data and reasoning available in ways that invite scrutiny, so that subsequent researchers can assess claims, reuse methods and materials, and build upon findings.
+For any computational components, all code needs to be reproducible within a reasonable effort. When ethical concerns prevent submissions to meet these requirements, the manuscript must clearly describe the characteristics of these artifacts and adequately justify the tradeoff between openness and ethics.
 
 
 ## Open review, comments, and continued conversation {#open-review}
