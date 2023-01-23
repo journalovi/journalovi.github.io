@@ -31,6 +31,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Yvonne Jansen, CNRS
 - Lace Padilla, University of California, Merced
 - Jon Schwabish, Urban Institute
+- Jason Dykes, City, University of London
 
 ## Publisher
 
