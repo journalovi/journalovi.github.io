@@ -11,7 +11,29 @@ The JoVI organizers (in alphabetical order) are:
 
 JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was instrumental in its formation and early iterations.
 
-# Publisher
+## Advisory Board
+
+- Pierre Dragicevic, Inria Bordeaux
+- Kasper Hornbæk, University of Copenhagen
+- Eva Hornecker, Bauhaus-Universität Weimar
+- Jessica Hullman, Northwestern University
+- Yvonne Jansen, CNRS
+- Amelia McNamara, University of St Thomas
+- Arvind Satyanarayan, MIT CSAIL
+- Carlos Scheidegger, Posit
+- Jon Schwabish, Urban Institute
+
+## Associate Editors
+
+- Leilani Battle, University of Washington
+- Niklas Elmqvist, University of Maryland, College Park
+- Lane Harrison, Worcester Polytechnic Institute
+- Yvonne Jansen, CNRS
+- Lace Padilla, University of California, Merced
+- Jon Schwabish, Urban Institute
+- Jason Dykes, City, University of London
+
+## Publisher
 
 Aalborg University Press<br/>
 Kroghstræde 3<br/>
