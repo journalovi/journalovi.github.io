@@ -1,0 +1,65 @@
+---
+title: "The Journal of Visualization and Interaction"
+subtitle: A [diamond open-access](https://en.wikipedia.org/wiki/Open_access#Diamond/platinum_OA) journal for the [InfoVis](http://ieeevis.org/) and [HCI](https://chi.acm.org/) communities.
+author: 
+  - "[Lonni Besançon](https://lonnibesancon.me/), Monash University"
+  - "[Florian Echtler](https://floe.butterbrot.org/), Aalborg University"
+  - "[Matthew Kay](https://www.mjskay.com/), Northwestern University"
+  - "Chat Wacharamanotham, Swansea University"
+freeze: true
+---
+
+### What is JoVI?
+
+_The Journal of Visualization and Interaction_ (JoVI) is a venue for publishing scholarly work related to the fields of visualization and human-computer interaction. Contributions to the journal include research in: 
+
+* how people understand and interact with information and technology, 
+* innovations in interaction techniques, interactive systems, or tools,
+* systematic literature reviews, 
+* replication studies or reinterpretations of existing work,
+* and commentary on existing publications. 
+
+Cross-disciplinary work from other fields such as statistics or psychology, which is relevant to the fields of visualization or human-computer interaction is also welcome. 
+
+JoVI’s missions are the following:
+
+
+## Open by default {#open}
+
+JoVI strongly supports transparency and openness and implements it as a default to enable readers to scrutinize and build on the research. All published manuscripts are **open access**. 
+For any empirical components, manuscripts must make all data and reasoning available in ways that invite scrutiny, so that subsequent researchers can assess claims, reuse methods and materials, and build upon findings.
+For any computational components, all code needs to be reproducible within a reasonable effort. When ethical concerns prevent submissions to meet these requirements, the manuscript must clearly describe the characteristics of these artifacts and adequately justify the tradeoff between openness and ethics.
+
+
+## Open review, comments, and continued conversation {#open-review}
+
+All submitted work, reviews, and discussions will by default be publicly available for other researchers to use. To encourage accountability, editors’ names are listed on the articles they accept, and reviewers may choose to be named or anonymous. All submissions and their accompanying reviews and discussions remain accessible whether or not an article is accepted. To foster discussions that go beyond the initial reviewer/author exchanges, we welcome post-publication commentaries on articles. 
+
+
+## Knowledge over novelty {#knowledge}
+
+We prioritize how research advances knowledge rather than superficial novelty. Reviews aim to evaluate the credibility of a manuscript’s claims and the clarity of its evidence. Contributions of interaction techniques or interactive systems may meet this knowledge criterion through existence proofs. For empirical works, JoVI encourages **registered reports**—the reviewing of study plans prior to execution—and has a process to support this type of contribution. The discourses on the merit of the manuscripts must be justified by evidence, credible literature, or cogent argument. 
+
+
+## A more humane process, respectful of everyone's time {#humane}
+
+JoVI respects the time and effort of both authors and reviewers, and aims for a collaborative, humane review process. To that end, JoVI does not publish a limited number of manuscripts and does not seek to have a certain rejection rate. Instead, review proceeds as a back and forth between authors and reviewers, with the goal of improving the work. Authors can expect that their submissions will not be rejected over easily fixable technicalities.
+
+
+## Ambitions: Experimental track for new article formats, review processes, and articles as living documents {#ambitions}
+
+In addition to the missions above, JoVI also aspires to be a platform for other improvements of scholarly communication. On an alternate, [optional submission track](submit.qmd#experimental), we will continually experiment with new article formats (including modern, interactive formats), new review processes, and articles as living documents. This experimentation will be motivated by re-conceptualizing peer review as a humane, constructive process aimed at improving work rather than gatekeeping.
+
+### Acknowledgements
+
+We would like to thank the following people (in alphabetical order) who provided input on earlier versions of our mission statement:
+Leilani Battle,
+Pierre Dragicevic,
+Niklas Elmqvist,
+Jean-Daniel Fekete,
+Maximilian Häussler,
+Steve Haroz,
+Yvonne Jansen,
+Tamara Munzner,
+Kimberly Quinn,
+Raphael Wimmer,
