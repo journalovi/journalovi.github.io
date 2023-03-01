@@ -6,7 +6,7 @@ author:
   - "[Lonni Besançon](https://lonnibesancon.me/), Linköping University"
   - "[Florian Echtler](https://floe.butterbrot.org/), Aalborg University"
   - "[Matthew Kay](https://www.mjskay.com/), Northwestern University"
-  - "Chat Wacharamanotham, Swansea University"
+  - "[Chat Wacharamanotham](https://chatchavan.github.io), Swansea University"
 format:
   pdf:
     link-citations: true
