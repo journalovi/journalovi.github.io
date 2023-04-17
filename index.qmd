@@ -4,9 +4,13 @@ bibliography: biblio.bib
 subtitle: A [diamond open-access](https://en.wikipedia.org/wiki/Open_access#Diamond/platinum_OA) journal for the [InfoVis](http://ieeevis.org/) and [HCI](https://chi.acm.org/) communities.
 freeze: true
 format:
+  html:
+    csl: empty.csl
+    myrefs: ""
   pdf:
     link-citations: true
     number-sections: true
+    myrefs: "References"
     author:
       - "[Lonni Besançon](https://lonnibesancon.me/), Linköping University"
       - "[Florian Echtler](https://floe.butterbrot.org/), Aalborg University"
@@ -69,7 +73,7 @@ Tamara Munzner,
 Kimberly Quinn,
 Raphael Wimmer.
 
-# References
+# {{< meta myrefs >}}
 
 ::: {#refs}
 :::
