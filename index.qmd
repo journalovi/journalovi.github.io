@@ -5,7 +5,8 @@ subtitle: A [diamond open-access](https://en.wikipedia.org/wiki/Open_access#Diam
 freeze: true
 format:
   html:
-    csl: empty.csl
+    filters:
+      - empty.lua
     myrefs: ""
   pdf:
     link-citations: true
