@@ -21,6 +21,8 @@ site:
         text: Code of Conduct
       - href: organizers.qmd
         text: Organizers
+      - href: contact.qmd
+        text: Contact/News
 
 format:
   html:
