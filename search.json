@@ -1,105 +1,14 @@
 [
   {
-    "objectID": "code-of-conduct.html",
-    "href": "code-of-conduct.html",
-    "title": "Code of conduct",
-    "section": "",
-    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
-  },
-  {
-    "objectID": "code-of-conduct.html#our-standards",
-    "href": "code-of-conduct.html#our-standards",
-    "title": "Code of conduct",
-    "section": "Our standards",
-    "text": "Our standards\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
-  },
-  {
-    "objectID": "code-of-conduct.html#enforcement-responsibilities",
-    "href": "code-of-conduct.html#enforcement-responsibilities",
-    "title": "Code of conduct",
-    "section": "Enforcement responsibilities",
-    "text": "Enforcement responsibilities\nCommunity leaders, including but not limited to the editorial board and associate editors, are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate."
-  },
-  {
-    "objectID": "code-of-conduct.html#scope",
-    "href": "code-of-conduct.html#scope",
-    "title": "Code of conduct",
-    "section": "Scope",
-    "text": "Scope\nThis Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, acting as an appointed representative at an online or offline event, or posting public reviews, issues, or comments on submissions."
-  },
-  {
-    "objectID": "code-of-conduct.html#enforcement",
-    "href": "code-of-conduct.html#enforcement",
-    "title": "Code of conduct",
-    "section": "Enforcement",
-    "text": "Enforcement\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at the JoVI Code of Conduct Incident Report Form. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident."
-  },
-  {
-    "objectID": "code-of-conduct.html#enforcement-guidelines",
-    "href": "code-of-conduct.html#enforcement-guidelines",
-    "title": "Code of conduct",
-    "section": "Enforcement guidelines",
-    "text": "Enforcement guidelines\nCommunity leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\nCorrection\n\nCommunity Impact\nUse of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\n\n\nConsequence\nA private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested. Editors may require that the language of a review or response be changed before allowing the message to proceed to other parties.\n\n\n\nWarning\n\nCommunity Impact\nA violation through a single incident or series of actions.\n\n\nConsequence\nA warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nTemporary ban\n\nCommunity Impact\nA serious violation of community standards, including sustained inappropriate behavior.\n\n\nConsequence\nA temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nPermanent ban\n\nCommunity Impact\nDemonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\n\n\nConsequence\nA permanent ban from any sort of public interaction within the community."
-  },
-  {
-    "objectID": "code-of-conduct.html#attribution",
-    "href": "code-of-conduct.html#attribution",
-    "title": "Code of conduct",
-    "section": "Attribution",
-    "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.0.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about the Contributor Covenant, see the FAQ. Translations are available here."
-  },
-  {
-    "objectID": "submit.html",
-    "href": "submit.html",
-    "title": "How to submit to JoVI",
-    "section": "",
-    "text": "Submissions are handled by an Action Editor who will assign each submission to three expert reviewers. Review proceeds as a dialogue between authors and reviewers, with the goal of improving the work. Authors can expect that their submissions will not be rejected over easily fixable technicalities.\nAll submitted work, reviews, and discussions will by default be publicly available for other researchers to use. To encourage accountability, editors’ names are listed on the articles they accept, and reviewers may choose to be named or anonymous. All submissions and their accompanying reviews and discussions remain accessible whether or not an article is accepted.\nJoVI encourages registered reports, which follow a two-stage submission and review process. In the first stage, authors submit a paper that contains all plans, methods, and research questions, prior to any data collection. Through dialogue and discussion, reviewers and authors agree on revised plans, methods, and research questions. Then authors can collect and analyze data and write the final version of the paper, which will get a lightweight second-stage review by the same reviewers (except in extenuating circumstances).\nJoVI has two submission tracks: the traditional track and the experimental (“Github”) track."
-  },
-  {
-    "objectID": "submit.html#traditional",
-    "href": "submit.html#traditional",
-    "title": "How to submit to JoVI",
-    "section": "Traditional track",
-    "text": "Traditional track\nYou may prepare your paper with any academic paper template; we recommend the ACM template or the IEEE TVCG template.\nSubmission for the traditional track proceeds via the OJS submission system, hosted courtesy of the Aalborg University Library. Please create an OJS account, preferably using your default institutional email address, and follow the instructions on OJS to submit your paper and supplementary materials."
-  },
-  {
-    "objectID": "submit.html#experimental",
-    "href": "submit.html#experimental",
-    "title": "How to submit to JoVI",
-    "section": "Experimental (“Github”) track",
-    "text": "Experimental (“Github”) track\nThe experimental track is an alternative submission and review process that manifests our commitment to experimenting with review processes. This track is less well-defined, in part because we wish it to evolve with authors as we use it.\nAll papers in the “Github” track must be written in Quarto, a markdown-based computational notebook format. Quarto can be used with documents written in a variety of forms (RMarkdown, Jupyter notebook, Word, Latex), and supports embedded computation (in many languages, including R, python, and Julia) and interactivity (using JavaScript / Observable).\nAll review on the experimental track will proceed as Github issues and pull requests, and published papers on this track can be updated using pull requests, even after publication.\nTo submit to the experimental track, write your paper in quarto using this template and then email us your paper information and a link to your repository at submit@journalovi.org."
-  },
-  {
-    "objectID": "organizers.html",
-    "href": "organizers.html",
-    "title": "Organizers",
-    "section": "",
-    "text": "The JoVI organizers (in alphabetical order) are:\nJoVI also owes a huge debt to Steve Haroz, who was instrumental in its formation and early iterations."
-  },
-  {
-    "objectID": "organizers.html#advisory-board",
-    "href": "organizers.html#advisory-board",
-    "title": "Organizers",
-    "section": "Advisory Board",
-    "text": "Advisory Board\n\nPierre Dragicevic, Inria Bordeaux\nKasper Hornbæk, University of Copenhagen\nEva Hornecker, Bauhaus-Universität Weimar\nJessica Hullman, Northwestern University\nYvonne Jansen, CNRS\nAmelia McNamara, University of St Thomas\nArvind Satyanarayan, MIT CSAIL\nCarlos Scheidegger, Posit\nJon Schwabish, Urban Institute"
-  },
-  {
-    "objectID": "organizers.html#associate-editors",
-    "href": "organizers.html#associate-editors",
-    "title": "Organizers",
-    "section": "Associate Editors",
-    "text": "Associate Editors\n\nLeilani Battle, University of Washington\nNiklas Elmqvist, University of Maryland, College Park\nLane Harrison, Worcester Polytechnic Institute\nYvonne Jansen, CNRS\nLace Padilla, University of California, Merced\nJon Schwabish, Urban Institute\nJason Dykes, City, University of London"
-  },
-  {
-    "objectID": "organizers.html#publisher",
-    "href": "organizers.html#publisher",
-    "title": "Organizers",
-    "section": "Publisher",
-    "text": "Publisher\nAalborg University Press Kroghstræde 3 9220 Aalborg Ø DENMARK"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "The Journal of Visualization and Interaction",
+    "section": "",
+    "text": "The Journal of Visualization and Interaction (JoVI) is a venue for publishing scholarly work related to the fields of visualization and human-computer interaction. Contributions to the journal include research in:\n\nhow people understand and interact with information and technology,\ninnovations in interaction techniques, interactive systems, or tools,\nsystematic literature reviews,\nreplication studies or reinterpretations of existing work,\nand commentary on existing publications.\n\nCross-disciplinary work from other fields such as statistics or psychology, which is relevant to the fields of visualization or human-computer interaction is also welcome.\nJoVI’s missions are the following:"
+  },
+  {
+    "objectID": "index.html#what-is-jovi",
+    "href": "index.html#what-is-jovi",
     "title": "The Journal of Visualization and Interaction",
     "section": "",
     "text": "The Journal of Visualization and Interaction (JoVI) is a venue for publishing scholarly work related to the fields of visualization and human-computer interaction. Contributions to the journal include research in:\n\nhow people understand and interact with information and technology,\ninnovations in interaction techniques, interactive systems, or tools,\nsystematic literature reviews,\nreplication studies or reinterpretations of existing work,\nand commentary on existing publications.\n\nCross-disciplinary work from other fields such as statistics or psychology, which is relevant to the fields of visualization or human-computer interaction is also welcome.\nJoVI’s missions are the following:"
@@ -173,5 +82,117 @@
     "title": "Examples of structured abstracts",
     "section": "BinarySwipes (technique + user study)",
     "text": "BinarySwipes (technique + user study)\nBased on BinarySwipes: Fast List Search on Small Touchscreens (straightforward UI technique & user study) [Florian]\n\nIntroduction\nWe present BinarySwipes, an interaction technique based on binary search which is designed to speed up list search tasks on space-constrained touchscreens.\nSmartwatches and other wearables generally have small screens, thereby complicating touch-based interaction. Selection from a long list, eg to locate a contact or a music track, is particularly cumbersome due to the limited interaction space.\n\n\nImplementation\nTBD\n\n\nDemonstration\nTBD\n\n\nData Collection or Source\nWe evaluate a prototypical implementation of BinarySwipes on a smartwatch with 21 participants in a controlled user study. We measure task completion time, error rate, and self-reported NASA TLX values.\n\n\nData Analysis\nWe analyze our data with respect to normal distribution (Shapiro-Wilk) and statistically significant differences between conditions (ANOVA with post-hoc Tukey HSD, Bonferroni correction).\n\n\nAnalysis Results\nResults from our evaluation show improved performance over a plain linear search on lists with 100, 200 and 500 entries, but also increased mental load on the users.\n\n\nConclusion\nBinarySwipes is a viable technique for quickly locating known items in long lists, but challenges remain for exploratory search, or when the presence of the item is not known in advance.\n\n\nMaterials\nTBD"
+  },
+  {
+    "objectID": "submit.html",
+    "href": "submit.html",
+    "title": "How to submit to JoVI",
+    "section": "",
+    "text": "Submissions are handled by an Action Editor who will assign each submission to three expert reviewers. Review proceeds as a dialogue between authors and reviewers, with the goal of improving the work. Authors can expect that their submissions will not be rejected over easily fixable technicalities.\nAll submitted work, reviews, and discussions will by default be publicly available for other researchers to use. To encourage accountability, editors’ names are listed on the articles they accept, and reviewers may choose to be named or anonymous. All submissions and their accompanying reviews and discussions remain accessible whether or not an article is accepted.\nJoVI encourages registered reports, which follow a two-stage submission and review process. In the first stage, authors submit a paper that contains all plans, methods, and research questions, prior to any data collection. Through dialogue and discussion, reviewers and authors agree on revised plans, methods, and research questions. Then authors can collect and analyze data and write the final version of the paper, which will get a lightweight second-stage review by the same reviewers (except in extenuating circumstances).\nJoVI has two submission tracks: the traditional track and the experimental (“Github”) track."
+  },
+  {
+    "objectID": "submit.html#traditional",
+    "href": "submit.html#traditional",
+    "title": "How to submit to JoVI",
+    "section": "Traditional track",
+    "text": "Traditional track\nYou may prepare your paper with any academic paper template; we recommend the ACM template or the IEEE TVCG template.\nSubmission for the traditional track proceeds via the OJS submission system, hosted courtesy of the Aalborg University Library. Please create an OJS account, preferably using your default institutional email address, and follow the instructions on OJS to submit your paper and supplementary materials."
+  },
+  {
+    "objectID": "submit.html#experimental",
+    "href": "submit.html#experimental",
+    "title": "How to submit to JoVI",
+    "section": "Experimental (“Github”) track",
+    "text": "Experimental (“Github”) track\nThe experimental track is an alternative submission and review process that manifests our commitment to experimenting with review processes. This track is less well-defined, in part because we wish it to evolve with authors as we use it.\nAll papers in the “Github” track must be written in Quarto, a markdown-based computational notebook format. Quarto can be used with documents written in a variety of forms (RMarkdown, Jupyter notebook, Word, Latex), and supports embedded computation (in many languages, including R, python, and Julia) and interactivity (using JavaScript / Observable).\nAll review on the experimental track will proceed as Github issues and pull requests, and published papers on this track can be updated using pull requests, even after publication.\nTo submit to the experimental track, write your paper in quarto using this template and then email us your paper information and a link to your repository at submit@journalovi.org."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact and News",
+    "section": "",
+    "text": "Mailing Lists\n\nGeneral announcement mailing list\nAssociate Editors\nOrganizing Committee\n\n\n\nSocial Media\n\nPublication RSS Feed\nTwitter\nMastodon"
+  },
+  {
+    "objectID": "code-of-conduct.html",
+    "href": "code-of-conduct.html",
+    "title": "Code of conduct",
+    "section": "",
+    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
+  },
+  {
+    "objectID": "code-of-conduct.html#our-pledge",
+    "href": "code-of-conduct.html#our-pledge",
+    "title": "Code of conduct",
+    "section": "",
+    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
+  },
+  {
+    "objectID": "code-of-conduct.html#our-standards",
+    "href": "code-of-conduct.html#our-standards",
+    "title": "Code of conduct",
+    "section": "Our standards",
+    "text": "Our standards\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
+  },
+  {
+    "objectID": "code-of-conduct.html#enforcement-responsibilities",
+    "href": "code-of-conduct.html#enforcement-responsibilities",
+    "title": "Code of conduct",
+    "section": "Enforcement responsibilities",
+    "text": "Enforcement responsibilities\nCommunity leaders, including but not limited to the editorial board and associate editors, are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate."
+  },
+  {
+    "objectID": "code-of-conduct.html#scope",
+    "href": "code-of-conduct.html#scope",
+    "title": "Code of conduct",
+    "section": "Scope",
+    "text": "Scope\nThis Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, acting as an appointed representative at an online or offline event, or posting public reviews, issues, or comments on submissions."
+  },
+  {
+    "objectID": "code-of-conduct.html#enforcement",
+    "href": "code-of-conduct.html#enforcement",
+    "title": "Code of conduct",
+    "section": "Enforcement",
+    "text": "Enforcement\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at the JoVI Code of Conduct Incident Report Form. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident."
+  },
+  {
+    "objectID": "code-of-conduct.html#enforcement-guidelines",
+    "href": "code-of-conduct.html#enforcement-guidelines",
+    "title": "Code of conduct",
+    "section": "Enforcement guidelines",
+    "text": "Enforcement guidelines\nCommunity leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\nCorrection\n\nCommunity Impact\nUse of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\n\n\nConsequence\nA private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested. Editors may require that the language of a review or response be changed before allowing the message to proceed to other parties.\n\n\n\nWarning\n\nCommunity Impact\nA violation through a single incident or series of actions.\n\n\nConsequence\nA warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nTemporary ban\n\nCommunity Impact\nA serious violation of community standards, including sustained inappropriate behavior.\n\n\nConsequence\nA temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nPermanent ban\n\nCommunity Impact\nDemonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\n\n\nConsequence\nA permanent ban from any sort of public interaction within the community."
+  },
+  {
+    "objectID": "code-of-conduct.html#attribution",
+    "href": "code-of-conduct.html#attribution",
+    "title": "Code of conduct",
+    "section": "Attribution",
+    "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.0.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about the Contributor Covenant, see the FAQ. Translations are available here."
+  },
+  {
+    "objectID": "organizers.html",
+    "href": "organizers.html",
+    "title": "Organizers",
+    "section": "",
+    "text": "The JoVI organizers (in alphabetical order) are:\nJoVI also owes a huge debt to Steve Haroz, who was instrumental in its formation and early iterations."
+  },
+  {
+    "objectID": "organizers.html#advisory-board",
+    "href": "organizers.html#advisory-board",
+    "title": "Organizers",
+    "section": "Advisory Board",
+    "text": "Advisory Board\n\nPierre Dragicevic, Inria Bordeaux\nKasper Hornbæk, University of Copenhagen\nEva Hornecker, Bauhaus-Universität Weimar\nJessica Hullman, Northwestern University\nYvonne Jansen, CNRS\nAmelia McNamara, University of St Thomas\nArvind Satyanarayan, MIT CSAIL\nCarlos Scheidegger, Posit\nJon Schwabish, Urban Institute"
+  },
+  {
+    "objectID": "organizers.html#associate-editors",
+    "href": "organizers.html#associate-editors",
+    "title": "Organizers",
+    "section": "Associate Editors",
+    "text": "Associate Editors\n\nLeilani Battle, University of Washington\nNiklas Elmqvist, University of Maryland, College Park\nLane Harrison, Worcester Polytechnic Institute\nYvonne Jansen, CNRS\nLace Padilla, University of California, Merced\nJon Schwabish, Urban Institute\nJason Dykes, City, University of London"
+  },
+  {
+    "objectID": "organizers.html#publisher",
+    "href": "organizers.html#publisher",
+    "title": "Organizers",
+    "section": "Publisher",
+    "text": "Publisher\nAalborg University Press Kroghstræde 3 9220 Aalborg Ø DENMARK"
   }
 ]
