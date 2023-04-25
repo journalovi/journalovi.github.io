@@ -1,10 +1,12 @@
 project:
-  type: site
+  type: website
   resources:
     - "images/*.svg"
+    - "CNAME"
 
-site:
+website:
   title: "JoVI"
+  site-url: https://journalovi.org
   image: images/jovi_wordmark.svg
   favicon: images/jovi_logo.svg
   navbar:
