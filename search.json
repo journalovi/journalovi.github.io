@@ -105,13 +105,6 @@
     "text": "Experimental (“Github”) track\nThe experimental track is an alternative submission and review process that manifests our commitment to experimenting with review processes. This track is less well-defined, in part because we wish it to evolve with authors as we use it.\nAll papers in the “Github” track must be written in Quarto, a markdown-based computational notebook format. Quarto can be used with documents written in a variety of forms (RMarkdown, Jupyter notebook, Word, Latex), and supports embedded computation (in many languages, including R, python, and Julia) and interactivity (using JavaScript / Observable).\nAll review on the experimental track will proceed as Github issues and pull requests, and published papers on this track can be updated using pull requests, even after publication.\nTo submit to the experimental track, write your paper in quarto using this template and then email us your paper information and a link to your repository at submit@journalovi.org."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact and News",
-    "section": "",
-    "text": "Mailing Lists\n\nGeneral announcement mailing list\nAssociate Editors\nOrganizing Committee\n\n\n\nSocial Media\n\nPublication RSS Feed\nTwitter\nMastodon"
-  },
-  {
     "objectID": "code-of-conduct.html",
     "href": "code-of-conduct.html",
     "title": "Code of conduct",
@@ -168,11 +161,32 @@
     "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.0.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about the Contributor Covenant, see the FAQ. Translations are available here."
   },
   {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "To keep up with JoVI announcements, such as new papers or calls, subscribe to the general announcement mailing list or one of our social media channels below."
+  },
+  {
+    "objectID": "news.html#mailing-list",
+    "href": "news.html#mailing-list",
+    "title": "News",
+    "section": "Mailing List",
+    "text": "Mailing List\n\nGeneral announcement mailing list"
+  },
+  {
+    "objectID": "news.html#social-media",
+    "href": "news.html#social-media",
+    "title": "News",
+    "section": "Social Media",
+    "text": "Social Media\n\nPublication RSS Feed\nTwitter\nMastodon"
+  },
+  {
     "objectID": "organizers.html",
     "href": "organizers.html",
     "title": "Organizers",
     "section": "",
-    "text": "The JoVI organizers (in alphabetical order) are:\nJoVI also owes a huge debt to Steve Haroz, who was instrumental in its formation and early iterations."
+    "text": "To contact the JoVI organizing committee, email organizers@journalovi.org. For submission inquiries, email submit@journalovi.org.\nThe JoVI organizers (in alphabetical order) are:\nJoVI also owes a huge debt to Steve Haroz, who was instrumental in its formation and early iterations."
   },
   {
     "objectID": "organizers.html#advisory-board",
