@@ -2,13 +2,23 @@
 title: "Contact and News"
 ---
 
-# Mailing Lists
+To keep up with JoVI announcements, such as new papers or calls, subscribe to the
+[general announcement mailing list](https://groups.google.com/g/jovi-general) or
+one of our social media channels below.
+
+Please direct general inquiries to the Organizing Committee.
+
+## Contact
+
+  * Organizing Committee: [organizers@journalovi.org](mailto:organizers@journalovi.org)
+  * Submission Inquiries: [submit@journalovi.org](mailto:submit@journalovi.org)
+  * Associate Editors: [editors@journalovi.org](mailto:editors@journalovi.org)
+
+## Mailing List
 
   * [General announcement mailing list](https://groups.google.com/g/jovi-general)
-  * [Associate Editors](mailto:editors@journalovi.org)
-  * [Organizing Committee](mailto:organizers@journalovi.org)
   
-# Social Media
+## Social Media
 
   * [Publication RSS Feed](https://journals.aau.dk/index.php/jovi/gateway/plugin/WebFeedGatewayPlugin/rss2)
   * [Twitter](https://twitter.com/journalovi)
