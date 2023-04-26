@@ -10,7 +10,7 @@ format:
     myrefs: ""
   pdf:
     link-citations: true
-    number-sections: true
+    number-sections: false
     myrefs: "References"
     author:
       - "[Lonni Besançon](https://lonnibesancon.me/), Linköping University"
@@ -19,7 +19,7 @@ format:
       - "[Chat Wacharamanotham](https://chatchavan.github.io), Swansea University"
 ---
 
-# What is JoVI?
+## What is JoVI?
 
 _The Journal of Visualization and Interaction_ (JoVI) is a venue for publishing scholarly work related to the fields of visualization and human-computer interaction. Contributions to the journal include research in: 
 
@@ -60,7 +60,7 @@ JoVI respects the time and effort of both authors and reviewers, and aims for a 
 
 In addition to the missions above, JoVI also aspires to be a platform for other improvements of scholarly communication. On an alternate, [optional submission track](submit.qmd#experimental), we will continually experiment with new article formats (including modern, interactive formats), new review processes, and articles as living documents. This experimentation will be motivated by re-conceptualizing peer review as a humane, constructive process aimed at improving work rather than gatekeeping.
 
-# Acknowledgements {#acks}
+## Acknowledgements {#acks}
 
 We would like to thank the following people (in alphabetical order) who provided input on earlier versions of our mission statement:
 Leilani Battle,
