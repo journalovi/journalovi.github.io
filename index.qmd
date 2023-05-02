@@ -3,6 +3,7 @@ title: "The Journal of Visualization and Interaction"
 bibliography: biblio.bib
 subtitle: A [diamond open-access](https://en.wikipedia.org/wiki/Open_access#Diamond/platinum_OA) journal for the [InfoVis](http://ieeevis.org/) and [HCI](https://chi.acm.org/) communities.
 freeze: true
+sidebar: false
 format:
   html:
     filters:

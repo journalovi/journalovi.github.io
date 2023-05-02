@@ -1,5 +1,6 @@
 ---
 title: "News"
+sidebar: false
 ---
 
 To keep up with JoVI announcements, such as new papers or calls, subscribe to the

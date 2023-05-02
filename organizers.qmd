@@ -1,5 +1,6 @@
 ---
 title: "Organizers"
+sidebar: false
 ---
 
 To contact the JoVI organizing committee, email [organizers@journalovi.org](mailto:organizers@journalovi.org).
