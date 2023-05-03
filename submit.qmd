@@ -35,7 +35,7 @@ To submit:
     * Add title and abstract
     * Add co-authors: click *add contributor*, fill form
         * Select *Author* as role
-        * *Include contributor in browse lists* -> people can be found from internal search
+        * If you create accounts for your co-authors, we recommend ticking *Include contributor in browse lists* so that co-authors' accounts can be found later in search boxes.
     * Optional: fill in extra metadata
     * Click *Save and continue*
 5. Confirmation:
