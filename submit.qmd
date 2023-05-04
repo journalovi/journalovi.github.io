@@ -1,5 +1,6 @@
 ---
-title: "How to submit to JoVI"
+title: "How to submit"
+sidebar: false
 ---
 
 Submissions are handled by an Action Editor who will assign each submission to three expert reviewers. Review proceeds as a dialogue between authors and reviewers, with the goal of improving the work. Authors can expect that their submissions will not be rejected over easily fixable technicalities.
@@ -17,6 +18,28 @@ You may prepare your paper with any academic paper template; we recommend the [A
 
 Submission for the traditional track proceeds via the [OJS submission system](https://journals.aau.dk/index.php/jovi/), hosted courtesy of the Aalborg University Library. Please create an OJS account, preferably using your default institutional email address, and follow the instructions on OJS to submit your paper and supplementary materials. 
 
+To submit:
+
+1. Please read the [Author Guidelines](author-guide.qmd), even if you are a seasoned HCI/VIS researcher. JoVI's process and expectations may be a bit different from what you are used to. 
+2. Start:
+    * Go to [JoVI's OJS page](https://journals.aau.dk/index.php/jovi/submission/wizard)
+    * Create an account and/or log in, if needed
+    * Read and tick all checkboxes
+    * Click *Save and continue*
+3. Upload submission:
+    * Click *Add file*, upload main PDF
+    * Select "article text" as type
+    * Upload other files, if desired. For example, if you are submitting anonymously, you may need to upload non-anonymous versions of some information for the editors to review. See the [author guide](author-guide.qmd#sections).
+    * Click *Save and continue*
+4. Enter Metadata:
+    * Add title and abstract
+    * Add co-authors: click *add contributor*, fill form
+        * Select *Author* as role
+        * If you create accounts for your co-authors, we recommend ticking *Include contributor in browse lists* so that co-authors' accounts can be found later in search boxes.
+    * Optional: fill in extra metadata
+    * Click *Save and continue*
+5. Confirmation:
+    * Click *Finish submission*
 
 ## Experimental ("Github") track {#experimental}
 

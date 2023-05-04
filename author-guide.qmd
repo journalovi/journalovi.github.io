@@ -1,0 +1,185 @@
+---
+title: "Author guidelines"
+sidebar: false
+---
+
+## What types of articles can I submit?
+
+Articles with different purposes take on different forms. All research articles are expected to comply with JOVI's standards of validated and open evidence. Articles may fall under multiple types. Examples of different types of articles include:
+
+An **empirical research article** draws generalizable or transferable conclusions about visualization and/or interaction using methods and results that have not been described or published in another peer-reviewed venue. Also in this type are **replication studies** that improve or challenge existing knowledge through better methodology than the original studies (e.g., higher statistical power, improved methods, new population). Further examples: empirical measurements, reanalyses, meta-analyses, systematic literature reviews.
+
+A\*\* registered report (RR)\*\* is a subtype of the empirical research articles with two stages: In the initial submission, the motivation, methods, and potential interpretation of methods are described, but the data collection has not yet been performed. The reviewers can evaluate and recommend revision prior to the authors collecting data. Once the initial stage is accepted, the authors can run the study knowing that the results will not impact whether the study is published. The second stage of review primarily checks that the authors stuck to the original plan, documented any deviations, and drew appropriate conclusions. For more information, see [Registered Reports](http://cos.io/rr) at COS.
+
+A **systems or design research article** extends what is possible in visualization and interactions, including interaction techniques, interactive systems, and tools. Articles in this type could also describe a design or engineering process that improves in, e.g., reusability, replicability, availability, efficiency, robustness, sustainability, or economy.
+
+**Commentary** enables the field to recognize unseen phenomena, see new perspectives, or challenge the status quo. For example, a commentary might describe concerns related to the methodology, analysis, interpretation, or generalization of previous work, or suggest new directions for the field as a whole. It does not need to collect any new evidence, as it simply needs to explain the issue. Comments may be about JOVI articles or any article related to visualization or human-computer interaction.
+
+A **literature review** or **meta analysis article** provides an overview over a subarea of our research field, by summarizing, contextualizing, and categorizing a (usually larger) body of previous work.
+
+### Previously-published work
+
+JoVI does not accept work that has been published in other peer-reviewed journals or conferences or work that has been plagiarized without citation from other authors. Note that this is different from claims about the superficial novelty of a work.
+
+*Exception:* Because methods and procedures are not copyrightable ([17 U.S. Code §102(b)](https://www.law.cornell.edu/uscode/text/17/102)), they may be copied from any source. However, the original work should be clearly cited.
+
+## What do I need to make a submission?
+
+### Submission template
+
+You may use a template that you are familiar with, from IEEE, ACM, EuroGraphics, APA, or other well-known journals or conferences. We strongly recommend using either the IEEE or ACM single-column style for your submissions.
+
+However, JoVI has the following additional requirements:
+
+-   Paper size: Either ISO A4 or US-Letter.
+-   The page orientation must be portrait.
+-   The layout is single-column.
+-   Line heights for body text between 1.0x and 1.7x. Double-spaced body text, which is common in APA submissions, is not allowed.
+-   We recommend 1.2x line spacing and a single column with 1.5-inch margins on the sides.
+-   Figures, tables, and their captions must be in the body text rather than all at the end.
+
+### Sections {#sections}
+
+We expect the following sections in the paper:
+
+-   Abstract
+-   (*contents of the paper*...)
+-   References
+-   Research material statements\*
+-   Authorship\*
+-   License
+-   Conflict of interest\*
+-   Appendices (optional)
+
+If you wish to use anonymized review, ensure that all of the above sections in the paper are appropriately anonymized (e.g., for the Research materials section, include anonymized links to the research materials). Additionally, non-anonymized versions of the sections marked with (\*) should be submitted as a separate PDF---which will be seen only by the editors.
+
+#### Abstract
+
+JOVI encourages you to use structured abstracts, with distinct, labeled sections for rapid comprehension. Here are examples of sections you may want to include in your abstract:
+
+|                 |                 |
+|-----------------|-----------------|
+| Introduction    |                 |
+| Data collection | Implementation  |
+| Data analysis   | Demonstration   |
+| Results         | Lessons learned |
+| Materials       |                 |
+| Conclusion      |                 |
+
+#### Research material statements
+
+Provide a URL to a repository containing raw data, open-source code, or (pre-)registrations, study materials, and any other supplemental materials or materials for reproducing this work. See [Transparency and open research requirements](#transparency-requirements) for information on valid repositories below.
+
+If materials cannot be shared at all or in the raw form, provide an explanation here.
+
+#### Authorship
+
+Articles with multiple authors must describe the contributions of each author at the end of the article. Use the [Contributor Roles Taxonomy (CRediT)](https://www.elsevier.com/authors/policies-and-guidelines/credit-author-statement).
+
+-   A role may be performed by multiple authors
+-   Not all roles are needed for every article
+-   If an author of your paper performed a role not listed in the CRediT taxonomy, you can add it, but please do so sparingly.
+
+#### License
+
+JOVI articles are published with a [CC-BY license](https://creativecommons.org/licenses/by/4.0/) or [CC-BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).
+
+For a CC-BY license, include the following text in your initial submission:
+
+> This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+For a CC-BY-SA license, include the following text in your initial submission:
+
+> This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+#### Conflicts of interest
+
+All submissions must include a statement about potential conflicts of interest, including activities that potentially confer material or non-material rewards on the authors in connection with the topic of the article. The simplest example: "The authors declare that there are no competing interests."
+
+### Page length
+
+JoVI enforces no page limits on submissions. The page length of a paper should be commensurate with its contribution. Overly long papers are wasteful of the time of both readers and reviewers.
+
+The corollary of this is that there is also no minimum page count for JoVI papers; short 2-page papers are encouraged if they represent small yet useful ideas of general value to the visualization and interaction community.
+
+### Delivery format
+
+Deliver the article in one PDF file. If the paper will be reviewed anonymously, include a non-anonymized version in a separate PDF (this will not be released to reviewers).
+
+## Transparency and open research requirements {#transparency-requirements}
+
+JOVI has implemented "Level 2" of the Transparency and Openness Promotion guidelines, which requires openness and transparency of any data and procedures used to produce results.
+
+A [summary table](https://osf.io/2cz65/) and the [full guidelines](https://osf.io/rmy9n/) are available from the Center for Open Science. Here is a brief overview:
+
+-   **Preregistration:** If a preregistration was made as part of the research, it must be reported. Any deviations or additional analyses must also be explained and reported as exploratory. Work without a preregistration must be reported as exploratory.
+-   **Data collection material:** Any code, stimuli, questionnaires, or other materials used to collect empirical data must be provided along with instructions and documentation needed to replicate the procedure.
+-   **Empirical data:** Any data collected as evidence must be reported in as raw a form as possible. Aggregation and preprocessing should be avoided unless there is a documented explanation. However, a "cleaned" or simplified version of the data may also be included for convenience.\
+    *Exceptions to this rule will only be granted in extraordinary cases, and only after careful ruling out of alternative options (e.g., adding noise to data to de-identify it).*
+-   **Code and analyses:** Any code or analyses used to produce results must be provided and should be described and documented in enough detail to be easily reproduced.\
+
+If any of these artifacts are not used as part of the article (e.g., for a comment article), authors are of course not required to provide them.
+
+### What if my data has private or personally identifiable information?
+
+You can use a protected-access repository. See [OSF's list of protected access repositories](https://osf.io/tvyxz/wiki/8.%2520Approved%2520Protected%2520Access%2520Repositories/).
+
+JOVI recommends [Databrary](https://nyu.databrary.org/). Although the description on their website emphasizes video and audio, they also accept other data types such as transcripts.
+
+### Where do I share code, data, and other materials?
+
+The [Open Science Framework](https://osf.io) is JOVI's recommended repository for all supplemental material. Any repository that is compatible with the [FAIR principles](https://www.go-fair.org/fair-principles/) is also acceptable as long as the repository:
+
+1.  provides a unique immutable identifier
+2.  time-stamps each version or update
+3.  content is interoperable and accessibly documented
+4.  has a long-term plan for persistence
+
+A list of many compliant repositories is available at [www.re3data.org](http://www.re3data.org).
+
+### Non-compliant repositories
+
+-   **Github:** Github does not meet standards for persistence and immutability. However, you can use OSF ([instructions](https://help.osf.io/hc/en-us/sections/360003623833-Storage-add-ons)) or Zenodo ([instructions](https://guides.github.com/activities/citable-code/)) to create a persistent copy of a Github Repository. Note that for OSF, you need to make a "registration" to archive the Github content; otherwise, it simply acts as a portal.
+-   **Personal or lab website:** These websites are not immutable and are practically never persistent.
+
+### What if my data is too large for OSF?
+
+OSF will work for files up to 1 GB. For larger datasets, try a service such as [Data Dryad](https://datadryad.org/). Feel free to ask the editors for help.
+
+### Making the repository anonymous
+
+To submit an OSF repository with an anonymous submission:
+
+1.  Ensure that the repository is private
+2.  [Create an anonymous version of a project](https://help.osf.io/hc/en-us/articles/360019930333-Create-a-View-only-Link-for-a-Project).
+3.  [Create a view-only link to an anonymous version of a preregistration](https://help.osf.io/hc/en-us/articles/360042097853-Create-a-View-only-Link-for-a-Registration).
+
+## Anonymity and secrecy
+
+During the reviewing process, authors may choose to be anonymous or not. Reviewers may choose to sign their reviews or to remain anonymous. Editors will always know who the authors and the reviewers are.
+
+Sharing **preprints** prior to submission is encouraged.
+
+## Humane and transparent reviewing
+
+JoVI aims for a collaborative, humane, and transparent review process. Reviewing is implemented as a (potentially anonymous) discussion between the authors and the reviewers rather than a one-sided argument about whether to accept or reject a manuscript.
+
+-   **Pre-review feedback:** After initial submission, an action editor will perform a preliminary review to check for minor obvious problems. Broken URLs, formatting issues, a garbled figure, licensing concerns, and etc. may simply result in a request from the editor to resubmit a fixed version before it is sent out for review. You can resubmit as soon as the issue(s) is fixed.
+
+-   **Accommodating both sides:** After the initial pre-review feedback, editors will recruit reviewers and ask each of them to give a timeframe for their review. Generally, we aim for the first round of the reviews to be returned to the authors in around 6 weeks after the pre-review approval.
+
+-   **Non-arbitrary:** JoVI strives for reviews focused on the validity of claims and clarity of explanation. Reviews should also not rely on arbitrary thresholds such as minimum subject counts or maximum p-values.
+
+-   **Typos happen:** Typos or minor grammatical mistakes are inevitable, and they can be especially difficult to detect for people who do not have English as a native language. We strongly recommend that you carefully proofread your manuscript before submitting and after any revision. But as long as the manuscript is clear and understandable, these issues will not affect the score by reviewers. They may simply add an additional minor revision request.
+
+-   **Editor review:** Action editors check reviews before sending them to authors, and they may ask reviewers to rewrite a part of their review that comes across as overly personal. Should an author receive any personal or inappropriate comment in a review, they are encouraged to contact the editor or any member of the editorial board.
+
+## Submission instructions
+
+See [How to submit](submit.qmd).
+
+## Publication
+
+After a manuscript has been accepted by JoVI, it will be published through Aalborg University Press. The manuscript will receive a DOI. We are currently exploring the possibility of versioned DOIs, which will make it possible to submit updates to an existing article and turn it into a living, evolving document of the research process.
+
+We recommend all authors read the [reviewing guide](https://docs.google.com/document/d/1ZDZtzYh8uuEoZX-5hcODHzM6Ic2a-baIDbTCzRKH9yI/edit#) for further information about the criteria and the reviewing process.

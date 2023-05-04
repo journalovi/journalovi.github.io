@@ -1,5 +1,6 @@
 ---
 title: "Examples of structured abstracts"
+sidebar: false
 ---
 
 Below are several examples of structured abstracts written based on existing papers in order to demonstrate their use.
