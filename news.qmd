@@ -15,4 +15,4 @@ one of our social media channels below.
 
   * [Publication RSS Feed](https://journals.aau.dk/index.php/jovi/gateway/plugin/WebFeedGatewayPlugin/rss2)
   * [Twitter](https://twitter.com/journalovi)
-  * [Mastodon](https://hci.social/@journalovi)
+  * [Mastodon](https://hci.social/@jovi)
