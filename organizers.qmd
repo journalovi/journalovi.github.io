@@ -30,12 +30,13 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 ## Associate Editors
 
 - Leilani Battle, University of Washington
+- Jason Dykes, City, University of London
 - Niklas Elmqvist, University of Maryland, College Park
 - Lane Harrison, Worcester Polytechnic Institute
 - Yvonne Jansen, CNRS
+- Houda Lamqaddam, University of Amsterdam
 - Lace Padilla, University of California, Merced
 - Jon Schwabish, Urban Institute
-- Jason Dykes, City, University of London
 
 ## Publisher
 
