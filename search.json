@@ -1,115 +1,31 @@
 [
   {
-    "objectID": "submit.html",
-    "href": "submit.html",
-    "title": "How to submit",
+    "objectID": "organizers.html",
+    "href": "organizers.html",
+    "title": "Organizers",
     "section": "",
-    "text": "Submissions are handled by an Action Editor who will assign each submission to three expert reviewers. Review proceeds as a dialogue between authors and reviewers, with the goal of improving the work. Authors can expect that their submissions will not be rejected over easily fixable technicalities.\nAll submitted work, reviews, and discussions will by default be publicly available for other researchers to use. To encourage accountability, editors’ names are listed on the articles they accept, and reviewers may choose to be named or anonymous. All submissions and their accompanying reviews and discussions remain accessible whether or not an article is accepted.\nJoVI encourages registered reports, which follow a two-stage submission and review process. In the first stage, authors submit a paper that contains all plans, methods, and research questions, prior to any data collection. Through dialogue and discussion, reviewers and authors agree on revised plans, methods, and research questions. Then authors can collect and analyze data and write the final version of the paper, which will get a lightweight second-stage review by the same reviewers (except in extenuating circumstances).\nJoVI has two submission tracks: the traditional track and the experimental (“Github”) track."
+    "text": "To contact the JoVI organizing committee, email organizers@journalovi.org. For submission inquiries, email submit@journalovi.org.\nThe JoVI organizers (in alphabetical order) are:\nJoVI also owes a huge debt to Steve Haroz, who was instrumental in its formation and early iterations."
   },
   {
-    "objectID": "submit.html#traditional",
-    "href": "submit.html#traditional",
-    "title": "How to submit",
-    "section": "Traditional track",
-    "text": "Traditional track\nYou may prepare your paper with any academic paper template; we recommend the ACM template or the IEEE TVCG template.\nSubmission for the traditional track proceeds via the OJS submission system, hosted courtesy of the Aalborg University Library. Please create an OJS account, preferably using your default institutional email address, and follow the instructions on OJS to submit your paper and supplementary materials.\nTo submit:\n\nPlease read the Author Guidelines, even if you are a seasoned HCI/VIS researcher. JoVI’s process and expectations may be a bit different from what you are used to.\nStart:\n\nGo to JoVI’s OJS page\nCreate an account and/or log in, if needed\nRead and tick all checkboxes\nClick Save and continue\n\nUpload submission:\n\nClick Add file, upload main PDF\nSelect “article text” as type\nUpload other files, if desired. For example, if you are submitting anonymously, you may need to upload non-anonymous versions of some information for the editors to review. See the author guide.\nClick Save and continue\n\nEnter Metadata:\n\nAdd title and abstract\nAdd co-authors: click add contributor, fill form\n\nSelect Author as role\nIf you create accounts for your co-authors, we recommend ticking Include contributor in browse lists so that co-authors’ accounts can be found later in search boxes.\n\nOptional: fill in extra metadata\nClick Save and continue\n\nConfirmation:\n\nClick Finish submission"
+    "objectID": "organizers.html#advisory-board",
+    "href": "organizers.html#advisory-board",
+    "title": "Organizers",
+    "section": "Advisory Board",
+    "text": "Advisory Board\n\nPierre Dragicevic, Inria Bordeaux\nKasper Hornbæk, University of Copenhagen\nEva Hornecker, Bauhaus-Universität Weimar\nJessica Hullman, Northwestern University\nYvonne Jansen, CNRS\nAmelia McNamara, University of St Thomas\nArvind Satyanarayan, MIT CSAIL\nCarlos Scheidegger, Posit\nJon Schwabish, Urban Institute"
   },
   {
-    "objectID": "submit.html#experimental",
-    "href": "submit.html#experimental",
-    "title": "How to submit",
-    "section": "Experimental (“Github”) track",
-    "text": "Experimental (“Github”) track\nThe experimental track is an alternative submission and review process that manifests our commitment to experimenting with review processes. This track is less well-defined, in part because we wish it to evolve with authors as we use it.\nAll papers in the “Github” track must be written in Quarto, a markdown-based computational notebook format. Quarto can be used with documents written in a variety of forms (RMarkdown, Jupyter notebook, Word, Latex), and supports embedded computation (in many languages, including R, python, and Julia) and interactivity (using JavaScript / Observable).\nAll review on the experimental track will proceed as Github issues and pull requests, and published papers on this track can be updated using pull requests, even after publication.\nTo submit to the experimental track, write your paper in quarto using this template and then email us your paper information and a link to your repository at submit@journalovi.org."
+    "objectID": "organizers.html#associate-editors",
+    "href": "organizers.html#associate-editors",
+    "title": "Organizers",
+    "section": "Associate Editors",
+    "text": "Associate Editors\n\nLeilani Battle, University of Washington\nJason Dykes, City, University of London\nNiklas Elmqvist, University of Maryland, College Park\nLane Harrison, Worcester Polytechnic Institute\nYvonne Jansen, CNRS\nHouda Lamqaddam, University of Amsterdam\nLace Padilla, University of California, Merced\nJon Schwabish, Urban Institute"
   },
   {
-    "objectID": "structured-abstract-examples.html",
-    "href": "structured-abstract-examples.html",
-    "title": "Examples of structured abstracts",
-    "section": "",
-    "text": "Below are several examples of structured abstracts written based on existing papers in order to demonstrate their use.\nSee the top of the JoVI article template for the structured abstract template."
-  },
-  {
-    "objectID": "structured-abstract-examples.html#perceptual-proxies-empirical",
-    "href": "structured-abstract-examples.html#perceptual-proxies-empirical",
-    "title": "Examples of structured abstracts",
-    "section": "Perceptual proxies (empirical)",
-    "text": "Perceptual proxies (empirical)\nBased on Perceptual proxies for extracting averages in data visualization\n\nIntroduction\nAcross science, education, and business, we process and communicate data visually. One bedrock finding in data visualization research is a hierarchy of precision for perceptual encodings of data, e.g., that encoding data with Cartesian positions allows more precise comparisons than encoding with sizes. But this hierarchy has only been tested for single value comparisons, under the assumption that those lessons would extrapolate to multi-value comparisons.\n\n\nData Collection or Source\nWe ran four within-subject behavioral experiments (three preregistered) to measure subjects’ ability to differentiate single values or set averages. The experiments used a staircase method to measure accuracy when comparing pairs of dot plots (position), floating bar graphs (length), or regular bar graphs (position + length).\n\n\nData Analysis\nWe used the stopping point of the staircase to estimate the just noticeable difference and ran within-subject anovas and t-test to estimate differences between (1) chart types, (2) single values vs. set averages, and (3) set sizes.\n\n\nAnalysis Results\nResults include: (1) Confirming known findings in the visualization literature, the results showed that single-value comparison was least precise with floating bar graphs (length only). (2) However, when comparing averages across multiple data points, the discriminability was indistinguishable between chart types. (3) An exploratory analysis found that comparisons between different set sizes reduced accuracy but not reliably for all chart types.\n\n\nConclusion\nViewers compare values using surprisingly primitive perceptual cues, e.g., the summed area of bars in a bar graph. These results highlight a critical need to study a broader constellation of visual cues that mediate the patterns that we can see in data, across visualization types and tasks.\n\n\nMaterials\nTBD"
-  },
-  {
-    "objectID": "structured-abstract-examples.html#open-practices-in-vis-empirical",
-    "href": "structured-abstract-examples.html#open-practices-in-vis-empirical",
-    "title": "Examples of structured abstracts",
-    "section": "Open practices in vis (empirical)",
-    "text": "Open practices in vis (empirical)\nBased on Open practices in visualization research\n\nIntroduction\nTwo fundamental tenets of scientific research are that it can be scrutinized and built-upon. Both require that the collected data and supporting materials be shared, so others can examine, reuse, and extend them. Assessing the accessibility of these components and the paper itself can serve as a proxy for the reliability, replicability, and applicability of a field’s research.\n\n\nData Collection or Source\nI checked all papers published in VIS in 2017 to see which were available on a preprint repository, included a preregistration, included data collection materials, included raw data, or included computation/analysis materials.\n\n\nData Analysis\nIn an exploratory analysis of all VIS publications in 2017, I calculated the proportion of papers with a preprint and open practices on a reliable open access repository or a website without long-term availability.\n\n\nAnalysis Results\nA minority of published articles are available on an open access server, and extremely few included additional research materials on an open and reliable repository. The availability also varied by conference track.\n\n\nConclusion\nThe lack of open practices may severely hamper the ability to scrutinize, replicate, or reproduce visualization research. The paper provides suggestions for authors, reviewers, and editors to improve the poor state of open practices in the field.\n\n\nMaterials\nTBD"
-  },
-  {
-    "objectID": "structured-abstract-examples.html#explorable-multiverse-technique",
-    "href": "structured-abstract-examples.html#explorable-multiverse-technique",
-    "title": "Examples of structured abstracts",
-    "section": "Explorable multiverse (technique)",
-    "text": "Explorable multiverse (technique)\nBased on Increasing the Transparency of Research Papers with Explorable Multiverse Analyses\n\nIntroduction\nWe present explorable multiverse analysis reports (EMARs), a new approach to statistical reporting where readers of research papers can explore alternative analysis options by interacting with the paper itself. This approach draws from two ideas: multiverse analysis, a philosophy of statistical reporting where paper authors report the outcomes of many different statistical analyses in order to show how fragile or robust their findings are; and explorable explanations, narratives that can be read as normal explanations but where the reader can also become active by dynamically changing some elements of the explanation.\n\n\nImplementation\nWe use R scripts to build EMARs by pre-computing analysis results from every universe from a combination of all analysis parameters in a given multiverse. The output from those scripts is then presented using interactive HTML+JavaScript templates.\n\n\nDemonstration\nWe prototype five example EMARs by re-analyzing existing papers and building interactive papers to demonstrate different interactive approaches to communicating multiverses. We show how combining multiverse analysis and explorable explanations might complement existing reporting approaches and constitute a step towards more transparent research papers.\nBased on these examples and existing literature on multiverse analysis, we develop a design space for multiverse analysis reports. Our design space describes analysis parameters, analysis options, and multiplexing and aggregation techniques for summarizing and communicating multiverses. We identify several challenges to multiverse construction, including identifying simple end goals that can be multiplexed across universes (which can be easier with single statistics than entire plots, for example), and provide recommendations for writing conclusions in papers that span multiverses (to avoid authors/readers simply selecting desired results).\n\n\nConclusion\nThe development of tools to facilitate the multiverse analysis process within analysts’ workflows remains a substantial challenge: our prototypes consist of custom R scripts and HTML templates that require significant technical expertise to develop. Automating these workflows for data analysts is an important next step.\n\n\nMaterials\nSee live demo here. [NOTE: for JoVI, a backup link to a permanent repository should also be included with live demo links]"
-  },
-  {
-    "objectID": "structured-abstract-examples.html#binaryswipes-technique-user-study",
-    "href": "structured-abstract-examples.html#binaryswipes-technique-user-study",
-    "title": "Examples of structured abstracts",
-    "section": "BinarySwipes (technique + user study)",
-    "text": "BinarySwipes (technique + user study)\nBased on BinarySwipes: Fast List Search on Small Touchscreens (straightforward UI technique & user study) [Florian]\n\nIntroduction\nWe present BinarySwipes, an interaction technique based on binary search which is designed to speed up list search tasks on space-constrained touchscreens.\nSmartwatches and other wearables generally have small screens, thereby complicating touch-based interaction. Selection from a long list, eg to locate a contact or a music track, is particularly cumbersome due to the limited interaction space.\n\n\nImplementation\nTBD\n\n\nDemonstration\nTBD\n\n\nData Collection or Source\nWe evaluate a prototypical implementation of BinarySwipes on a smartwatch with 21 participants in a controlled user study. We measure task completion time, error rate, and self-reported NASA TLX values.\n\n\nData Analysis\nWe analyze our data with respect to normal distribution (Shapiro-Wilk) and statistically significant differences between conditions (ANOVA with post-hoc Tukey HSD, Bonferroni correction).\n\n\nAnalysis Results\nResults from our evaluation show improved performance over a plain linear search on lists with 100, 200 and 500 entries, but also increased mental load on the users.\n\n\nConclusion\nBinarySwipes is a viable technique for quickly locating known items in long lists, but challenges remain for exploratory search, or when the presence of the item is not known in advance.\n\n\nMaterials\nTBD"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Journal of Visualization and Interaction",
-    "section": "",
-    "text": "The Journal of Visualization and Interaction (JoVI) is a venue for publishing scholarly work related to the fields of visualization and human-computer interaction. Contributions to the journal include research in:\n\nhow people understand and interact with information and technology,\ninnovations in interaction techniques, interactive systems, or tools,\nsystematic literature reviews,\nreplication studies or reinterpretations of existing work,\nand commentary on existing publications.\n\nCross-disciplinary work from other fields such as statistics or psychology, which is relevant to the fields of visualization or human-computer interaction is also welcome.\nJoVI’s missions are the following:"
-  },
-  {
-    "objectID": "index.html#what-is-jovi",
-    "href": "index.html#what-is-jovi",
-    "title": "The Journal of Visualization and Interaction",
-    "section": "",
-    "text": "The Journal of Visualization and Interaction (JoVI) is a venue for publishing scholarly work related to the fields of visualization and human-computer interaction. Contributions to the journal include research in:\n\nhow people understand and interact with information and technology,\ninnovations in interaction techniques, interactive systems, or tools,\nsystematic literature reviews,\nreplication studies or reinterpretations of existing work,\nand commentary on existing publications.\n\nCross-disciplinary work from other fields such as statistics or psychology, which is relevant to the fields of visualization or human-computer interaction is also welcome.\nJoVI’s missions are the following:"
-  },
-  {
-    "objectID": "index.html#open",
-    "href": "index.html#open",
-    "title": "The Journal of Visualization and Interaction",
-    "section": "Open by default",
-    "text": "Open by default\nJoVI strongly supports transparency and openness and implements it as a default to enable readers to scrutinize and build on the research . All published manuscripts are open access. For any empirical components, manuscripts must make all data and reasoning available in ways that invite scrutiny, so that subsequent researchers can assess claims, reuse methods and materials, and build upon findings. For any computational components, all code needs to be reproducible within a reasonable effort. When ethical concerns prevent submissions to meet these requirements, the manuscript must clearly describe the characteristics of these artifacts and adequately justify the tradeoff between openness and ethics."
-  },
-  {
-    "objectID": "index.html#open-review",
-    "href": "index.html#open-review",
-    "title": "The Journal of Visualization and Interaction",
-    "section": "Open review, comments, and continued conversation",
-    "text": "Open review, comments, and continued conversation\nAll submitted work, reviews, and discussions will by default be publicly available for other researchers to use. To encourage accountability, editors’ names are listed on the articles they accept, and reviewers may choose to be named or anonymous . All submissions and their accompanying reviews and discussions remain accessible whether or not an article is accepted. To foster discussions that go beyond the initial reviewer/author exchanges, we welcome post-publication commentaries on articles."
-  },
-  {
-    "objectID": "index.html#knowledge",
-    "href": "index.html#knowledge",
-    "title": "The Journal of Visualization and Interaction",
-    "section": "Knowledge over novelty",
-    "text": "Knowledge over novelty\nWe prioritize how research advances knowledge rather than superficial novelty. Reviews aim to evaluate the credibility of a manuscript’s claims and the clarity of its evidence. Contributions of interaction techniques or interactive systems may meet this knowledge criterion through existence proofs. For empirical works, JoVI encourages registered reports —the reviewing of study plans prior to execution—and has a process to support this type of contribution. The discourses on the merit of the manuscripts must be justified by evidence, credible literature, or cogent argument."
-  },
-  {
-    "objectID": "index.html#humane",
-    "href": "index.html#humane",
-    "title": "The Journal of Visualization and Interaction",
-    "section": "A more humane process, respectful of everyone’s time",
-    "text": "A more humane process, respectful of everyone’s time\nJoVI respects the time and effort of both authors and reviewers, and aims for a collaborative, humane review process. To that end, JoVI does not publish a limited number of manuscripts and does not seek to have a certain rejection rate. Instead, review proceeds as a back and forth between authors and reviewers, with the goal of improving the work. Authors can expect that their submissions will not be rejected over easily fixable technicalities."
-  },
-  {
-    "objectID": "index.html#ambitions",
-    "href": "index.html#ambitions",
-    "title": "The Journal of Visualization and Interaction",
-    "section": "Ambitions: Experimental track for new article formats, review processes, and articles as living documents",
-    "text": "Ambitions: Experimental track for new article formats, review processes, and articles as living documents\nIn addition to the missions above, JoVI also aspires to be a platform for other improvements of scholarly communication. On an alternate, optional submission track, we will continually experiment with new article formats (including modern, interactive formats), new review processes, and articles as living documents. This experimentation will be motivated by re-conceptualizing peer review as a humane, constructive process aimed at improving work rather than gatekeeping."
-  },
-  {
-    "objectID": "index.html#acks",
-    "href": "index.html#acks",
-    "title": "The Journal of Visualization and Interaction",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nWe would like to thank the following people (in alphabetical order) who provided input on earlier versions of our mission statement: Leilani Battle, Pierre Dragicevic, Niklas Elmqvist, Jean-Daniel Fekete, Maximilian Häussler, Steve Haroz, Yvonne Jansen, Tamara Munzner, Kimberly Quinn, Raphael Wimmer."
+    "objectID": "organizers.html#publisher",
+    "href": "organizers.html#publisher",
+    "title": "Organizers",
+    "section": "Publisher",
+    "text": "Publisher\nAalborg University Press Kroghstræde 3 9220 Aalborg Ø DENMARK\nISSN 2794-5502"
   },
   {
     "objectID": "code-of-conduct.html",
@@ -168,6 +84,83 @@
     "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.0.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about the Contributor Covenant, see the FAQ. Translations are available here."
   },
   {
+    "objectID": "submit.html",
+    "href": "submit.html",
+    "title": "How to submit",
+    "section": "",
+    "text": "Submissions are handled by an Action Editor who will assign each submission to three expert reviewers. Review proceeds as a dialogue between authors and reviewers, with the goal of improving the work. Authors can expect that their submissions will not be rejected over easily fixable technicalities.\nAll submitted work, reviews, and discussions will by default be publicly available for other researchers to use. To encourage accountability, editors’ names are listed on the articles they accept, and reviewers may choose to be named or anonymous. All submissions and their accompanying reviews and discussions remain accessible whether or not an article is accepted.\nJoVI encourages registered reports, which follow a two-stage submission and review process. In the first stage, authors submit a paper that contains all plans, methods, and research questions, prior to any data collection. Through dialogue and discussion, reviewers and authors agree on revised plans, methods, and research questions. Then authors can collect and analyze data and write the final version of the paper, which will get a lightweight second-stage review by the same reviewers (except in extenuating circumstances).\nJoVI has two submission tracks: the traditional track and the experimental (“Github”) track."
+  },
+  {
+    "objectID": "submit.html#traditional",
+    "href": "submit.html#traditional",
+    "title": "How to submit",
+    "section": "Traditional track",
+    "text": "Traditional track\nYou may prepare your paper with any academic paper template; we recommend the ACM template or the IEEE TVCG template.\nSubmission for the traditional track proceeds via the OJS submission system, hosted courtesy of the Aalborg University Library. Please create an OJS account, preferably using your default institutional email address, and follow the instructions on OJS to submit your paper and supplementary materials.\nTo submit:\n\nPlease read the Author Guidelines, even if you are a seasoned HCI/VIS researcher. JoVI’s process and expectations may be a bit different from what you are used to.\nStart:\n\nGo to JoVI’s OJS page\nCreate an account and/or log in, if needed\nRead and tick all checkboxes\nClick Save and continue\n\nUpload submission:\n\nClick Add file, upload main PDF\nSelect “article text” as type\nUpload other files, if desired. For example, if you are submitting anonymously, you may need to upload non-anonymous versions of some information for the editors to review. See the author guide.\nClick Save and continue\n\nEnter Metadata:\n\nAdd title and abstract\nAdd co-authors: click add contributor, fill form\n\nSelect Author as role\nIf you create accounts for your co-authors, we recommend ticking Include contributor in browse lists so that co-authors’ accounts can be found later in search boxes.\n\nOptional: fill in extra metadata\nClick Save and continue\n\nConfirmation:\n\nClick Finish submission"
+  },
+  {
+    "objectID": "submit.html#experimental",
+    "href": "submit.html#experimental",
+    "title": "How to submit",
+    "section": "Experimental (“Github”) track",
+    "text": "Experimental (“Github”) track\nThe experimental track is an alternative submission and review process that manifests our commitment to experimenting with review processes. This track is less well-defined, in part because we wish it to evolve with authors as we use it.\nAll papers in the “Github” track must be written in Quarto, a markdown-based computational notebook format. Quarto can be used with documents written in a variety of forms (RMarkdown, Jupyter notebook, Word, Latex), and supports embedded computation (in many languages, including R, python, and Julia) and interactivity (using JavaScript / Observable).\nAll review on the experimental track will proceed as Github issues and pull requests, and published papers on this track can be updated using pull requests, even after publication.\nTo submit to the experimental track, write your paper in quarto using this template and then email us your paper information and a link to your repository at submit@journalovi.org."
+  },
+  {
+    "objectID": "structured-abstract-examples.html",
+    "href": "structured-abstract-examples.html",
+    "title": "Examples of structured abstracts",
+    "section": "",
+    "text": "Below are several examples of structured abstracts written based on existing papers in order to demonstrate their use.\nSee the top of the JoVI article template for the structured abstract template."
+  },
+  {
+    "objectID": "structured-abstract-examples.html#perceptual-proxies-empirical",
+    "href": "structured-abstract-examples.html#perceptual-proxies-empirical",
+    "title": "Examples of structured abstracts",
+    "section": "Perceptual proxies (empirical)",
+    "text": "Perceptual proxies (empirical)\nBased on Perceptual proxies for extracting averages in data visualization\n\nIntroduction\nAcross science, education, and business, we process and communicate data visually. One bedrock finding in data visualization research is a hierarchy of precision for perceptual encodings of data, e.g., that encoding data with Cartesian positions allows more precise comparisons than encoding with sizes. But this hierarchy has only been tested for single value comparisons, under the assumption that those lessons would extrapolate to multi-value comparisons.\n\n\nData Collection or Source\nWe ran four within-subject behavioral experiments (three preregistered) to measure subjects’ ability to differentiate single values or set averages. The experiments used a staircase method to measure accuracy when comparing pairs of dot plots (position), floating bar graphs (length), or regular bar graphs (position + length).\n\n\nData Analysis\nWe used the stopping point of the staircase to estimate the just noticeable difference and ran within-subject anovas and t-test to estimate differences between (1) chart types, (2) single values vs. set averages, and (3) set sizes.\n\n\nAnalysis Results\nResults include: (1) Confirming known findings in the visualization literature, the results showed that single-value comparison was least precise with floating bar graphs (length only). (2) However, when comparing averages across multiple data points, the discriminability was indistinguishable between chart types. (3) An exploratory analysis found that comparisons between different set sizes reduced accuracy but not reliably for all chart types.\n\n\nConclusion\nViewers compare values using surprisingly primitive perceptual cues, e.g., the summed area of bars in a bar graph. These results highlight a critical need to study a broader constellation of visual cues that mediate the patterns that we can see in data, across visualization types and tasks.\n\n\nMaterials\nTBD"
+  },
+  {
+    "objectID": "structured-abstract-examples.html#open-practices-in-vis-empirical",
+    "href": "structured-abstract-examples.html#open-practices-in-vis-empirical",
+    "title": "Examples of structured abstracts",
+    "section": "Open practices in vis (empirical)",
+    "text": "Open practices in vis (empirical)\nBased on Open practices in visualization research\n\nIntroduction\nTwo fundamental tenets of scientific research are that it can be scrutinized and built-upon. Both require that the collected data and supporting materials be shared, so others can examine, reuse, and extend them. Assessing the accessibility of these components and the paper itself can serve as a proxy for the reliability, replicability, and applicability of a field’s research.\n\n\nData Collection or Source\nI checked all papers published in VIS in 2017 to see which were available on a preprint repository, included a preregistration, included data collection materials, included raw data, or included computation/analysis materials.\n\n\nData Analysis\nIn an exploratory analysis of all VIS publications in 2017, I calculated the proportion of papers with a preprint and open practices on a reliable open access repository or a website without long-term availability.\n\n\nAnalysis Results\nA minority of published articles are available on an open access server, and extremely few included additional research materials on an open and reliable repository. The availability also varied by conference track.\n\n\nConclusion\nThe lack of open practices may severely hamper the ability to scrutinize, replicate, or reproduce visualization research. The paper provides suggestions for authors, reviewers, and editors to improve the poor state of open practices in the field.\n\n\nMaterials\nTBD"
+  },
+  {
+    "objectID": "structured-abstract-examples.html#explorable-multiverse-technique",
+    "href": "structured-abstract-examples.html#explorable-multiverse-technique",
+    "title": "Examples of structured abstracts",
+    "section": "Explorable multiverse (technique)",
+    "text": "Explorable multiverse (technique)\nBased on Increasing the Transparency of Research Papers with Explorable Multiverse Analyses\n\nIntroduction\nWe present explorable multiverse analysis reports (EMARs), a new approach to statistical reporting where readers of research papers can explore alternative analysis options by interacting with the paper itself. This approach draws from two ideas: multiverse analysis, a philosophy of statistical reporting where paper authors report the outcomes of many different statistical analyses in order to show how fragile or robust their findings are; and explorable explanations, narratives that can be read as normal explanations but where the reader can also become active by dynamically changing some elements of the explanation.\n\n\nImplementation\nWe use R scripts to build EMARs by pre-computing analysis results from every universe from a combination of all analysis parameters in a given multiverse. The output from those scripts is then presented using interactive HTML+JavaScript templates.\n\n\nDemonstration\nWe prototype five example EMARs by re-analyzing existing papers and building interactive papers to demonstrate different interactive approaches to communicating multiverses. We show how combining multiverse analysis and explorable explanations might complement existing reporting approaches and constitute a step towards more transparent research papers.\nBased on these examples and existing literature on multiverse analysis, we develop a design space for multiverse analysis reports. Our design space describes analysis parameters, analysis options, and multiplexing and aggregation techniques for summarizing and communicating multiverses. We identify several challenges to multiverse construction, including identifying simple end goals that can be multiplexed across universes (which can be easier with single statistics than entire plots, for example), and provide recommendations for writing conclusions in papers that span multiverses (to avoid authors/readers simply selecting desired results).\n\n\nConclusion\nThe development of tools to facilitate the multiverse analysis process within analysts’ workflows remains a substantial challenge: our prototypes consist of custom R scripts and HTML templates that require significant technical expertise to develop. Automating these workflows for data analysts is an important next step.\n\n\nMaterials\nSee live demo here. [NOTE: for JoVI, a backup link to a permanent repository should also be included with live demo links]"
+  },
+  {
+    "objectID": "structured-abstract-examples.html#binaryswipes-technique-user-study",
+    "href": "structured-abstract-examples.html#binaryswipes-technique-user-study",
+    "title": "Examples of structured abstracts",
+    "section": "BinarySwipes (technique + user study)",
+    "text": "BinarySwipes (technique + user study)\nBased on BinarySwipes: Fast List Search on Small Touchscreens (straightforward UI technique & user study) [Florian]\n\nIntroduction\nWe present BinarySwipes, an interaction technique based on binary search which is designed to speed up list search tasks on space-constrained touchscreens.\nSmartwatches and other wearables generally have small screens, thereby complicating touch-based interaction. Selection from a long list, eg to locate a contact or a music track, is particularly cumbersome due to the limited interaction space.\n\n\nImplementation\nTBD\n\n\nDemonstration\nTBD\n\n\nData Collection or Source\nWe evaluate a prototypical implementation of BinarySwipes on a smartwatch with 21 participants in a controlled user study. We measure task completion time, error rate, and self-reported NASA TLX values.\n\n\nData Analysis\nWe analyze our data with respect to normal distribution (Shapiro-Wilk) and statistically significant differences between conditions (ANOVA with post-hoc Tukey HSD, Bonferroni correction).\n\n\nAnalysis Results\nResults from our evaluation show improved performance over a plain linear search on lists with 100, 200 and 500 entries, but also increased mental load on the users.\n\n\nConclusion\nBinarySwipes is a viable technique for quickly locating known items in long lists, but challenges remain for exploratory search, or when the presence of the item is not known in advance.\n\n\nMaterials\nTBD"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "To keep up with JoVI announcements, such as new papers or calls, subscribe to the general announcement mailing list or one of our social media channels below."
+  },
+  {
+    "objectID": "news.html#mailing-list",
+    "href": "news.html#mailing-list",
+    "title": "News",
+    "section": "Mailing List",
+    "text": "Mailing List\n\nGeneral announcement mailing list"
+  },
+  {
+    "objectID": "news.html#social-media",
+    "href": "news.html#social-media",
+    "title": "News",
+    "section": "Social Media",
+    "text": "Social Media\n\nPublication RSS Feed\nTwitter\nMastodon"
+  },
+  {
     "objectID": "reviewer-guide.html",
     "href": "reviewer-guide.html",
     "title": "Reviewer guidelines",
@@ -217,25 +210,60 @@
     "text": "Possible Review Outcomes\nJoVI aims to advance knowledge. If the work is promising but still has not made the cut, reviewers and editors should encourage the authors to revise and resubmit. Rejections should be used sparingly. The following outcomes are possible at each stage:\nBefore sending out to external reviewers:\n\nDesk reject: The editor-in-chief may choose to desk-reject manuscripts that are clearly outside the scope of the journal, or not written in English. We may set more specific desk rejection criteria in the future; for feedback and discussion on this see issue #17.\nPre-review revision: If a manuscript misses the required components described in the author guidelines, or if the associate editor has other concerns (such as length not being commensurate with contribution), the editor may request the authors to make some revisions prior to sending the manuscript out to reviewers.\n\nAfter each round of review:\n\nReject: This decision will only be taken upon critical methodological, ethical, or technical flaws that cannot reasonably be fixed, even with major additional effort, or if the submission has not improved substantially over several revisions..\nMajor revision: In addition to critiques and suggestions, reviewers may also ask for clarifications in the major revision.\nMinor revision: Reviewers have reached a consensus that the required revisions could be checked by the editor without requiring further input from the external reviewers.\n\nAfter the final round of review:\n\nAccept: The content of the manuscript is considered final. No further changes are allowed without approval from the editor."
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Journal of Visualization and Interaction",
     "section": "",
-    "text": "To keep up with JoVI announcements, such as new papers or calls, subscribe to the general announcement mailing list or one of our social media channels below."
+    "text": "The Journal of Visualization and Interaction (JoVI) is a venue for publishing scholarly work related to the fields of visualization and human-computer interaction. Contributions to the journal include research in:\n\nhow people understand and interact with information and technology,\ninnovations in interaction techniques, interactive systems, or tools,\nsystematic literature reviews,\nreplication studies or reinterpretations of existing work,\nand commentary on existing publications.\n\nCross-disciplinary work from other fields such as statistics or psychology, which is relevant to the fields of visualization or human-computer interaction is also welcome.\nJoVI’s missions are the following:"
   },
   {
-    "objectID": "news.html#mailing-list",
-    "href": "news.html#mailing-list",
-    "title": "News",
-    "section": "Mailing List",
-    "text": "Mailing List\n\nGeneral announcement mailing list"
+    "objectID": "index.html#what-is-jovi",
+    "href": "index.html#what-is-jovi",
+    "title": "The Journal of Visualization and Interaction",
+    "section": "",
+    "text": "The Journal of Visualization and Interaction (JoVI) is a venue for publishing scholarly work related to the fields of visualization and human-computer interaction. Contributions to the journal include research in:\n\nhow people understand and interact with information and technology,\ninnovations in interaction techniques, interactive systems, or tools,\nsystematic literature reviews,\nreplication studies or reinterpretations of existing work,\nand commentary on existing publications.\n\nCross-disciplinary work from other fields such as statistics or psychology, which is relevant to the fields of visualization or human-computer interaction is also welcome.\nJoVI’s missions are the following:"
   },
   {
-    "objectID": "news.html#social-media",
-    "href": "news.html#social-media",
-    "title": "News",
-    "section": "Social Media",
-    "text": "Social Media\n\nPublication RSS Feed\nTwitter\nMastodon"
+    "objectID": "index.html#open",
+    "href": "index.html#open",
+    "title": "The Journal of Visualization and Interaction",
+    "section": "Open by default",
+    "text": "Open by default\nJoVI strongly supports transparency and openness and implements it as a default to enable readers to scrutinize and build on the research . All published manuscripts are open access. For any empirical components, manuscripts must make all data and reasoning available in ways that invite scrutiny, so that subsequent researchers can assess claims, reuse methods and materials, and build upon findings. For any computational components, all code needs to be reproducible within a reasonable effort. When ethical concerns prevent submissions to meet these requirements, the manuscript must clearly describe the characteristics of these artifacts and adequately justify the tradeoff between openness and ethics."
+  },
+  {
+    "objectID": "index.html#open-review",
+    "href": "index.html#open-review",
+    "title": "The Journal of Visualization and Interaction",
+    "section": "Open review, comments, and continued conversation",
+    "text": "Open review, comments, and continued conversation\nAll submitted work, reviews, and discussions will by default be publicly available for other researchers to use. To encourage accountability, editors’ names are listed on the articles they accept, and reviewers may choose to be named or anonymous . All submissions and their accompanying reviews and discussions remain accessible whether or not an article is accepted. To foster discussions that go beyond the initial reviewer/author exchanges, we welcome post-publication commentaries on articles."
+  },
+  {
+    "objectID": "index.html#knowledge",
+    "href": "index.html#knowledge",
+    "title": "The Journal of Visualization and Interaction",
+    "section": "Knowledge over novelty",
+    "text": "Knowledge over novelty\nWe prioritize how research advances knowledge rather than superficial novelty. Reviews aim to evaluate the credibility of a manuscript’s claims and the clarity of its evidence. Contributions of interaction techniques or interactive systems may meet this knowledge criterion through existence proofs. For empirical works, JoVI encourages registered reports —the reviewing of study plans prior to execution—and has a process to support this type of contribution. The discourses on the merit of the manuscripts must be justified by evidence, credible literature, or cogent argument."
+  },
+  {
+    "objectID": "index.html#humane",
+    "href": "index.html#humane",
+    "title": "The Journal of Visualization and Interaction",
+    "section": "A more humane process, respectful of everyone’s time",
+    "text": "A more humane process, respectful of everyone’s time\nJoVI respects the time and effort of both authors and reviewers, and aims for a collaborative, humane review process. To that end, JoVI does not publish a limited number of manuscripts and does not seek to have a certain rejection rate. Instead, review proceeds as a back and forth between authors and reviewers, with the goal of improving the work. Authors can expect that their submissions will not be rejected over easily fixable technicalities."
+  },
+  {
+    "objectID": "index.html#ambitions",
+    "href": "index.html#ambitions",
+    "title": "The Journal of Visualization and Interaction",
+    "section": "Ambitions: Experimental track for new article formats, review processes, and articles as living documents",
+    "text": "Ambitions: Experimental track for new article formats, review processes, and articles as living documents\nIn addition to the missions above, JoVI also aspires to be a platform for other improvements of scholarly communication. On an alternate, optional submission track, we will continually experiment with new article formats (including modern, interactive formats), new review processes, and articles as living documents. This experimentation will be motivated by re-conceptualizing peer review as a humane, constructive process aimed at improving work rather than gatekeeping."
+  },
+  {
+    "objectID": "index.html#acks",
+    "href": "index.html#acks",
+    "title": "The Journal of Visualization and Interaction",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nWe would like to thank the following people (in alphabetical order) who provided input on earlier versions of our mission statement: Leilani Battle, Pierre Dragicevic, Niklas Elmqvist, Jean-Daniel Fekete, Maximilian Häussler, Steve Haroz, Yvonne Jansen, Tamara Munzner, Kimberly Quinn, Raphael Wimmer."
   },
   {
     "objectID": "author-guide.html",
@@ -292,33 +320,5 @@
     "title": "Author guidelines",
     "section": "Publication",
     "text": "Publication\nAfter a manuscript has been accepted by JoVI, it will be published through Aalborg University Press. The manuscript will receive a DOI. We are currently exploring the possibility of versioned DOIs, which will make it possible to submit updates to an existing article and turn it into a living, evolving document of the research process.\nWe recommend all authors read the reviewing guide for further information about the criteria and the reviewing process."
-  },
-  {
-    "objectID": "organizers.html",
-    "href": "organizers.html",
-    "title": "Organizers",
-    "section": "",
-    "text": "To contact the JoVI organizing committee, email organizers@journalovi.org. For submission inquiries, email submit@journalovi.org.\nThe JoVI organizers (in alphabetical order) are:\nJoVI also owes a huge debt to Steve Haroz, who was instrumental in its formation and early iterations."
-  },
-  {
-    "objectID": "organizers.html#advisory-board",
-    "href": "organizers.html#advisory-board",
-    "title": "Organizers",
-    "section": "Advisory Board",
-    "text": "Advisory Board\n\nPierre Dragicevic, Inria Bordeaux\nKasper Hornbæk, University of Copenhagen\nEva Hornecker, Bauhaus-Universität Weimar\nJessica Hullman, Northwestern University\nYvonne Jansen, CNRS\nAmelia McNamara, University of St Thomas\nArvind Satyanarayan, MIT CSAIL\nCarlos Scheidegger, Posit\nJon Schwabish, Urban Institute"
-  },
-  {
-    "objectID": "organizers.html#associate-editors",
-    "href": "organizers.html#associate-editors",
-    "title": "Organizers",
-    "section": "Associate Editors",
-    "text": "Associate Editors\n\nLeilani Battle, University of Washington\nJason Dykes, City, University of London\nNiklas Elmqvist, University of Maryland, College Park\nLane Harrison, Worcester Polytechnic Institute\nYvonne Jansen, CNRS\nHouda Lamqaddam, University of Amsterdam\nLace Padilla, University of California, Merced\nJon Schwabish, Urban Institute"
-  },
-  {
-    "objectID": "organizers.html#publisher",
-    "href": "organizers.html#publisher",
-    "title": "Organizers",
-    "section": "Publisher",
-    "text": "Publisher\nAalborg University Press Kroghstræde 3 9220 Aalborg Ø DENMARK"
   }
 ]
