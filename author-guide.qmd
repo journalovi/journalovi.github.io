@@ -92,6 +92,8 @@ For a CC-BY-SA license, include the following text in your initial submission:
 
 > This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
+Figures may be exempted from the CC-BY(-SA) licensing requirement, in which case they should have a copyright statement in their caption. However, we encourage CC-BY(-SA) licensing of figures if possible.
+
 #### Conflicts of interest
 
 All submissions must include a statement about potential conflicts of interest, including activities that potentially confer material or non-material rewards on the authors in connection with the topic of the article. The simplest example: "The authors declare that there are no competing interests."
