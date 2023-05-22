@@ -66,6 +66,7 @@ In addition to the missions above, JoVI also aspires to be a platform for other 
 We would like to thank the following people (in alphabetical order) who provided input on earlier versions of our mission statement:
 Leilani Battle,
 Pierre Dragicevic,
+Jason Dykes,
 Niklas Elmqvist,
 Jean-Daniel Fekete,
 Maximilian Häussler,
