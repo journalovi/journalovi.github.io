@@ -18,6 +18,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 ## Advisory Board
 
 - Pierre Dragicevic, Inria Bordeaux
+- Jason Dykes, City, University of London
 - Kasper Hornbæk, University of Copenhagen
 - Eva Hornecker, Bauhaus-Universität Weimar
 - Jessica Hullman, Northwestern University
