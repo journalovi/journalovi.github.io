@@ -49,5 +49,5 @@ All papers in the "Github" track must be written in [Quarto](https://quarto.org/
 
 All review on the experimental track will proceed as Github issues and pull requests, and published papers on this track can be updated using pull requests, even after publication.
 
-To submit to the experimental track, write your paper in quarto using [this template](https://github.com/journalovi/jovi-template-quarto) and then email us your paper information and a link to your repository at [submit@journalovi.org](mailto:submit@journalovi.org).
+To submit to the experimental track, write your paper in quarto using [this template](https://github.com/journalovi/jovi-template-quarto) and then email us your paper information and a link to your repository at [submit@journalovi.org](mailto:submit@journalovi.org). A live preview of the JoVI quarto template is available [here](https://www.journalovi.org/jovi-template-quarto/).
 
