@@ -80,6 +80,10 @@ Articles with multiple authors must describe the contributions of each author at
 -   Not all roles are needed for every article
 -   If an author of your paper performed a role not listed in the CRediT taxonomy, you can add it, but please do so sparingly.
 
+An example authorship statement might read:
+
+> **Aggie Eilwen**: Investigation, Data Curation, Writing -- Original Draft; **Pedro Ellar**: Writing -- Review & Editing; **Alena Ennio**: Writing -- Review & Editing, Supervision, Funding Acquisition.
+
 #### License
 
 JOVI articles are published with a [CC-BY license](https://creativecommons.org/licenses/by/4.0/) or [CC-BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).
