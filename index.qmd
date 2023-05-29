@@ -30,6 +30,7 @@ _The Journal of Visualization and Interaction_ (JoVI) is a venue for publishing 
 * innovations in interaction techniques, interactive systems, or tools,
 * systematic literature reviews, 
 * replication studies or reinterpretations of existing work,
+* research software packages for HCI and visualization,
 * and commentary on existing publications. 
 
 Cross-disciplinary work from other fields such as statistics or psychology, which is relevant to the fields of visualization or human-computer interaction is also welcome. 
