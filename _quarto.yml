@@ -17,6 +17,13 @@ website:
     logo-alt: JoVI
     type: dark
     tools:
+      - icon: twitter
+        href: https://twitter.com/journalOVI/
+        text: JoVI Twitter
+      - icon: mastodon
+        href: https://hci.social/@jovi
+        text: JoVI Mastodon
+        rel: me
       - icon: github
         href: https://github.com/journalovi/journalovi.github.io
         text: JoVI Github
@@ -32,6 +39,20 @@ website:
         text: Organizers
       - href: news.qmd
         text: News
+
+  page-footer:
+    left: |
+      Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+    right:
+      - icon: twitter
+        href: https://twitter.com/journalOVI/
+        aria-label: JoVI Twitter
+      - icon: mastodon
+        href: https://hci.social/@jovi
+        aria-label: JoVI Mastodon
+      - icon: github
+        href: https://github.com/journalovi/journalovi.github.io
+        aria-label: JoVI Github
 
   sidebar:
     - id: submit
