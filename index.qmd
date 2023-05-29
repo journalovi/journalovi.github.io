@@ -20,6 +20,8 @@ format:
       - "[Chat Wacharamanotham](https://chatchavan.github.io), Swansea University"
 ---
 
+_**[Current Issue](https://journals.aau.dk/index.php/jovi/issue/current)**_
+
 ## What is JoVI?
 
 _The Journal of Visualization and Interaction_ (JoVI) is a venue for publishing scholarly work related to the fields of visualization and human-computer interaction. Contributions to the journal include research in: 
