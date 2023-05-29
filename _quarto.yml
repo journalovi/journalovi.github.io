@@ -9,11 +9,17 @@ website:
   site-url: https://journalovi.org
   image: images/jovi_wordmark.svg
   favicon: images/jovi_logo.svg
+  repo-url: https://github.com/journalovi/journalovi.github.io
+  repo-actions: [edit, issue]
   navbar:
     title: false
     logo: images/jovi_wordmark.svg
     logo-alt: JoVI
     type: dark
+    tools:
+      - icon: github
+        href: https://github.com/journalovi/journalovi.github.io
+        text: JoVI Github
     left:
       - href: index.qmd
         text: About
