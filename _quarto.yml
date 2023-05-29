@@ -17,6 +17,8 @@ website:
     left:
       - href: index.qmd
         text: About
+      - href: https://journals.aau.dk/index.php/jovi/issue/current
+        text: Current Issue
       - sidebar:submit
       - href: code-of-conduct.qmd
         text: Code of Conduct
