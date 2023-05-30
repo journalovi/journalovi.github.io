@@ -16,3 +16,4 @@ one of our social media channels below.
   * [Publication RSS Feed](https://journals.aau.dk/index.php/jovi/gateway/plugin/WebFeedGatewayPlugin/rss2)
   * [Twitter](https://twitter.com/journalovi)
   * [Mastodon](https://hci.social/@jovi)
+  * We have a public discussion channel (`#jovi`) on the Transparent Research Slack. Email [core@transparentstatistics.org](mailto:core@transparentstatistics.org) to join that Slack.
