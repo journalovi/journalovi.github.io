@@ -21,7 +21,7 @@ website:
         href: https://twitter.com/journalOVI/
         text: JoVI Twitter
       - icon: mastodon
-        href: https://hci.social/@jovi
+        href: "https://hci.social/%40jovi"
         text: JoVI Mastodon
         rel: me
       - icon: github
@@ -48,7 +48,7 @@ website:
         href: https://twitter.com/journalOVI/
         aria-label: JoVI Twitter
       - icon: mastodon
-        href: https://hci.social/@jovi
+        href: "https://hci.social/%40jovi"
         aria-label: JoVI Mastodon
       - icon: github
         href: https://github.com/journalovi/journalovi.github.io
