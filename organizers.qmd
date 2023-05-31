@@ -35,6 +35,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Niklas Elmqvist, University of Maryland, College Park
 - Lane Harrison, Worcester Polytechnic Institute
 - Yvonne Jansen, CNRS
+- Clemens Nylandsted Klokmose, Aarhus University
 - Houda Lamqaddam, University of Amsterdam
 - Lace Padilla, University of California, Merced
 - Jon Schwabish, Urban Institute
