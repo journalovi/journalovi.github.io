@@ -28,6 +28,10 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Carlos Scheidegger, Posit
 - Jon Schwabish, Urban Institute
 
+## Accessibility Chair
+
+- Dominik Moritz, Carnegie Mellon University ([accessibility@journalovi.org](mailto:accessibility@journalovi.org))
+
 ## Associate Editors
 
 - Leilani Battle, University of Washington
