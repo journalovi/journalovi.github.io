@@ -22,7 +22,7 @@ format:
 
 ## What is JoVI?
 
-_The Journal of Visualization and Interaction_ (JoVI) is a venue for publishing scholarly work related to the fields of visualization and human-computer interaction. Contributions to the journal include research in: 
+_The Journal of Visualization and Interaction_ (JoVI) is a venue for publishing scholarly work related to the fields of visualization and human-computer interaction. JoVI is a diamond open-access venue, i.e. a purely volunteer-driven effort that charges neither author nor subscription fees. Contributions to the journal include research in: 
 
 * how people understand and interact with information and technology, 
 * innovations in interaction techniques, interactive systems, or tools,
