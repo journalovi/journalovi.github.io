@@ -35,8 +35,8 @@ website:
       - sidebar:submit
       - href: code-of-conduct.qmd
         text: Code of Conduct
-      - href: organizers.qmd
-        text: Organizers
+      - href: people.qmd
+        text: People
       - href: news.qmd
         text: News
 

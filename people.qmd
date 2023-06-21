@@ -1,10 +1,12 @@
 ---
-title: "Organizers"
+title: "People"
 sidebar: false
 ---
 
 To contact the JoVI organizing committee, email [organizers@journalovi.org](mailto:organizers@journalovi.org).
 For submission inquiries, email [submit@journalovi.org](mailto:submit@journalovi.org).
+
+## Organizing Committee
 
 The JoVI organizers (in alphabetical order) are:
 
