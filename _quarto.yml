@@ -30,13 +30,30 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: https://journals.aau.dk/index.php/jovi/issue/current
-        text: Current Issue
-      - sidebar:submit
+      - text: Articles
+        menu:
+        - icon: box-arrow-up-right
+          href: https://journals.aau.dk/index.php/jovi/issue/current
+          text: Current Issue
+          target: _blank
+        - icon: box-arrow-up-right
+          href: https://journals.aau.dk/index.php/jovi/issue/archive
+          text: Past Issues
+          target: _blank
+        - href: under-review.qmd
+          text: Under Review
+      - text: Submissions
+        menu:
+        - href: submit.qmd
+          text: How to submit
+        - href: author-guide.qmd
+          text: Author guidelines
+        - href: reviewer-guide.qmd
+          text: Reviewer guidelines
       - href: code-of-conduct.qmd
         text: Code of Conduct
-      - href: organizers.qmd
-        text: Organizers
+      - href: people.qmd
+        text: People
       - href: news.qmd
         text: News
 
@@ -53,14 +70,6 @@ website:
       - icon: github
         href: https://github.com/journalovi/journalovi.github.io
         aria-label: JoVI Github
-
-  sidebar:
-    - id: submit
-      title: "Submissions"
-      contents:
-        - submit.qmd
-        - author-guide.qmd
-        - reviewer-guide.qmd
 
 format:
   html:
