@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://journalovi.org/organizers.html</loc>
-    <lastmod>2023-06-12T08:58:23.600Z</lastmod>
+    <loc>https://journalovi.org/index.html</loc>
+    <lastmod>2023-06-23T06:17:16.168Z</lastmod>
   </url>
   <url>
-    <loc>https://journalovi.org/code-of-conduct.html</loc>
-    <lastmod>2023-06-12T08:58:24.524Z</lastmod>
+    <loc>https://journalovi.org/people.html</loc>
+    <lastmod>2023-06-23T06:17:16.913Z</lastmod>
   </url>
   <url>
     <loc>https://journalovi.org/submit.html</loc>
-    <lastmod>2023-06-12T08:58:25.072Z</lastmod>
-  </url>
-  <url>
-    <loc>https://journalovi.org/news.html</loc>
-    <lastmod>2023-06-12T08:58:25.456Z</lastmod>
-  </url>
-  <url>
-    <loc>https://journalovi.org/author-guide.html</loc>
-    <lastmod>2023-06-12T08:58:26.360Z</lastmod>
-  </url>
-  <url>
-    <loc>https://journalovi.org/index.html</loc>
-    <lastmod>2023-06-12T08:58:31.840Z</lastmod>
-  </url>
-  <url>
-    <loc>https://journalovi.org/reviewer-guide.html</loc>
-    <lastmod>2023-06-12T08:58:32.912Z</lastmod>
+    <lastmod>2023-06-23T06:17:17.393Z</lastmod>
   </url>
   <url>
     <loc>https://journalovi.org/structured-abstract-examples.html</loc>
-    <lastmod>2023-06-12T08:58:33.528Z</lastmod>
+    <lastmod>2023-06-23T06:17:17.901Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/code-of-conduct.html</loc>
+    <lastmod>2023-06-23T06:17:18.357Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/under-review.html</loc>
+    <lastmod>2023-06-23T06:17:18.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/reviewer-guide.html</loc>
+    <lastmod>2023-06-23T06:17:19.557Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/news.html</loc>
+    <lastmod>2023-06-23T06:17:19.905Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/author-guide.html</loc>
+    <lastmod>2023-06-23T06:17:20.681Z</lastmod>
   </url>
 </urlset>
