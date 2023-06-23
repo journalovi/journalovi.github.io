@@ -3,6 +3,8 @@ title: "Articles under review"
 sidebar: false
 ---
 
-This page lists articles under review on the [Experimental ("Github") Track](submit.qmd#experimental) of JoVI. These articles have not yet been endorsed. Feedback on these articles is welcome in the form of Github issues opened on their underlying repository.
+This page lists articles under review on the [Experimental ("Github") Track](submit.qmd#experimental) of JoVI. The experimental track uses an "endorsement" model, where review proceeds as a back-and-forth between reviewers and authors via Github issues, and then reviewers can choose whether or not to endorse the paper. 
+
+The articles below are still under review and have not yet received any endorsements. Feedback on these articles is welcome in the form of Github issues opened on their underlying repository.
 
 - [Gatherplot: A Non-Overlapping Scatterplot](https://www.journalovi.org/2023-park-gatherplots/). Repository: <https://github.com/journalovi/2023-park-gatherplots>
