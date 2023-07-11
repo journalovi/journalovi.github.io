@@ -114,7 +114,7 @@ Each citation should have a clear purpose: to offload evidence or to build on ex
 
 ### Do's and Don'ts
 
--   If you only have expertise in one facet of a multi-faceted paper, state what facets of the paper you were qualified to review. Example:\_ My expertise is mostly in machine learning, so my review focuses on that part of the paper.\_
+-   If you only have expertise in one facet of a multi-faceted paper, state what facets of the paper you were qualified to review. Example: _My expertise is mostly in machine learning, so my review focuses on that part of the paper._
 -   Avoid "struggling to understand". The difficulties could be one of the following issues:
     -   Technical terms, theories, conceptual frameworks, or methods that you have inadequate knowledge of: Explicitly state the limitation of your expertise in the review form.
     -   Verbose or convoluted explanations: Precisely indicate which part(s) are verbose, convoluted, or confusing. Point out contradictions in the explanation, and suggest how the authors could improve them.
@@ -127,7 +127,7 @@ Each citation should have a clear purpose: to offload evidence or to build on ex
 
 ## Registered Reports
 
-A\*\* registered report (RR)\*\* is a subtype of the empirical research articles with two stages: In the initial submission, the motivation, methods, and potential interpretation of methods are described, but the data collection has not yet been performed. The reviewers can evaluate and recommend revision prior to the authors collecting data. Once the initial stage is accepted, the authors can run the study knowing that the results will not impact whether the study is published. The second stage of review primarily checks that the authors stuck to the original plan, documented any deviations, and drew appropriate conclusions. For more information, see [Registered Reports](http://cos.io/rr) at COS. This type of submission might not be suited for all kinds of visualization or HCI papers (see discussions [here](https://dx.doi.org/10.31219/osf.io/3z7kx)). Each reviewing phase of a registered report has to focus on different aspects of the submissions.
+A **registered report (RR)** is a subtype of the empirical research articles with two stages: In the initial submission, the motivation, methods, and potential interpretation of methods are described, but the data collection has not yet been performed. The reviewers can evaluate and recommend revision prior to the authors collecting data. Once the initial stage is accepted, the authors can run the study knowing that the results will not impact whether the study is published. The second stage of review primarily checks that the authors stuck to the original plan, documented any deviations, and drew appropriate conclusions. For more information, see [Registered Reports](http://cos.io/rr) at COS. This type of submission might not be suited for all kinds of visualization or HCI papers (see discussions [here](https://dx.doi.org/10.31219/osf.io/3z7kx)). Each reviewing phase of a registered report has to focus on different aspects of the submissions.
 
 Additional methodological points such as suggesting an additional analysis or data collection that does not directly fit with the authors' research question are encouraged but cannot be used to assess the validity of the submission and thus decide to reject or accept it. Once authors, reviewers, and editor(s) agree on the methodological plan, the submission is accepted in the first round.
 
