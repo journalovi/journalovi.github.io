@@ -1,0 +1,24 @@
+# JoVI Newsletter - Summer 2023
+
+Dear colleagues,
+
+The summer break is winding down, and we would like to give you an update about what's going on at our new Journal of Visualization and Interaction.
+
+First of all, we have our very first submission for the experimental track currently being reviewed. As the experimental track also exists to _experiment_
+with open reviews (among other things), you can follow the process along at [Github][1]. The interactive article draft can also be found online at [our website][2].
+
+In addition, we have agreed with two external academic venues, namely the [VISxAI workshop at IEEE VIS 2023][3], and the [Information+ Conference 2023][4], to act as
+publication venue for the extended versions of their proceedings. These articles will be subject to the same openness requirements as other JoVI submissions,
+and will go through a second round of reviews before being accepted into the corresponding special issue.
+
+If you have further questions about JoVI, feel free to contact us via [email](mailto:submit@journalovi.org), join our [Transparent Research Slack channel][5], or ping us on
+[Twitter](https://twitter.com/journalovi) and [Mastodon](https://hci.social/@jovi).
+
+Best regards, the JoVI editorial team
+(Lonni, Florian, Matt, and Chat)
+
+[1]: https://github.com/journalovi/2023-park-gatherplots/issues
+[2]: https://www.journalovi.org/2023-park-gatherplots/
+[3]: https://visxai.io/
+[4]: https://informationplusconference.com/2023/
+[5]: https://transparentresearch.slack.com/archives/C05ABC1MUAD
