@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>JoVI</title>
+<link>https://journalovi.org/news.html</link>
+<atom:link href="https://journalovi.org/news.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://journalovi.org/images/jovi_wordmark.svg</url>
+<title>JoVI</title>
+<link>https://journalovi.org/news.html</link>
+</image>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Sat, 26 Aug 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Summer 2023 Updates</title>
+  <dc:creator>JoVI Organizing Committee</dc:creator>
+  <link>https://journalovi.org/posts/2023-08-26-summer-2023-updates/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The summer break is winding down, and we would like to give you an update about what’s going on at the new Journal of Visualization and Interaction.</p>
+<p>First of all, we have our very first submission for the experimental track currently being reviewed. As the experimental track also exists to <em>experiment</em> with open reviews (among other things), you can follow the process along at <a href="https://github.com/journalovi/2023-park-gatherplots/issues">Github</a>. The interactive article draft can also be <a href="https://www.journalovi.org/2023-park-gatherplots/">found online</a>.</p>
+<p>In addition, we have agreed with two external academic venues, namely the <a href="https://visxai.io/">VISxAI workshop at IEEE VIS 2023</a> and the <a href="https://informationplusconference.com/2023/">Information+ Conference 2023</a>, to act as publication venue for the extended versions of their proceedings. These articles will be subject to the same openness requirements as other JoVI submissions, and will go through a second round of reviews before being accepted into the corresponding special issue.</p>
+<p>If you have further questions about JoVI, feel free to contact us via <a href="mailto:submit@journalovi.org">email</a>, join our <a href="https://transparentresearch.slack.com/archives/C05ABC1MUAD">Transparent Research Slack channel</a>, or ping us on <a href="https://twitter.com/journalovi">Twitter</a> and <a href="https://hci.social/@jovi">Mastodon</a>.</p>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <category>Experimental</category>
+  <category>VISxAI</category>
+  <category>Info+</category>
+  <guid>https://journalovi.org/posts/2023-08-26-summer-2023-updates/index.html</guid>
+  <pubDate>Sat, 26 Aug 2023 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

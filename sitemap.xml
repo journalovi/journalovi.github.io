@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://journalovi.org/submit.html</loc>
-    <lastmod>2023-07-11T18:40:01.718Z</lastmod>
-  </url>
-  <url>
-    <loc>https://journalovi.org/under-review.html</loc>
-    <lastmod>2023-07-11T18:40:00.194Z</lastmod>
-  </url>
-  <url>
-    <loc>https://journalovi.org/structured-abstract-examples.html</loc>
-    <lastmod>2023-07-11T18:39:59.386Z</lastmod>
+    <loc>https://journalovi.org/author-guide.html</loc>
+    <lastmod>2023-08-27T16:44:37.673Z</lastmod>
   </url>
   <url>
     <loc>https://journalovi.org/people.html</loc>
-    <lastmod>2023-07-11T18:39:57.986Z</lastmod>
+    <lastmod>2023-08-27T16:44:36.441Z</lastmod>
   </url>
   <url>
     <loc>https://journalovi.org/news.html</loc>
-    <lastmod>2023-07-11T18:39:57.258Z</lastmod>
+    <lastmod>2023-08-27T16:44:35.281Z</lastmod>
   </url>
   <url>
     <loc>https://journalovi.org/index.html</loc>
-    <lastmod>2023-07-11T18:39:56.566Z</lastmod>
+    <lastmod>2023-08-27T16:44:33.757Z</lastmod>
   </url>
   <url>
-    <loc>https://journalovi.org/author-guide.html</loc>
-    <lastmod>2023-07-11T18:39:58.842Z</lastmod>
+    <loc>https://journalovi.org/under-review.html</loc>
+    <lastmod>2023-08-27T16:44:27.789Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/submit.html</loc>
+    <lastmod>2023-08-27T16:44:28.705Z</lastmod>
   </url>
   <url>
     <loc>https://journalovi.org/code-of-conduct.html</loc>
-    <lastmod>2023-07-11T18:39:59.866Z</lastmod>
+    <lastmod>2023-08-27T16:44:34.189Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/posts/2023-08-26-summer-2023-updates/index.html</loc>
+    <lastmod>2023-08-27T16:44:34.857Z</lastmod>
   </url>
   <url>
     <loc>https://journalovi.org/reviewer-guide.html</loc>
-    <lastmod>2023-07-11T18:40:01.218Z</lastmod>
+    <lastmod>2023-08-27T16:44:36.097Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/structured-abstract-examples.html</loc>
+    <lastmod>2023-08-27T16:44:36.941Z</lastmod>
   </url>
 </urlset>
