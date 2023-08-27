@@ -1,19 +1,18 @@
 ---
 title: "News"
-sidebar: false
+listing: 
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  feed: true
 ---
 
-To keep up with JoVI announcements, such as new papers or calls, subscribe to the
-[general announcement mailing list](https://groups.google.com/g/jovi-general) or
-one of our social media channels below.
-
-## Mailing List
+JoVI news and announcements are posted [below](#posts). You can also keep up with JoVI via the following channels: 
 
   * [General announcement mailing list](https://groups.google.com/g/jovi-general)
-  
-## Social Media
+  * [News RSS feed](news.xml) and [Publication RSS feed](https://journals.aau.dk/index.php/jovi/gateway/plugin/WebFeedGatewayPlugin/rss2)
+  * [Mastodon](https://hci.social/@jovi) or [Twitter](https://twitter.com/journalovi)
+  * Our public discussion channel (`#jovi`) on the Transparent Research Slack. Email [core@transparentstatistics.org](mailto:core@transparentstatistics.org) to join that Slack.
 
-  * [Publication RSS Feed](https://journals.aau.dk/index.php/jovi/gateway/plugin/WebFeedGatewayPlugin/rss2)
-  * [Twitter](https://twitter.com/journalovi)
-  * [Mastodon](https://hci.social/@jovi)
-  * We have a public discussion channel (`#jovi`) on the Transparent Research Slack. Email [core@transparentstatistics.org](mailto:core@transparentstatistics.org) to join that Slack.
+## Posts {#posts .unlisted}

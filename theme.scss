@@ -43,3 +43,27 @@ h4, .h4 {
   text-transform: uppercase;
   letter-spacing: 0.02rem;
 }
+
+
+/* NEWS */
+
+.quarto-title-banner {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.quarto-title-banner .quarto-title .title {
+  font-weight: bold;
+  color: var(--bs-body-color);
+}
+
+.quarto-title-banner .description {
+  font-weight: 300;
+  padding-top: 0.25em;
+}
+
+.quarto-title-banner .quarto-categories {
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 0.75em;
+  margin-top: 0.5em;
+}
