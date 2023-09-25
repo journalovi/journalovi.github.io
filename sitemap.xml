@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://journalovi.org/author-guide.html</loc>
-    <lastmod>2023-08-27T16:44:37.673Z</lastmod>
-  </url>
-  <url>
-    <loc>https://journalovi.org/people.html</loc>
-    <lastmod>2023-08-27T16:44:36.441Z</lastmod>
-  </url>
-  <url>
-    <loc>https://journalovi.org/news.html</loc>
-    <lastmod>2023-08-27T16:44:35.281Z</lastmod>
-  </url>
-  <url>
-    <loc>https://journalovi.org/index.html</loc>
-    <lastmod>2023-08-27T16:44:33.757Z</lastmod>
-  </url>
-  <url>
     <loc>https://journalovi.org/under-review.html</loc>
-    <lastmod>2023-08-27T16:44:27.789Z</lastmod>
+    <lastmod>2023-09-25T16:01:21.437Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/author-guide.html</loc>
+    <lastmod>2023-09-25T16:01:19.717Z</lastmod>
   </url>
   <url>
     <loc>https://journalovi.org/submit.html</loc>
-    <lastmod>2023-08-27T16:44:28.705Z</lastmod>
+    <lastmod>2023-09-25T16:01:17.885Z</lastmod>
   </url>
   <url>
-    <loc>https://journalovi.org/code-of-conduct.html</loc>
-    <lastmod>2023-08-27T16:44:34.189Z</lastmod>
+    <loc>https://journalovi.org/news.html</loc>
+    <lastmod>2023-09-25T16:01:16.793Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/index.html</loc>
+    <lastmod>2023-09-25T16:01:15.445Z</lastmod>
   </url>
   <url>
     <loc>https://journalovi.org/posts/2023-08-26-summer-2023-updates/index.html</loc>
-    <lastmod>2023-08-27T16:44:34.857Z</lastmod>
+    <lastmod>2023-09-25T16:01:16.265Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/code-of-conduct.html</loc>
+    <lastmod>2023-09-25T16:01:17.341Z</lastmod>
   </url>
   <url>
     <loc>https://journalovi.org/reviewer-guide.html</loc>
-    <lastmod>2023-08-27T16:44:36.097Z</lastmod>
+    <lastmod>2023-09-25T16:01:18.881Z</lastmod>
   </url>
   <url>
     <loc>https://journalovi.org/structured-abstract-examples.html</loc>
-    <lastmod>2023-08-27T16:44:36.941Z</lastmod>
+    <lastmod>2023-09-25T16:01:20.337Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/people.html</loc>
+    <lastmod>2023-09-25T16:01:21.065Z</lastmod>
   </url>
 </urlset>
