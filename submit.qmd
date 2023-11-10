@@ -50,7 +50,7 @@ The experimental track is an alternative submission and review process that mani
 If your software requires server-side execution to work, see relevant instructions in the [author guide](https://www.journalovi.org/author-guide.html#what-if-my-interactive-article-requires-server-side-execution). 
 If you are interested in trying another format, please email [submit@journalovi.org](mailto:submit@journalovi.org).
 
-To submit to the experimental track, write your paper in Quarto using [this template](https://github.com/journalovi/jovi-template-quarto) and then email us your paper information and a link to your repository at [submit@journalovi.org](mailto:submit@journalovi.org). A live preview of the JoVI quarto template is available [here](https://www.journalovi.org/jovi-template-quarto/).
+To submit to the experimental track, write your paper in [this template](https://github.com/journalovi/jovi-template-quarto) and then email us your paper information and a link to your repository at [submit@journalovi.org](mailto:submit@journalovi.org). A live preview of this template is available [here](https://www.journalovi.org/jovi-template-quarto/).
 
 
 ### Reviewing
