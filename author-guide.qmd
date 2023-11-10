@@ -162,6 +162,15 @@ To submit an OSF repository with an anonymous submission:
 2.  [Create an anonymous version of a project](https://help.osf.io/hc/en-us/articles/360019930333-Create-a-View-only-Link-for-a-Project).
 3.  [Create a view-only link to an anonymous version of a preregistration](https://help.osf.io/hc/en-us/articles/360042097853-Create-a-View-only-Link-for-a-Registration).
 
+### What if my interactive article requires server-side execution?
+
+Such self-contained web applications will likely remain working in the long run. It may be possible to make your software self-contained as a WebAssembly application. See ongoing work in [R](https://posit-dev.github.io/r-shinylive/) and [Python](https://github.com/posit-dev/py-shinylive) 
+However, there could be situations where the solutions above do not work or are unsuitable, e.g., works that require heavy computation. If server-side execution is unavoidable, we expect the following in your submission:
+
+1. Your primary submission will be a “lite” version that can demonstrate the essence of the work in a self-contained package (HTML + Javascript). Upon publication, only the lite version will be archived by JoVI.
+2. The full version must be accessible to reviewers and editors throughout the reviewing process. After publication, maintaining the full version is at the authors’ discretion.
+3. A Docker file that allows your server-side infrastructure to be reproduced
+
 ## Anonymity and secrecy
 
 During the reviewing process, authors may choose to be anonymous or not. Reviewers may choose to sign their reviews or to remain anonymous. Editors will always know who the authors and the reviewers are.
