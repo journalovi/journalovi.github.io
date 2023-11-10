@@ -45,11 +45,14 @@ To submit:
 
 The experimental track is an alternative submission and review process that manifests our [commitment to experimenting with review processes](index.qmd#ambitions). This track is less well-defined, in part because we wish it to evolve with authors as we use it.
 
+### Submission format
 **We strongly recommend papers on the "Github" track be written in [Quarto](https://quarto.org/)**, a markdown-based computational notebook format. Quarto is a plain text format that can be used with documents written in a variety of forms (RMarkdown, Jupyter notebook, Word, Latex), and supports embedded computation (in many languages, including R, Python, and Julia) and **interactivity** (using JavaScript / Observable, d3, etc). In keeping with the experimental nature of this track, **you may also write your paper using other tools**, so long as the output can be rendered to a self-contained HTML+JavaScript site.
 If your software requires server-side execution to work, see relevant instructions in the [author guide](https://www.journalovi.org/author-guide.html#what-if-my-interactive-article-requires-server-side-execution). 
 If you are interested in trying another format, please email [submit@journalovi.org](mailto:submit@journalovi.org).
 
-All review on the experimental track will proceed as Github issues and pull requests, and published papers on this track can be updated using pull requests, even after publication. The Github repository for each submission will be public throughout the process, regardless of the final decision on the submission. Therefore, while withdrawal of a submission is possible (in the sense that authors can ask for their paper not to be considered "published" at JoVI), the submitted paper and reviews will still be public even if the submission is withdrawn or is not accepted.
-
 To submit to the experimental track, write your paper in Quarto using [this template](https://github.com/journalovi/jovi-template-quarto) and then email us your paper information and a link to your repository at [submit@journalovi.org](mailto:submit@journalovi.org). A live preview of the JoVI quarto template is available [here](https://www.journalovi.org/jovi-template-quarto/).
 
+
+### Reviewing
+
+All review on the experimental track will proceed as Github issues and pull requests, and published papers on this track can be updated using pull requests, even after publication. The Github repository for each submission will be public throughout the process, regardless of the final decision on the submission. Therefore, while withdrawal of a submission is possible (in the sense that authors can ask for their paper not to be considered "published" at JoVI), the submitted paper and reviews will still be public even if the submission is withdrawn or is not accepted.
