@@ -176,6 +176,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#non-compliant-repositories" id="toc-non-compliant-repositories" class="nav-link" data-scroll-target="#non-compliant-repositories">Non-compliant repositories</a></li>
   <li><a href="#what-if-my-data-is-too-large-for-osf" id="toc-what-if-my-data-is-too-large-for-osf" class="nav-link" data-scroll-target="#what-if-my-data-is-too-large-for-osf">What if my data is too large for OSF?</a></li>
   <li><a href="#making-the-repository-anonymous" id="toc-making-the-repository-anonymous" class="nav-link" data-scroll-target="#making-the-repository-anonymous">Making the repository anonymous</a></li>
+  <li><a href="#what-if-my-interactive-article-requires-server-side-execution" id="toc-what-if-my-interactive-article-requires-server-side-execution" class="nav-link" data-scroll-target="#what-if-my-interactive-article-requires-server-side-execution">What if my interactive article requires server-side execution?</a></li>
   </ul></li>
   <li><a href="#anonymity-and-secrecy" id="toc-anonymity-and-secrecy" class="nav-link" data-scroll-target="#anonymity-and-secrecy">Anonymity and secrecy</a></li>
   <li><a href="#humane-and-transparent-reviewing" id="toc-humane-and-transparent-reviewing" class="nav-link" data-scroll-target="#humane-and-transparent-reviewing">Humane and transparent reviewing</a></li>
@@ -373,6 +374,16 @@ ul.task-list li input[type="checkbox"] {
 <li>Ensure that the repository is private</li>
 <li><a href="https://help.osf.io/hc/en-us/articles/360019930333-Create-a-View-only-Link-for-a-Project">Create an anonymous version of a project</a>.</li>
 <li><a href="https://help.osf.io/hc/en-us/articles/360042097853-Create-a-View-only-Link-for-a-Registration">Create a view-only link to an anonymous version of a preregistration</a>.</li>
+</ol>
+</section>
+<section id="what-if-my-interactive-article-requires-server-side-execution" class="level3">
+<h3 class="anchored" data-anchor-id="what-if-my-interactive-article-requires-server-side-execution">What if my interactive article requires server-side execution?</h3>
+<p><strong>We prefer self-contained web applications</strong> as they will likely remain working in the long run. It may be possible to make your software self-contained as a WebAssembly application. See ongoing work in <a href="https://posit-dev.github.io/r-shinylive/">R</a> and <a href="https://github.com/posit-dev/py-shinylive">Python</a>. However, there could be situations where the solutions above do not work or are unsuitable, e.g., works that require heavy computation.</p>
+<p><strong>If server-side execution is unavoidable</strong>, we expect the following in your submission:</p>
+<ol type="1">
+<li>Your primary submission will be a “lite” version that can demonstrate the essence of the work in a self-contained package (HTML + Javascript). Upon publication, only the lite version will be archived by JoVI.</li>
+<li>The full version must be accessible to reviewers and editors throughout the reviewing process. After publication, maintaining the full version is at the authors’ discretion.</li>
+<li>A Docker file that allows your server-side infrastructure to be reproduced</li>
 </ol>
 </section>
 </section>
