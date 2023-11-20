@@ -21,6 +21,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 
 - Pierre Dragicevic, Inria Bordeaux
 - Jason Dykes, City, University of London
+- Jeffrey Heer, University of Washington
 - Kasper Hornbæk, University of Copenhagen
 - Eva Hornecker, Bauhaus-Universität Weimar
 - Jessica Hullman, Northwestern University
