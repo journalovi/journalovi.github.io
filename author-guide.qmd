@@ -112,7 +112,9 @@ The corollary of this is that there is also no minimum page count for JoVI paper
 
 ### Delivery format
 
-Deliver the article in one PDF file. If the paper will be reviewed anonymously, include a non-anonymized version in a separate PDF (this will not be released to reviewers).
+**Traditional track:** Deliver the article in one PDF file. If the paper will be reviewed anonymously, include a non-anonymized version in a separate PDF (this will not be released to reviewers).
+**Experimental ("Github") track:** See [How to submit page](submit.qmd)
+
 
 ## Transparency and open research requirements {#transparency-requirements}
 
@@ -161,6 +163,9 @@ To submit an OSF repository with an anonymous submission:
 1.  Ensure that the repository is private
 2.  [Create an anonymous version of a project](https://help.osf.io/hc/en-us/articles/360019930333-Create-a-View-only-Link-for-a-Project).
 3.  [Create a view-only link to an anonymous version of a preregistration](https://help.osf.io/hc/en-us/articles/360042097853-Create-a-View-only-Link-for-a-Registration).
+
+### Supplementary repository vs. paper repository
+Supplementary materials mentioned in this section are on a repository maintained by the author. This "supplementary repository" is separated from the "paper repository"—which JoVI creates on GitHub for each paper. This separation of ownership allows the authors to use their supplementary repository for (1) past/future papers on the same line of research, (2) keeping the preregistration records that were done prior to submission. The paper repository enables JoVI continuous and open reviewing process.
 
 ### What if my interactive article requires server-side execution?
 
