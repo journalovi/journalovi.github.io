@@ -164,8 +164,10 @@ To submit an OSF repository with an anonymous submission:
 
 ### What if my interactive article requires server-side execution?
 
-Such self-contained web applications will likely remain working in the long run. It may be possible to make your software self-contained as a WebAssembly application. See ongoing work in [R](https://posit-dev.github.io/r-shinylive/) and [Python](https://github.com/posit-dev/py-shinylive) 
-However, there could be situations where the solutions above do not work or are unsuitable, e.g., works that require heavy computation. If server-side execution is unavoidable, we expect the following in your submission:
+__We prefer self-contained web applications__ as they will likely remain working in the long run. It may be possible to make your software self-contained as a WebAssembly application. See ongoing work in [R](https://posit-dev.github.io/r-shinylive/) and [Python](https://github.com/posit-dev/py-shinylive).
+However, there could be situations where the solutions above do not work or are unsuitable, e.g., works that require heavy computation. 
+
+__If server-side execution is unavoidable__, we expect the following in your submission:
 
 1. Your primary submission will be a “lite” version that can demonstrate the essence of the work in a self-contained package (HTML + Javascript). Upon publication, only the lite version will be archived by JoVI.
 2. The full version must be accessible to reviewers and editors throughout the reviewing process. After publication, maintaining the full version is at the authors’ discretion.
