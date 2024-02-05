@@ -8,3 +8,10 @@ This page lists articles under review on the [Experimental ("Github") Track](sub
 The articles below are still under review and have not yet received any endorsements. Feedback on these articles is welcome in the form of Github issues opened on their underlying repository.
 
 - [Gatherplot: A Non-Overlapping Scatterplot](https://www.journalovi.org/2023-park-gatherplots/). Repository: <https://github.com/journalovi/2023-park-gatherplots>
+
+### VISxAI 2023 
+
+The articles below were originally part of [VISxAI 2023](https://visxai.io/) and are now under review for a special issue at JoVI:
+
+- [PAC Learning; Or: Why We Should (and Shouldn't) Trust Machine Learning](https://www.journalovi.org/2024-Cashman-PAC-learning-game/). Repository: <https://github.com/journalovi/2024-Cashman-PAC-learning-game>
+
