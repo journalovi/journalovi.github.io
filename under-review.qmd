@@ -15,3 +15,4 @@ The articles below were originally part of [VISxAI 2023](https://visxai.io/) and
 
 - [PAC Learning; Or: Why We Should (and Shouldn't) Trust Machine Learning](https://www.journalovi.org/2024-Cashman-PAC-learning-game/). Repository: <https://github.com/journalovi/2024-Cashman-PAC-learning-game>
 
+- Neighborhood traces: When your neighborhood changes one layer at a time. AE allocated. Repository-pending.
