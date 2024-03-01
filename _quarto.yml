@@ -9,6 +9,9 @@ website:
   site-url: https://journalovi.org
   image: images/jovi_wordmark.svg
   favicon: images/jovi_logo.svg
+  open-graph: true
+  twitter-card:
+    site: "@JournalOVI"
   repo-url: https://github.com/journalovi/journalovi.github.io
   repo-actions: [edit, issue]
   navbar:
@@ -80,7 +83,6 @@ website:
 format:
   html:
     theme: theme.scss
-    css: custom.css
     toc: true
     linkcolor: "#9E005D"
 
