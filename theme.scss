@@ -20,6 +20,33 @@ $font-family-sans-serif:  "Source Sans Pro", -apple-system, BlinkMacSystemFont, 
   border-bottom: 2px solid $navbar-hl;
 }
 
+@media (max-width: 575px) {
+  .quarto-navbar-tools {
+    // hide the navbar icons (mastodon link, rss, etc) in small displays
+    // since these are repeated at the bottom of the page anyway and they
+    // clutter up the navbar at the top
+    display: none;
+  }
+}
+
+
+/* FOOTER */
+@media (max-width: 575px) {
+  .nav-footer-left, .nav-footer-center, .nav-footer-right {
+    flex: 100%;
+    text-align: center;
+  }
+  .nav-footer-center, .nav-footer-right {
+    margin-top: 1em;
+  }
+  .nav-footer-center {
+    order: 10;
+  }
+  .nav-footer-center .toc-actions > ul {
+    padding-left: 0;
+  }
+}
+
 
 /* HEADINGS */
 
