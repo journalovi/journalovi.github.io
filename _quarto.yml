@@ -7,7 +7,7 @@ project:
 website:
   title: "JoVI"
   site-url: https://journalovi.org
-  image: images/jovi_wordmark.svg
+  image: images/jovi_wordmark_white_bg.png
   favicon: images/jovi_logo.svg
   open-graph: true
   twitter-card:
