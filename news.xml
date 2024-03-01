@@ -10,9 +10,11 @@
 <atom:link href="https://journalovi.org/news.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <image>
-<url>https://journalovi.org/images/jovi_wordmark.svg</url>
+<url>https://journalovi.org/images/jovi_wordmark_white_bg.png</url>
 <title>JoVI</title>
 <link>https://journalovi.org/news.html</link>
+<height>76</height>
+<width>144</width>
 </image>
 <generator>quarto-1.4.550</generator>
 <lastBuildDate>Sat, 26 Aug 2023 00:00:00 GMT</lastBuildDate>
