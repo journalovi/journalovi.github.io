@@ -40,6 +40,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Leilani Battle, University of Washington
 - Jason Dykes, City, University of London
 - Niklas Elmqvist, University of Maryland, College Park
+- James Eagan, Institut Polytechnique de Paris
 - Lane Harrison, Worcester Polytechnic Institute
 - Yvonne Jansen, CNRS
 - Clemens Nylandsted Klokmose, Aarhus University
