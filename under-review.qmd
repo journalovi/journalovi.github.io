@@ -53,8 +53,7 @@ make_article_links = function(repos) {
 # find journalovi article repos
 repos = gh("/orgs/{org}/repos", org = "journalovi", type = "public", .limit = Inf)
 
-is_article = has_topic(repos, "article")
-is_template = has_topic(repos, "template")
+is_article = has_topic(repos, "article") & !has_topic(repos, "template")
 is_visxai = has_topic(repos, "visxai")
 ```
 
@@ -69,7 +68,7 @@ The articles below are still under review and have not yet received any endorsem
 
 # to add articles to this list:
 # add the "article" topic to the github repo
-cat(make_article_links(repos[is_article & !is_template & !is_visxai]))
+cat(make_article_links(repos[is_article & !is_visxai]))
 ```
 
 ### VISxAI 2023 
@@ -83,5 +82,5 @@ The articles below were originally part of [VISxAI 2023](https://visxai.io/) and
 
 # to add articles to this list: 
 # add the "article" and "visxai" topics to the github repo
-cat(make_article_links(repos[is_article & !is_template & is_visxai]))
+cat(make_article_links(repos[is_article & is_visxai]))
 ```
