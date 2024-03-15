@@ -3,16 +3,84 @@ title: "Articles under review"
 sidebar: false
 ---
 
+```{r}
+#| include: false
+# TO UPDATE THIS PAGE:
+# 1. Add the "article" topic to any new articles on github. You may
+#    also need to add other topics (e.g. "visxai" for VISxAI papers).
+# 2. Re-render. Checkout the repo, delete the _freeze/under-review folder,
+#    then re-render.
+
+library(gh)    # for accessing github API
+library(rvest) # for HTML manipulation (to get paper titles)
+
+# Escape a string `x` for use in markdown
+escape_md = function(x) {
+  gsub("([*_()[$<>]|\\])", "\\\\\\1", x)
+}
+
+# Given `repos`, a list of repositories, and `topic`, a string giving a topic
+# name, return a logical vector the same length as `repos` indicating if 
+# each repo has that topic 
+has_topic = function(repos, topic) {
+  vapply(repos, \(repo) topic %in% repo$topics, FUN.VALUE = logical(1))
+}
+
+# Given `repos`, a list of repositories containing JoVI papers, return
+# a character vector of a markdown bulleted list containing 
+# links to those articles and their repositories. The article title
+# in this list is determined by the <title> tag in the live article.
+make_article_links = function(repos) {
+  repo_names = vapply(repos, `[[`, "name", FUN.VALUE = character(1))
+  titles = vapply(repo_names, FUN.VALUE = character(1), \(repo_name) {
+    live_article_url = paste0("https://journalovi.org/", repo_name)
+    tryCatch({
+      live_article_html = read_html(live_article_url)
+      title_element = html_elements(live_article_html, "title")
+      html_text(title_element)
+    }, error = function(e) {
+      repo_name
+    })
+  })
+  paste0(
+    "- [", escape_md(titles), "]",
+    "(https://www.journalovi.org/", repo_names, ")<br>",
+    "\\[[Repository](https://github.com/journalovi/", repo_names, ") | ",
+    "[Reviews/Issues](https://github.com/journalovi/", repo_names, "/issues)\\]\n"
+  )
+}
+
+# find journalovi article repos
+repos = gh("/orgs/{org}/repos", org = "journalovi", type = "public", .limit = Inf)
+
+is_article = has_topic(repos, "article") & !has_topic(repos, "template")
+is_visxai = has_topic(repos, "visxai")
+```
+
 This page lists articles under review on the [Experimental ("Github") Track](submit.qmd#experimental) of JoVI. The experimental track uses an "endorsement" model, where review proceeds as a back-and-forth between reviewers and authors via Github issues, and then reviewers can choose whether or not to endorse the paper. 
 
 The articles below are still under review and have not yet received any endorsements. Feedback on these articles is welcome in the form of Github issues opened on their underlying repository.
 
-- [Gatherplot: A Non-Overlapping Scatterplot](https://www.journalovi.org/2023-park-gatherplots/). Repository: <https://github.com/journalovi/2023-park-gatherplots>
+```{r}
+#| echo: false
+#| warning: false
+#| output: asis
+
+# to add articles to this list:
+# add the "article" topic to the github repo
+cat(make_article_links(repos[is_article & !is_visxai]))
+```
 
 ### VISxAI 2023 
 
 The articles below were originally part of [VISxAI 2023](https://visxai.io/) and are now under review for a special issue at JoVI:
 
-- [PAC Learning; Or: Why We Should (and Shouldn't) Trust Machine Learning](https://www.journalovi.org/2024-Cashman-PAC-learning-game/). Repository: <https://github.com/journalovi/2024-Cashman-PAC-learning-game>
+```{r}
+#| echo: false
+#| warning: false
+#| output: asis
 
-- [Neighborhood traces: When your neighborhood changes one layer at a time](http://journalovi.org/2024-Dueck-neighborhood-traces/). Repository: <https://github.com/journalovi/2024-Dueck-neighborhood-traces>
+# to add articles to this list: 
+# add the "article" and "visxai" topics to the github repo
+cat(make_article_links(repos[is_article & is_visxai]))
+```
