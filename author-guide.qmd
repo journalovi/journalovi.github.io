@@ -189,7 +189,7 @@ __If server-side execution is unavoidable__, we expect the following in your sub
 
 ## Anonymity and secrecy
 
-During the reviewing process, authors may choose to be anonymous or not. Reviewers may choose to sign their reviews or to remain anonymous. Editors will always know who the authors and the reviewers are.
+During the reviewing process, authors may choose to be anonymous or not. Reviewers may choose to sign their reviews or to remain anonymous. Editors will always know who the authors and the reviewers are. Potential editors may see who the authors are when resolving conflicts.
 
 Sharing **preprints** prior to submission is encouraged.
 
