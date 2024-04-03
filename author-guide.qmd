@@ -187,6 +187,13 @@ __If server-side execution is unavoidable__, we expect the following in your sub
 2. The full version must be accessible to reviewers and editors throughout the reviewing process. After publication, maintaining the full version is at the authors’ discretion.
 3. A Docker file that allows your server-side infrastructure to be reproduced
 
+### I analyzed my data via a GUI and do not have analysis code.
+Many GUI-based statistical software actually keep track of what you did in code that you can export, e.g., [[SPSS]](https://libguides.library.kent.edu/SPSS/Syntax), [[JMP]](https://www.jmp.com/support/help/en/18.0/#page/jmp/let-jmp-teach-you-jsl.shtml).
+If your software does not provide script exports, please capture the steps that you went through as detailed as you can (e.g., indicate which options were checked or not, or provide screenshots). 
+As a last resort, describe the statistical methods that you use in as much detail as you can.
+
+Lastly, once you have the data in the table ready for GUI statistical software, running the analysis in R is only 2–3 lines of code. Many tutorials are accessible free of charge over the internet, e.g., [Koji Yatani’s](https://yatani.jp/teaching/doku.php?id=hcistats:start) and [Jacob Wobbrock’s](http://depts.washington.edu/acelab/proj/Rstats/index.html), and [Hadley Wickham et al.](https://r4ds.hadley.nz).
+
 ## Anonymity and secrecy
 
 During the reviewing process, authors may choose to be anonymous or not. Reviewers may choose to sign their reviews or to remain anonymous. Editors will always know who the authors and the reviewers are.
