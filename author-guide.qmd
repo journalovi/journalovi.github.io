@@ -196,7 +196,7 @@ Lastly, once you have the data in the table ready for GUI statistical software, 
 
 ## Anonymity and secrecy
 
-During the reviewing process, authors may choose to be anonymous or not. Reviewers may choose to sign their reviews or to remain anonymous. Editors will always know who the authors and the reviewers are.
+During the reviewing process, authors may choose to be anonymous or not. Reviewers may choose to sign their reviews or to remain anonymous. Editors will always know who the authors and the reviewers are. Potential editors may also see who the authors are during editor recruitment.
 
 Sharing **preprints** prior to submission is encouraged.
 
