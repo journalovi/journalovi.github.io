@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="JoVI Organizing Committee">
+<meta name="dcterms.date" content="2024-04-04">
+<meta name="description" content="Experimenting with new review methods, open practices, and interactive publications in HCI">
 
-<title>JoVI - News</title>
+<title>JoVI - SIG @ CHI 2024</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +26,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/jovi_logo.svg" rel="icon" type="image/svg+xml">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/jovi_logo.svg" rel="icon" type="image/svg+xml">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,90 +70,28 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="alternate" type="application/rss+xml" title="JoVI" href="news.xml" data-external="1"><meta property="og:title" content="JoVI - News">
-<meta property="og:description" content="">
-<meta property="og:image" content="https://journalovi.org/images/jovi_wordmark_white_bg.png">
+<meta property="og:title" content="JoVI - SIG @ CHI 2024">
+<meta property="og:description" content="Experimenting with new review methods, open practices, and interactive publications in HCI">
+<meta property="og:image" content="https://journalovi.org/posts/2024-04-04-chi-sig/images/jovi_wordmark_white_bg.png">
 <meta property="og:site_name" content="JoVI">
-<meta property="og:image:height" content="630">
-<meta property="og:image:width" content="1200">
-<meta name="twitter:title" content="JoVI - News">
-<meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://journalovi.org/images/jovi_wordmark_white_bg.png">
+<meta name="twitter:title" content="JoVI - SIG @ CHI 2024">
+<meta name="twitter:description" content="Experimenting with new review methods, open practices, and interactive publications in HCI">
+<meta name="twitter:image" content="https://journalovi.org/posts/2024-04-04-chi-sig/images/jovi_wordmark_white_bg.png">
 <meta name="twitter:site" content="@JournalOVI">
-<meta name="twitter:image-height" content="630">
-<meta name="twitter:image-width" content="1200">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/jovi_wordmark.svg" alt="JoVI" class="navbar-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/jovi_wordmark.svg" alt="JoVI" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -162,7 +101,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -181,7 +120,7 @@ window.Quarto = {
  <span class="dropdown-text">Past Issues</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./under-review.html">
+    <a class="dropdown-item" href="../../under-review.html">
  <span class="dropdown-text">Under Review</span></a>
   </li>  
     </ul>
@@ -192,29 +131,29 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-submissions">    
         <li>
-    <a class="dropdown-item" href="./submit.html">
+    <a class="dropdown-item" href="../../submit.html">
  <span class="dropdown-text">How to submit</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./author-guide.html">
+    <a class="dropdown-item" href="../../author-guide.html">
  <span class="dropdown-text">Author guidelines</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./reviewer-guide.html">
+    <a class="dropdown-item" href="../../reviewer-guide.html">
  <span class="dropdown-text">Reviewer guidelines</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./code-of-conduct.html"> 
+    <a class="nav-link" href="../../code-of-conduct.html"> 
 <span class="menu-text">Code of Conduct</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
+    <a class="nav-link" href="../../people.html"> 
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./news.html" aria-current="page"> 
+    <a class="nav-link" href="../../news.html"> 
 <span class="menu-text">News</span></a>
   </li>  
 </ul>
@@ -223,142 +162,103 @@ window.Quarto = {
     <a href="https://twitter.com/journalOVI/" title="JoVI Twitter" class="quarto-navigation-tool px-1" aria-label="JoVI Twitter"><i class="bi bi-twitter"></i></a>
     <a href="https://hci.social/@jovi" rel="&quot;me&quot;" title="JoVI Mastodon" class="quarto-navigation-tool px-1" aria-label="JoVI Mastodon"><i class="bi bi-mastodon"></i></a>
     <a href="https://github.com/journalovi/journalovi.github.io" title="JoVI Github" class="quarto-navigation-tool px-1" aria-label="JoVI Github"><i class="bi bi-github"></i></a>
-    <a href="./news.xml" title="JoVI RSS" class="quarto-navigation-tool px-1" aria-label="JoVI RSS"><i class="bi bi-rss-fill"></i></a>
+    <a href="../../news.xml" title="JoVI RSS" class="quarto-navigation-tool px-1" aria-label="JoVI RSS"><i class="bi bi-rss-fill"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">SIG @ CHI 2024</h1>
+                  <div>
+        <div class="description">
+          Experimenting with new review methods, open practices, and interactive publications in HCI
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">News</div>
+                <div class="quarto-category">Events</div>
+                <div class="quarto-category">CHI</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>JoVI Organizing Committee </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">April 4, 2024</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="CHI">CHI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Events">Events <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Experimental">Experimental <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Info+">Info+ <span class="quarto-category-count">(1)</span></div><div class="category" data-category="News">News <span class="quarto-category-count">(2)</span></div><div class="category" data-category="VISxAI">VISxAI <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#goals-of-the-event" id="toc-goals-of-the-event" class="nav-link active" data-scroll-target="#goals-of-the-event">Goals of the event</a></li>
+  <li><a href="#how-to-attend" id="toc-how-to-attend" class="nav-link" data-scroll-target="#how-to-attend">How to attend</a></li>
+  <li><a href="#please-spread-the-word" id="toc-please-spread-the-word" class="nav-link" data-scroll-target="#please-spread-the-word">Please spread the word</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/journalovi/journalovi.github.io/edit/main/posts/2024-04-04-chi-sig/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/journalovi/journalovi.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">News</h1>
-</div>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
 
 
-</header>
-
-
-<p>JoVI news and announcements are posted <a href="#posts">below</a>. You can also keep up with JoVI via the following channels:</p>
+<p>Are you going to CHI 2024 and interested in experimenting with new review methods, open practices, and interactive publications in HCI? Join us in a SIG meeting hosted by <a href="https://www.journalovi.org/">JoVI</a> (the Journal of Visualization and Interaction). We will specifically discuss topics surrounding the following question:</p>
+<blockquote class="blockquote">
+<p>How can we - and how should we - change the reviewing and publishing culture in HCI?</p>
+</blockquote>
+<p>We want to hear from you: what would your ideal HCI publishing process look like? We will also share our experiences from the first year of <a href="https://www.journalovi.org/">JoVI</a>, a diamond open-access, open review journal in HCI with an <a href="https://www.journalovi.org/#ambitions">explicit mission</a> to continually experiment with new review processes and publication models.</p>
+<p>The main event will be a Special Interest Group meeting (SIG) at the CHI 2024 conference on <strong>16 May 11:00 (Hawaiʻi time) in room 318A</strong>. We will also organize an online event synchronously at the same time.</p>
+<section id="goals-of-the-event" class="level2">
+<h2 class="anchored" data-anchor-id="goals-of-the-event">Goals of the event</h2>
+<p>As part of this SIG, we want to reflect on the first year of JoVI, which was first announced at CHI 2023. We will present some initial lessons learned from reviewing our first few submissions (including two traditional articles and five interactive articles), as well as current challenges we face.</p>
+<p>We want to better understand current situations, issues, opportunities, and perspectives around open publishing and reviewing in HCI. We aim to gather diverse perspectives from stakeholders representing various roles in the publishing process (academics, industry researchers, authors, editors, reviewers, and students) to help brainstorm about what HCI publication could look like.</p>
+<p>Attendees’ input will be gathered into a public document to be discussed by the <a href="https://www.journalovi.org/people.html#advisory-board">JoVI advisory board</a> at their annual meeting, and will inform the future directions of JoVI.</p>
+</section>
+<section id="how-to-attend" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-attend">How to attend</h2>
+<ol type="1">
+<li>SIG meeting:
 <ul>
-<li><a href="https://groups.google.com/g/jovi-general">General announcement mailing list</a></li>
-<li><a href="news.xml">News RSS feed</a> and <a href="https://journals.aau.dk/index.php/jovi/gateway/plugin/WebFeedGatewayPlugin/rss2">Publication RSS feed</a></li>
-<li><a href="https://hci.social/@jovi">Mastodon</a> or <a href="https://twitter.com/journalovi">Twitter</a></li>
-<li>Our public discussion channel (<code>#jovi</code>) on the Transparent Research Slack. Email <a href="mailto:core@transparentstatistics.org">core@transparentstatistics.org</a> to join that Slack.</li>
-</ul>
-<section id="posts" class="level2 unlisted">
-<h2 class="unlisted anchored" data-anchor-id="posts">Posts</h2>
-
+<li><strong>In-person:</strong> If you want to participate in person at CHI 2024 in Hawaiʻi on Thursday 16 May 11:00 (Hawaiʻi timezone) at room 318A, you can just drop by!</li>
+<li><strong>Online:</strong> If you want to participate online, please register <a href="https://uzh.zoom.us/meeting/register/u5EofuqqqjguHdLL5ecILlw-R7bNZq5Awthj">here</a>.</li>
+</ul></li>
+<li>Regardless of your participation, if you have any thoughts on open publishing or reviewing in HCI, or pointers to other works (e.g., papers, blog posts, newsletter articles, opinion statements) about open publishing and reviewing in HCI which you would like us to consider, please share with us by emailing to <a href="mailto:organizers@journalovi.org">organizers@journalovi.org</a> or by joining the Slack (see <a href="https://www.journalovi.org/news.html">here</a>)</li>
+</ol>
+</section>
+<section id="please-spread-the-word" class="level2">
+<h2 class="anchored" data-anchor-id="please-spread-the-word">Please spread the word</h2>
+<p>If you know of other academics, researchers, students, or industry people who might be likely to give valuable input to this event, please let us know.</p>
+<p>If you think your students or colleagues might be interested in attending this event, please forward them this post.</p>
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="News,Events,CHI" data-listing-date-sort="1712188800000" data-listing-file-modified-sort="1712335156235" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="430">
-<div class="thumbnail">
-<p><a href="./posts/2024-04-04-chi-sig/index.html" class="no-external"></a></p><a href="./posts/2024-04-04-chi-sig/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/2024-04-04-chi-sig/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2024-04-04-chi-sig/index.html" class="no-external">SIG @ CHI 2024</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/2024-04-04-chi-sig/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('News'); return false;">
-News
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Events'); return false;">
-Events
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('CHI'); return false;">
-CHI
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/2024-04-04-chi-sig/index.html" class="no-external">Experimenting with new review methods, open practices, and interactive publications in HCI</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/2024-04-04-chi-sig/index.html" class="no-external">
-<div class="listing-date">
-Apr 4, 2024
-</div>
-<div class="listing-author">
-JoVI Organizing Committee
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="News,Experimental,VISxAI,Info+" data-listing-date-sort="1693008000000" data-listing-file-modified-sort="1712335156235" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="158">
-<div class="thumbnail">
-<p><a href="./posts/2023-08-26-summer-2023-updates/index.html" class="no-external"></a></p><a href="./posts/2023-08-26-summer-2023-updates/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./posts/2023-08-26-summer-2023-updates/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2023-08-26-summer-2023-updates/index.html" class="no-external">Summer 2023 Updates</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/2023-08-26-summer-2023-updates/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('News'); return false;">
-News
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Experimental'); return false;">
-Experimental
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('VISxAI'); return false;">
-VISxAI
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Info+'); return false;">
-Info+
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/2023-08-26-summer-2023-updates/index.html" class="no-external">Our first submission on the experimental track, and agreements to publish extended versions of VISxAI and Info+ submissions.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/2023-08-26-summer-2023-updates/index.html" class="no-external">
-<div class="listing-date">
-Aug 26, 2023
-</div>
-<div class="listing-author">
-JoVI Organizing Committee
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -776,7 +676,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/journalovi/journalovi.github.io/edit/main/news.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/journalovi/journalovi.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/journalovi/journalovi.github.io/edit/main/posts/2024-04-04-chi-sig/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/journalovi/journalovi.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
@@ -798,7 +698,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="./news.xml">
+    <a class="nav-link" href="../../news.xml">
       <i class="bi bi-rss-fill" role="img" aria-label="JoVI RSS">
 </i> 
     </a>
