@@ -153,3 +153,7 @@ After each round of review:
 After the final round of review:
 
 -   **Accept:** The content of the manuscript is considered final. No further changes are allowed without approval from the editor.
+
+## Further Reading
+
+If you have been invited as an associate editor for JoVI, we also suggest looking through the [OJS Editorial Workflow](https://docs.pkp.sfu.ca/learning-ojs/3.3/en/editorial-workflow) documentation and the corresponding [FAQ](https://docs.pkp.sfu.ca/faq/en/editorial-workflow).
