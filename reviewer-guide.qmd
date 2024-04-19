@@ -160,4 +160,4 @@ If you have been invited as an associate editor for JoVI, we also suggest lookin
 
  - If you are involved in the _traditional track_, please look at the [OJS Editorial Workflow](https://docs.pkp.sfu.ca/learning-ojs/3.3/en/editorial-workflow) documentation and the corresponding [FAQ](https://docs.pkp.sfu.ca/faq/en/editorial-workflow).
 
-If you are involved in the _experimental track_, please also have a look at and possibly comment on the [Experimental Track Workflow](https://docs.google.com/document/d/1aKV6MiinKmajxE2Z6SqYY409HIMIR0E-06Y2FdrGdWU/edit).
+- If you are involved in the _experimental track_, please have a look at and possibly comment on the [Experimental Track Workflow](https://docs.google.com/document/d/1aKV6MiinKmajxE2Z6SqYY409HIMIR0E-06Y2FdrGdWU/edit).
