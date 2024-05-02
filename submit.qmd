@@ -14,7 +14,16 @@ JoVI has two submission tracks: the [traditional track](#traditional) and the [e
 
 ## Traditional track {#traditional}
 
-You may prepare your paper with any academic paper template; we recommend the [ACM template](https://www.acm.org/publications/proceedings-template) or the [IEEE TVCG template](https://tc.computer.org/vgtc/publications/journal/).
+You may prepare your paper with any academic paper template that you are familiar with, from IEEE, ACM, EuroGraphics, APA, or other well-known journals or conferences. However, we strongly recommend the [ACM template](https://www.acm.org/publications/proceedings-template) or the [IEEE TVCG template](https://tc.computer.org/vgtc/publications/journal/).
+
+JoVI has the following additional requirements:
+
+-   Paper size: Either ISO A4 or US-Letter.
+-   The page orientation must be portrait.
+-   The layout is single-column.
+-   Line heights for body text between 1.0x and 1.7x. Double-spaced body text, which is common in APA submissions, is not allowed.
+-   We recommend 1.2x line spacing and a single column with 1.5-inch margins on the sides.
+-   Figures, tables, and their captions must be in the body text rather than all at the end.
 
 Submission for the traditional track proceeds via the [OJS submission system](https://journals.aau.dk/index.php/jovi/), hosted courtesy of the Aalborg University Library. Please create an OJS account, preferably using your default institutional email address, and follow the instructions on OJS to submit your paper and supplementary materials. 
 
