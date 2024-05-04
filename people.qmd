@@ -39,15 +39,22 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 
 - Leilani Battle, University of Washington
 - Jason Dykes, City, University of London
+- Frank Elavsky, Carnegie Mellon University
 - Niklas Elmqvist, University of Maryland, College Park
 - James Eagan, Institut Polytechnique de Paris
 - Lane Harrison, Worcester Polytechnic Institute
 - Yvonne Jansen, CNRS
+- Andrew McNutt, University of Utah
 - Clemens Nylandsted Klokmose, Aarhus University
 - Houda Lamqaddam, University of Amsterdam
-- Lace Padilla, University of California, Merced
+- Lace Padilla, Northeastern University
+- Evan Peck, University of Colorado Boulder
 - Jon Schwabish, Urban Institute
+- Emily Wall, Emory University
+- Wesley Willett, University of Calgary
 - Raphael Wimmer, University of Regensburg
+- Jessica K. Witt, Colorado State University
+- Fumeng Yang, Northwestern University
 
 ## Publisher
 
