@@ -294,6 +294,13 @@
     "text": "Experimental (“Github”) track\nThe experimental track is an alternative submission and review process that manifests our commitment to experimenting with review processes. This track is less well-defined, in part because we wish it to evolve with authors as we use it.\n\nSubmission format\nWe strongly recommend papers on the “Github” track be written in Quarto, a markdown-based computational notebook format. Quarto is a plain text format that can be used with documents written in a variety of forms (RMarkdown, Jupyter notebook, Word, Latex), and supports embedded computation (in many languages, including R, Python, and Julia) and interactivity (using JavaScript / Observable, d3, etc). In keeping with the experimental nature of this track, you may also write your paper using other tools, so long as the output can be rendered to a self-contained HTML+JavaScript site. If your software requires server-side execution to work, see relevant instructions in the author guide. If you are interested in trying another format, please email submit@journalovi.org.\nTo submit to the experimental track, write your paper in this template and then email us your paper information and a link to your repository at submit@journalovi.org. A live preview of this template is available here.\n\n\nReviewing\nAll review on the experimental track will proceed as Github issues and pull requests, and published papers on this track can be updated using pull requests, even after publication. The Github repository for each submission will be public throughout the process, regardless of the final decision on the submission. Therefore, while withdrawal of a submission is possible (in the sense that authors can ask for their paper not to be considered “published” at JoVI), the submitted paper and reviews will still be public even if the submission is withdrawn or is not accepted."
   },
   {
+    "objectID": "submit.html#schedule",
+    "href": "submit.html#schedule",
+    "title": "How to submit",
+    "section": "Schedule",
+    "text": "Schedule\n\nJoVI organizers will process articles in batches with the cut-off date at the end of Friday (AoE) of each month except March and September.\nAssociate editor assignment usually takes two weeks.\nReviewer invitation usually takes two weeks.\nAfter accepting the invitation, each reviewer has four weeks to write the review.\nAfter all reviews arrive, the associate editor may take two weeks to write their meta-review.\nThe reviewing process usually has more than one round."
+  },
+  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News",
