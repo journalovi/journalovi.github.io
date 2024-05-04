@@ -50,7 +50,7 @@ The submission must prove its merit in advancing knowledge related to the fields
 
 -   **Empirical studies** investigate research questions that have not been considered before
 -   **Replication studies** improve or challenge the confidence of the field about existing knowledge through better methodology than the original studies (e.g., higher statistical power, improved methods, new population, etc)
--   **Systems or design research** expands the capacity of people to do useful things that what was not previously possible
+-   **Systems or design research** expands the capacity of people to do useful things that were not previously possible
 -   **Systematic literature reviews** enables the field to synthesize knowledge across existing work
 -   **Commentary** enables the field to recognize unseen phenomena, see new perspectives, or challenge the status quo
 
