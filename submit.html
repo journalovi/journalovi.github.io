@@ -181,9 +181,10 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#experimental" id="toc-experimental" class="nav-link" data-scroll-target="#experimental">Experimental (“Github”) track</a>
   <ul class="collapse">
   <li><a href="#submission-format" id="toc-submission-format" class="nav-link" data-scroll-target="#submission-format">Submission format</a></li>
-  <li><a href="#reviewing" id="toc-reviewing" class="nav-link" data-scroll-target="#reviewing">Reviewing</a></li>
+  <li><a href="#how-to-submit" id="toc-how-to-submit" class="nav-link" data-scroll-target="#how-to-submit">How to submit</a></li>
+  <li><a href="#review-process" id="toc-review-process" class="nav-link" data-scroll-target="#review-process">Review process</a></li>
   </ul></li>
-  <li><a href="#schedule" id="toc-schedule" class="nav-link" data-scroll-target="#schedule">Schedule</a></li>
+  <li><a href="#reviewing-timeline" id="toc-reviewing-timeline" class="nav-link" data-scroll-target="#reviewing-timeline">Reviewing timeline</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/journalovi/journalovi.github.io/edit/main/submit.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/journalovi/journalovi.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -265,21 +266,32 @@ ul.task-list li input[type="checkbox"] {
 <p>The experimental track is an alternative submission and review process that manifests our <a href="./index.html#ambitions">commitment to experimenting with review processes</a>. This track is less well-defined, in part because we wish it to evolve with authors as we use it.</p>
 <section id="submission-format" class="level3">
 <h3 class="anchored" data-anchor-id="submission-format">Submission format</h3>
-<p><strong>We strongly recommend papers on the “Github” track be written in <a href="https://quarto.org/">Quarto</a></strong>, a markdown-based computational notebook format. Quarto is a plain text format that can be used with documents written in a variety of forms (RMarkdown, Jupyter notebook, Word, Latex), and supports embedded computation (in many languages, including R, Python, and Julia) and <strong>interactivity</strong> (using JavaScript / Observable, d3, etc). In keeping with the experimental nature of this track, <strong>you may also write your paper using other tools</strong>, so long as the output can be rendered to a self-contained HTML+JavaScript site. If your software requires server-side execution to work, see relevant instructions in the <a href="https://www.journalovi.org/author-guide.html#what-if-my-interactive-article-requires-server-side-execution">author guide</a>. If you are interested in trying another format, please email <a href="mailto:submit@journalovi.org">submit@journalovi.org</a>.</p>
-<p>To submit to the experimental track, write your paper in <a href="https://github.com/journalovi/jovi-template-quarto">this template</a> and then email us your paper information and a link to your repository at <a href="mailto:submit@journalovi.org">submit@journalovi.org</a>. A live preview of this template is available <a href="https://www.journalovi.org/jovi-template-quarto/">here</a>.</p>
-</section>
-<section id="reviewing" class="level3">
-<h3 class="anchored" data-anchor-id="reviewing">Reviewing</h3>
-<p>All review on the experimental track will proceed as Github issues and pull requests, and published papers on this track can be updated using pull requests, even after publication. The Github repository for each submission will be public throughout the process, regardless of the final decision on the submission. Therefore, while withdrawal of a submission is possible (in the sense that authors can ask for their paper not to be considered “published” at JoVI), the submitted paper and reviews will still be public even if the submission is withdrawn or is not accepted.</p>
-</section>
-</section>
-<section id="schedule" class="level2">
-<h2 class="anchored" data-anchor-id="schedule">Schedule</h2>
+<p>Papers on the “Github” track can be written in <strong>any format that renders to standalone HTML + Javascript</strong>. Some formats you might consider are:</p>
 <ul>
-<li>JoVI organizers will process articles in batches with the cut-off date at <strong>the end of Friday (AoE)</strong> of each month <strong>except March and September</strong>.</li>
+<li><p><a href="https://quarto.org/">Quarto</a>, a markdown-based computational notebook format. This is our <strong>recommended format</strong>. You can use the our <strong><a href="https://github.com/journalovi/jovi-template-quarto">Quarto template for JoVI articles</a></strong>. A live preview of this template is available <a href="https://www.journalovi.org/jovi-template-quarto/">here</a>. Quarto is a plain text format that can be used with documents written in a variety of forms (RMarkdown, Jupyter notebook, Word, Latex), and supports embedded computation (in many languages, including R, Python, and Julia) and <strong>interactivity</strong> (using JavaScript / Observable, d3, etc).</p></li>
+<li><p><a href="https://idyll-lang.org/">Idyll</a>, another markdown-based notebook format.</p></li>
+<li><p>Raw HTML + JavaScript, perhaps using a template designed for scholarly articles, such as <a href="https://distill.pub/guide/">Distill</a>.</p></li>
+<li><p>Any web workflow that renders to standalone HTML + JavaScript. <strong>We welcome experimentation!</strong></p></li>
+</ul>
+<p>We strongly prefer articles that do not require a live server. If your software requires server-side execution to work, see relevant instructions in the <a href="https://www.journalovi.org/author-guide.html#what-if-my-interactive-article-requires-server-side-execution">author guide</a>.</p>
+<p>If you are interested in trying another format and are not sure if it will work, <a href="https://github.com/journalovi/jovi-submissions/issues/new">open an issue</a> on the <code>jovi-submissions</code> repository to ask about how we can help.</p>
+</section>
+<section id="how-to-submit" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-submit">How to submit</h3>
+<p>To submit to the experimental track, create an <a href="https://github.com/journalovi/jovi-submissions/issues/new?assignees=mjskay&amp;labels=submission&amp;projects=&amp;template=10_submit.yml&amp;title=%5BSUBMISSION%5D+%3Ctitle%3E">article submission issue</a> on the <code>jovi-submissions</code> repository.</p>
+</section>
+<section id="review-process" class="level3">
+<h3 class="anchored" data-anchor-id="review-process">Review process</h3>
+<p>All review on the experimental track proceeds as Github issues, and published papers on this track can be updated using pull requests, even after publication. The Github repository for each submission will be public throughout the process, regardless of the final decision on the submission. Therefore, while withdrawal of a submission is possible (in the sense that authors can ask for their paper not to be considered “published” at JoVI), the submitted paper and reviews will still be public even if the submission is withdrawn or is not accepted.</p>
+</section>
+</section>
+<section id="reviewing-timeline" class="level2">
+<h2 class="anchored" data-anchor-id="reviewing-timeline">Reviewing timeline</h2>
+<p>JoVI organizers process articles in batches at the end of each month, <strong>except March and September</strong>. Articles submitted by <strong>the end of Friday (AoE)</strong> each month will be processed in that month’s batch. The reviewing timeline is roughly as follows:</p>
+<ul>
 <li>Associate editor assignment usually takes two weeks.</li>
 <li>Reviewer invitation usually takes two weeks.</li>
-<li>After accepting the invitation, each reviewer has four weeks to write the review.</li>
+<li>After accepting the invitation, each reviewer has four–six weeks to write the review.</li>
 <li>After all reviews arrive, the associate editor may take two weeks to write their meta-review.</li>
 <li>The reviewing process usually has more than one round.</li>
 </ul>
