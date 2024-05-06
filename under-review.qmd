@@ -57,6 +57,8 @@ is_article = has_topic(repos, "article") & !has_topic(repos, "template")
 is_visxai = has_topic(repos, "visxai")
 ```
 
+## Experimental ("Github") Track
+
 This page lists articles under review on the [Experimental ("Github") Track](submit.qmd#experimental) of JoVI. The experimental track uses an "endorsement" model, where review proceeds as a back-and-forth between reviewers and authors via Github issues, and then reviewers can choose whether or not to endorse the paper. 
 
 The articles below are still under review and have not yet received any endorsements. Feedback on these articles is welcome in the form of Github issues opened on their underlying repository.
@@ -84,3 +86,7 @@ The articles below were originally part of [VISxAI 2023](https://visxai.io/) and
 # add the "article" and "visxai" topics to the github repo
 cat(make_article_links(repos[is_article & is_visxai]))
 ```
+
+## Traditional Track
+
+Papers on the [Traditional Track](submit.qmd#traditional) are not listed on this page, as they are not public until they have been published.
