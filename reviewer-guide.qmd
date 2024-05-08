@@ -54,15 +54,14 @@ The submission must prove its merit in advancing knowledge related to the fields
 -   **Systematic literature reviews** enables the field to synthesize knowledge across existing work
 -   **Commentary** enables the field to recognize unseen phenomena, see new perspectives, or challenge the status quo
 
-### Validity
+### Claims and evidence
 
-When reviewing JoVI papers, focus on the questions and claims in the manuscript:
+When reviewing JoVI papers, focus on these questions about claims and evidence in the manuscript:
 
--   Are those claims and questions clearly communicated?
+-   Are the claims and research questions clearly communicated?
 -   Are the claims supported with evidence?
--   Do the claims generalize beyond a narrow case?
--   Construct validity: If evidence is collected via an experiment or simulation, does the collected evidence actually answer the question and support the claim? Does it support a stronger, weaker, or different claim? For example, if a paper only measures computational performance, it should not include claims about improved human behavioral performance.
--   External validity: If there is a generalization beyond the manuscript, is that generalization supported with evidence?
+-   Match between claims and evidence: Does the provided evidence actually answer the question and support the claim? Does it support a stronger, weaker, or different claim? For example, if a paper only measures computational performance, it should not include claims about improved human behavioral performance.
+-   Generalization and transfer: If the authors claim generalization or transfer beyond the evidence presented in the present studies: How strong are the arguments? How clear is the scope of generalization or transfer described?
 -   Analytical validity: If there is any computational or statistical analysis, is it an appropriate match for the research question? Is it reported in an accurate and interpretable way?
 
 Note: While lack of novelty is not a concern at this journal, failure to contrast with very similar work may be problematic.
