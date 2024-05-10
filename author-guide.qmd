@@ -57,7 +57,7 @@ If you wish to use anonymized review, ensure that all of the above sections in t
 
 #### Abstract
 
-JOVI encourages you to use structured abstracts, with distinct, labeled sections for rapid comprehension. Here are examples of sections you may want to include in your abstract:
+JOVI encourages you to use [structured abstracts](https://www.nlm.nih.gov/bsd/policy/structured_abstracts.html), with distinct, labeled sections for rapid comprehension. Here are examples of sections you may want to include in your abstract:
 
 |                 |                 |
 |-----------------|-----------------|
