@@ -59,14 +59,14 @@ If you wish to use anonymized review, ensure that all of the above sections in t
 
 JOVI encourages you to use [structured abstracts](https://www.nlm.nih.gov/bsd/policy/structured_abstracts.html), with distinct, labeled sections for rapid comprehension. Here are examples of sections you may want to include in your abstract:
 
-|                 |                 |
+| __Empricial research article | Systems research article                |
 |-----------------|-----------------|
-| Introduction    |                 |
+| Introduction    | Introduction                |
 | Data collection | Implementation  |
 | Data analysis   | Demonstration   |
 | Results         | Lessons learned |
-| Materials       |                 |
-| Conclusion      |                 |
+| Materials       | Materials                |
+| Conclusion      | Conclusion                |
 
 #### References
 
