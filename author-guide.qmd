@@ -73,6 +73,8 @@ JOVI encourages you to use [structured abstracts](https://www.nlm.nih.gov/bsd/po
    - Demonstration
    - Lessons learned
 
+These are only examples. Authors may choose alternative structure that are suitable to the research contributions in their paper while faciliating rapid comprehension.
+
 #### References
 
 For any reference entry that has a DOI, please append the DOI URL (prefixed with https://doi.org/) at the end of the reference entry. For example, see the last part of the following citation:
