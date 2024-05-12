@@ -62,10 +62,10 @@ Which sections are used depends on the type of research and its goals.
 For example, articles with empirical methods should have a data collection section, while articles that do not analyze data to support a conclusion do not need such a section.
 
 Your paper may fall into multiple types of work. 
-We provide some example sections you may want to include in your structured abstract below, depending on the type of work. 
+We provide some example sections you may want to include in your structured abstract in the [JoVI article template](/jovi-template-quarto/#abstract), depending on the type of work (while that template is written for the experimental track, similar structured abstracts can be used for papers written on the traditional track). 
 You can use the example sections to fill in the subsections that apply to your paper, then delete these first two paragraphs and the subsections that do not apply to your paper. 
 Please add, merge, rename, or re-order sections if you feel that would improve clarity. 
-See also (partial) [examples of structured abstracts](https://www.journalovi.org/structured-abstract-examples.html).
+See also (partial) [examples of structured abstracts](structured-abstract-examples.qmd).
 
 #### References
 
