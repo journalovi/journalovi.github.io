@@ -5,7 +5,7 @@ sidebar: false
 
 Below are several examples of structured abstracts written based on existing papers in order to demonstrate their use.
 
-See the top of the [JoVI article template](http://localhost:6922/articles/jovi-template-quarto/#abstract) for the structured abstract template.
+See the top of the [JoVI article template](/jovi-template-quarto/#abstract) for the structured abstract template.
 
 
 ## Perceptual proxies (empirical)
