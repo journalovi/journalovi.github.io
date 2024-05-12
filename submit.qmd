@@ -33,12 +33,14 @@ To submit:
 2. Start:
     * Go to [JoVI's OJS page](https://journals.aau.dk/index.php/jovi/submission/wizard)
     * Create an account and/or log in, if needed
-    * Read and tick all checkboxes
+    * Complete all submission requirements
+    * If you are submitting anonymously, please indicate so in the `Comments for the Editor` section.
     * Click *Save and continue*
 3. Upload submission:
     * Click *Add file*, upload main PDF
     * Select "article text" as type
-    * Upload other files, if desired. For example, if you are submitting anonymously, you may need to upload non-anonymous versions of some information for the editors to review. See the [author guide](author-guide.qmd#sections).
+    * Upload other files, if desired. 
+    * If you are submitting anonymously, you may need to upload non-anonymous versions containing [required sections](author-guide.qmd#sections). Please name your file with the prefix `[non-anonymous]`. After uploading it, select the type `Author Information`.
     * Click *Save and continue*
 4. Enter Metadata:
     * Add title and abstract
