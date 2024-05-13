@@ -38,9 +38,11 @@ To submit:
     * Click *Save and continue*
 3. Upload submission:
     * Click *Add file*, upload main PDF
-    * Select "article text" as type
+    * Select "Article Text" as type
+    * If you are submitting anonymously: 
+        * The version uploaded in the type "Article Text" must be the anonymous version. This version will be sent to reviewers.
+        * Additionally, you may need to upload non-anonymous versions containing [required sections](author-guide.qmd#sections). Please name your file with the prefix `[non-anonymous]`. After uploading it, select the type `Only if you submit anonymously: Non-anonymized article text`.
     * Upload other files, if desired. 
-    * If you are submitting anonymously, you may need to upload non-anonymous versions containing [required sections](author-guide.qmd#sections). Please name your file with the prefix `[non-anonymous]`. After uploading it, select the type `Author Information`.
     * Click *Save and continue*
 4. Enter Metadata:
     * Add title and abstract
