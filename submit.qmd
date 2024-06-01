@@ -63,7 +63,9 @@ Papers on the "Github" track can be written in **any format that renders to stan
 
 - [Quarto](https://quarto.org/), a markdown-based computational notebook format. This is our **recommended format**. You can use the our **[Quarto template for JoVI articles](https://github.com/journalovi/jovi-template-quarto)**. A live preview of this template is available [here](https://www.journalovi.org/jovi-template-quarto/). Quarto is a plain text format that can be used with documents written in a variety of forms (RMarkdown, Jupyter notebook, Word, Latex), and supports embedded computation (in many languages, including R, Python, and Julia) and **interactivity** (using JavaScript / Observable, d3, etc). 
 
-- [Idyll](https://idyll-lang.org/), another markdown-based notebook format.
+- Other markdown-based notebook formats, such as:
+   - [Idyll](https://idyll-lang.org/)
+   - [Observable Framework](https://observablehq.com/framework/)
 
 - Raw HTML + JavaScript, perhaps using a template designed for scholarly articles, such as [Distill](https://distill.pub/guide/).
 
