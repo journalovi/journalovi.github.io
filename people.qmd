@@ -38,12 +38,14 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 ## Associate Editors
 
 - Leilani Battle, University of Washington
+- Cindy Xiong Bearfield, Georgia Institute of Technology
 - Jason Dykes, City, University of London
 - Frank Elavsky, Carnegie Mellon University
-- Niklas Elmqvist, University of Maryland, College Park
+- Niklas Elmqvist, Aarhus University
 - James Eagan, Institut Polytechnique de Paris
 - Lane Harrison, Worcester Polytechnic Institute
 - Yvonne Jansen, CNRS
+- Miguel Nacenta, University of Victoria
 - Andrew McNutt, University of Utah
 - Clemens Nylandsted Klokmose, Aarhus University
 - Houda Lamqaddam, University of Amsterdam
