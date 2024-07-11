@@ -213,6 +213,10 @@ JoVI aims for a collaborative, humane, and transparent review process. Reviewing
 
 -   **Editor review:** Action editors check reviews before sending them to authors, and they may ask reviewers to rewrite a part of their review that comes across as overly personal. Should an author receive any personal or inappropriate comment in a review, they are encouraged to contact the editor or any member of the editorial board.
 
+## Desk rejects
+
+To protect our volunteers' time, submissions that are out of scope of Human-Computer Interaction or Visualization may be desk rejected.
+
 ## Submission instructions
 
 See [How to submit](submit.qmd).
