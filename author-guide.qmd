@@ -216,6 +216,14 @@ JoVI aims for a collaborative, humane, and transparent review process. Reviewing
 ## Desk rejects
 
 To protect our volunteers' time, submissions that are out of scope of Human-Computer Interaction or Visualization may be desk rejected.
+JoVI organizers will make this decision jointly with the Associate Editor(s).
+
+JoVI considers the fields of Human-Computer Interaction and Visualization to have their centers of gravity around the following venues. 
+
+* [CHI conference](https://dl.acm.org/doi/proceedings/10.1145/3613904)
+* [VIS conference and the TVCG](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945)
+
+For authors unfamiliar with these venues, we suggest looking at published articles in the links above.
 
 ## Submission instructions
 
