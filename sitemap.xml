@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://journalovi.org/people.html</loc>
-    <lastmod>2024-07-02T09:33:11.064Z</lastmod>
-  </url>
-  <url>
-    <loc>https://journalovi.org/author-guide.html</loc>
-    <lastmod>2024-07-02T09:33:11.060Z</lastmod>
-  </url>
-  <url>
-    <loc>https://journalovi.org/code-of-conduct.html</loc>
-    <lastmod>2024-07-02T09:33:11.060Z</lastmod>
-  </url>
-  <url>
-    <loc>https://journalovi.org/posts/2024-04-04-chi-sig/index.html</loc>
-    <lastmod>2024-07-02T09:33:11.064Z</lastmod>
+    <loc>https://journalovi.org/index.html</loc>
+    <lastmod>2024-07-14T19:31:42.652Z</lastmod>
   </url>
   <url>
     <loc>https://journalovi.org/news.html</loc>
-    <lastmod>2024-07-02T09:33:11.064Z</lastmod>
+    <lastmod>2024-07-14T19:31:42.652Z</lastmod>
   </url>
   <url>
-    <loc>https://journalovi.org/reviewer-guide.html</loc>
-    <lastmod>2024-07-02T09:33:11.064Z</lastmod>
+    <loc>https://journalovi.org/posts/2024-04-04-chi-sig/index.html</loc>
+    <lastmod>2024-07-14T19:31:42.652Z</lastmod>
   </url>
   <url>
     <loc>https://journalovi.org/under-review.html</loc>
-    <lastmod>2024-07-02T09:33:11.064Z</lastmod>
+    <lastmod>2024-07-14T19:31:42.652Z</lastmod>
   </url>
   <url>
-    <loc>https://journalovi.org/posts/2023-08-26-summer-2023-updates/index.html</loc>
-    <lastmod>2024-07-02T09:33:11.064Z</lastmod>
-  </url>
-  <url>
-    <loc>https://journalovi.org/structured-abstract-examples.html</loc>
-    <lastmod>2024-07-02T09:33:11.064Z</lastmod>
-  </url>
-  <url>
-    <loc>https://journalovi.org/index.html</loc>
-    <lastmod>2024-07-02T09:33:11.064Z</lastmod>
+    <loc>https://journalovi.org/reviewer-guide.html</loc>
+    <lastmod>2024-07-14T19:31:42.652Z</lastmod>
   </url>
   <url>
     <loc>https://journalovi.org/submit.html</loc>
-    <lastmod>2024-07-02T09:33:11.064Z</lastmod>
+    <lastmod>2024-07-14T19:31:42.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/people.html</loc>
+    <lastmod>2024-07-14T19:31:42.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/code-of-conduct.html</loc>
+    <lastmod>2024-07-14T19:31:42.648Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/structured-abstract-examples.html</loc>
+    <lastmod>2024-07-14T19:31:42.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/posts/2023-08-26-summer-2023-updates/index.html</loc>
+    <lastmod>2024-07-14T19:31:42.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://journalovi.org/author-guide.html</loc>
+    <lastmod>2024-07-14T19:31:42.648Z</lastmod>
   </url>
 </urlset>
