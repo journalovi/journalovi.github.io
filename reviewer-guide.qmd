@@ -13,6 +13,8 @@ By agreeing to review for JoVI, you also agree to maintain the confidentiality o
 
 ### Anonymity and Identity
 
+**All reviews for JoVI will be published along with the final article, grouped by review round.**
+
 Authors can choose to list their names or be anonymous during the reviewing process. We acknowledge the potential issues with unblinded review. For further discussion and feedback please see [issue #16](https://github.com/journalovi/journalovi.github.io/issues/16).
 
 A reviewer is still eligible to review if they know who the authors are due to seeing the work on social media or seeing a prior version of the work. However, reviewers should not "play detective" and actively seek anonymous author identities. In other words, please do not search for paper titles, open-source project names, or preprints during the review.
