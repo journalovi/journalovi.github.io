@@ -17,6 +17,8 @@ Authors can choose to list their names or be anonymous during the reviewing proc
 
 A reviewer is still eligible to review if they know who the authors are due to seeing the work on social media or seeing a prior version of the work. However, reviewers should not "play detective" and actively seek anonymous author identities. In other words, please do not search for paper titles, open-source project names, or preprints during the review.
 
+**All reviews for JoVI will be published along with the final article, grouped by review round.**
+
 External reviewers can choose to be named or to remain anonymous by simply choosing whether or not to sign their review (e.g., "signed, Jane Doe"). Signing reviews is encouraged, especially for thoughtful and thorough reviews.
 
 For accountability, the action editor is not anonymous.
