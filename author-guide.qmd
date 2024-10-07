@@ -139,6 +139,33 @@ A [summary table](https://osf.io/2cz65/) and the [full guidelines](https://osf.i
 
 If any of these artifacts are not used as part of the article (e.g., for a comment article), authors are of course not required to provide them.
 
+### Organizing the supplemental materials
+
+The shared materials could go to waste if readers of your paper cannot find the materials you provided. 
+We suggest thinking in a user-centric way: Imagine a reader who only skimmed your paper and is interested in a specific material; 
+how could they locate that material among everything you provided?
+
+Here are some concrete suggestions to ensure that your supplemental materials are usable:
+
+**1. Provide a clear entry point.** 
+Conventionally, the entry point is a README.txt, README.md, or index.html file at the top-level folder. 
+If your material has a complex structure, provide a clear entry point at each level (e.g., each folder). 
+For an example of directory structure, see [this template](https://github.com/gchure/reproducible_research).
+
+**2. Help readers understand your materials.** 
+Use informative file names for each folder and file.
+Provide a [data dictionary](https://help.osf.io/article/217-how-to-make-a-data-dictionary) for each of your data table. 
+
+**3. Prefer interoperable formats.** 
+Whenever possible, choose the file format that requires the least amount of software to access. 
+For example, for a data table, a comma-separated (CSV) file is more interoperable than an Excel Open XML (.xlsx) file, which is more interoperable than an SPSS file. 
+When a more proprietary format is more useful (e.g., encoding more sophisticated relationships), 
+we recommend providing both the rich-but-proprietary format and a simple but interoperable format. 
+See also [a list of common file formats and their more interoperable alternatives](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/)
+
+In the reviewing process, an Open Practices chair will check your supplemental materials and provide further helpful suggestions. 
+
+
 ### What if my data has private or personally identifiable information?
 
 You can use a protected-access repository. See [OSF's list of protected access repositories](https://osf.io/tvyxz/wiki/8.%2520Approved%2520Protected%2520Access%2520Repositories/).
