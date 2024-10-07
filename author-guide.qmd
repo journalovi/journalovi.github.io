@@ -148,7 +148,7 @@ Here are some concrete suggestions to ensure that your supplemental materials ar
 
 **1. Provide a clear entry point.** 
 Conventionally, the entry point is a README.txt, README.md, or index.html file at the top-level folder. 
-If your material has a complex structure, a clear entry point at each level (e.g., each folder). 
+If your material has a complex structure, provide a clear entry point at each level (e.g., each folder). 
 For an example of directory structure, see [this template](https://github.com/gchure/reproducible_research).
 
 **2. Help readers understand your materials.** 
