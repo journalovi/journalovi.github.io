@@ -46,11 +46,11 @@ We expect the following sections in the paper:
 
 -   Abstract
 -   (*contents of the paper*...)
--   References
 -   Research material statements\*
 -   Authorship\*
 -   License
 -   Conflict of interest\*
+-   References
 -   Appendices (optional)
 
 If you wish to use anonymized review, ensure that all of the above sections in the paper are appropriately anonymized (e.g., for the Research materials section, include anonymized links to the research materials). Additionally, non-anonymized versions of the sections marked with (\*) should be submitted as a separate PDF---which will be seen only by the editors.
@@ -66,15 +66,6 @@ We provide some example sections you may want to include in your structured abst
 You can use the example sections to fill in the subsections that apply to your paper, then delete these first two paragraphs and the subsections that do not apply to your paper. 
 Please add, merge, rename, or re-order sections if you feel that would improve clarity. 
 See also (partial) [examples of structured abstracts](structured-abstract-examples.qmd).
-
-#### References
-
-For any reference entry that has a DOI, please append the DOI URL (prefixed with https://doi.org/) at the end of the reference entry. For example, see the last part of the following citation:
-
-> Besançon, Lonni, Anastasia Bezerianos, Pierre Dragicevic, Petra Isenberg, and Yvonne Jansen. 2021. “Publishing Visualization Studies as Registered Reports: Expected Benefits and Researchers’ Attitudes.” https://doi.org/10.31219/osf.io/3z7kx.
-
-This DOI URL allows CrossRef to recognize the references correctly. 
-This issue is essential because some institutions still use citation counts from CrossRef for hiring or promotion.
 
 #### Research material statements
 
@@ -111,6 +102,16 @@ Figures may be exempted from the CC-BY(-SA) licensing requirement, in which case
 #### Conflicts of interest
 
 All submissions must include a statement about potential conflicts of interest, including activities that potentially confer material or non-material rewards on the authors in connection with the topic of the article. The simplest example: "The authors declare that there are no competing interests."
+
+#### References
+
+For any reference entry that has a DOI, please append the DOI URL (prefixed with https://doi.org/) at the end of the reference entry. For example, see the last part of the following citation:
+
+> Besançon, Lonni, Anastasia Bezerianos, Pierre Dragicevic, Petra Isenberg, and Yvonne Jansen. 2021. “Publishing Visualization Studies as Registered Reports: Expected Benefits and Researchers’ Attitudes.” https://doi.org/10.31219/osf.io/3z7kx.
+
+This DOI URL allows CrossRef to recognize the references correctly. 
+This issue is essential because some institutions still use citation counts from CrossRef for hiring or promotion.
+
 
 ### Page length
 
