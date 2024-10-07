@@ -190,6 +190,7 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#transparency-requirements" id="toc-transparency-requirements" class="nav-link" data-scroll-target="#transparency-requirements">Transparency and open research requirements</a>
   <ul class="collapse">
+  <li><a href="#organizing-the-supplemental-materials" id="toc-organizing-the-supplemental-materials" class="nav-link" data-scroll-target="#organizing-the-supplemental-materials">Organizing the supplemental materials</a></li>
   <li><a href="#what-if-my-data-has-private-or-personally-identifiable-information" id="toc-what-if-my-data-has-private-or-personally-identifiable-information" class="nav-link" data-scroll-target="#what-if-my-data-has-private-or-personally-identifiable-information">What if my data has private or personally identifiable information?</a></li>
   <li><a href="#where-do-i-share-code-data-and-other-materials" id="toc-where-do-i-share-code-data-and-other-materials" class="nav-link" data-scroll-target="#where-do-i-share-code-data-and-other-materials">Where do I share code, data, and other materials?</a></li>
   <li><a href="#non-compliant-repositories" id="toc-non-compliant-repositories" class="nav-link" data-scroll-target="#non-compliant-repositories">Non-compliant repositories</a></li>
@@ -345,6 +346,15 @@ ul.task-list li input[type="checkbox"] {
 </li>
 </ul>
 <p>If any of these artifacts are not used as part of the article (e.g., for a comment article), authors are of course not required to provide them.</p>
+<section id="organizing-the-supplemental-materials" class="level3">
+<h3 class="anchored" data-anchor-id="organizing-the-supplemental-materials">Organizing the supplemental materials</h3>
+<p>The shared materials could go to waste if readers of your paper cannot find the materials you provided. We suggest thinking in a user-centric way: Imagine a reader who only skimmed your paper and is interested in a specific material; how could they locate that material among everything you provided?</p>
+<p>Here are some concrete suggestions to ensure that your supplemental materials are usable:</p>
+<p><strong>1. Provide a clear entry point.</strong> Conventionally, the entry point is a README.txt, README.md, or index.html file at the top-level folder. If your material has a complex structure, provide a clear entry point at each level (e.g., each folder). For an example of directory structure, see <a href="https://github.com/gchure/reproducible_research">this template</a>.</p>
+<p><strong>2. Help readers understand your materials.</strong> Use informative file names for each folder and file. Provide a <a href="https://help.osf.io/article/217-how-to-make-a-data-dictionary">data dictionary</a> for each of your data table.</p>
+<p><strong>3. Prefer interoperable formats.</strong> Whenever possible, choose the file format that requires the least amount of software to access. For example, for a data table, a comma-separated (CSV) file is more interoperable than an Excel Open XML (.xlsx) file, which is more interoperable than an SPSS file. When a more proprietary format is more useful (e.g., encoding more sophisticated relationships), we recommend providing both the rich-but-proprietary format and a simple but interoperable format. See also <a href="https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/">a list of common file formats and their more interoperable alternatives</a></p>
+<p>In the reviewing process, an Open Practices chair will check your supplemental materials and provide further helpful suggestions.</p>
+</section>
 <section id="what-if-my-data-has-private-or-personally-identifiable-information" class="level3">
 <h3 class="anchored" data-anchor-id="what-if-my-data-has-private-or-personally-identifiable-information">What if my data has private or personally identifiable information?</h3>
 <p>You can use a protected-access repository. See <a href="https://osf.io/tvyxz/wiki/8.%2520Approved%2520Protected%2520Access%2520Repositories/">OSF’s list of protected access repositories</a>.</p>
