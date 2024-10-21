@@ -60,6 +60,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Houda Lamqaddam, University of Amsterdam
 - Lace Padilla, Northeastern University
 - Evan Peck, University of Colorado Boulder
+- Charles Perin, University of Victoria
 - Jon Schwabish, Urban Institute
 - Michael Sedlmair, University of Stuttgart
 - Emily Wall, Emory University
@@ -67,6 +68,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Raphael Wimmer, University of Regensburg
 - Jessica K. Witt, Colorado State University
 - Fumeng Yang, Northwestern University
+- Daniel Zielasko, Trier University
 
 ## Publisher
 
