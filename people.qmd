@@ -41,7 +41,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Lily Ge, Northwestern University (Github ID: [@lily-ge](https://github.com/lily-ge))
 - Maxim Lisnic, University of Utah (Github ID: [@mlisnic](https://github.com/mlisnic))
 - Sheng Long, Northwestern University (Github ID: [@mika-long](https://github.com/mika-long))
-- Vahid Pooryousef
+- Vahid Pooryousef, Monash University (Github ID: [@vahpy](https://github.com/vahpy))
 - Abhraneel Sarma, Northwestern University (Github ID: [@abhsarma](https://github.com/abhsarma))
 
 ## Associate Editors
