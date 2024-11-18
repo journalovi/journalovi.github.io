@@ -37,7 +37,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 
 ## Open Practices Chairs
 
-- Charles Cui, Northwestern University (Github ID: [@yccui](https://github.com/yccui))
+- Charles Cui, Northwestern University (Github ID: [@digital-flaneur](https://github.com/digital-flaneur))
 - Lily Ge, Northwestern University (Github ID: [@lily-ge](https://github.com/lily-ge))
 - Maxim Lisnic, University of Utah (Github ID: [@mlisnic](https://github.com/mlisnic))
 - Sheng Long, Northwestern University (Github ID: [@mika-long](https://github.com/mika-long))
