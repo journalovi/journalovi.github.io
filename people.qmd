@@ -33,7 +33,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 
 ## Accessibility Chair
 
-- Dominik Moritz, Carnegie Mellon University ([accessibility@journalovi.org](mailto:accessibility@journalovi.org))
+- Dominik Moritz, Carnegie Mellon University ([accessibility@journalovi.org](mailto:accessibility@journalovi.org))  (Github ID: [@domoritz](https://github.com/domoritz))
 
 ## Open Practices Chairs
 
