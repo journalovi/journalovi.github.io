@@ -86,7 +86,7 @@ All review on the experimental track proceeds as Github issues, and published pa
 
 ## Reviewing timeline
 
-JoVI organizers process articles in batches at the end of each month, __except March and September__. Articles submitted by __the end of last Friday (AoE) of each month__ will be processed in that month's batch. The reviewing timeline is roughly as follows:
+JoVI organizers process articles in batches at the end of __January, February, May, June, July, August, and November__. Articles submitted by __the end of last Friday (AoE) of each month__ will be processed in that month's batch. The reviewing timeline is roughly as follows:
 
 * Associate editor assignment usually takes two weeks.
 * Reviewer invitation usually takes two weeks.
