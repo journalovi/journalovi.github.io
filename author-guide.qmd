@@ -87,7 +87,7 @@ An example authorship statement might read:
 
 #### License
 
-JOVI articles are published with a [CC-BY license](https://creativecommons.org/licenses/by/4.0/) or [CC-BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).
+JOVI articles are published with a [CC-BY license](https://creativecommons.org/licenses/by/4.0/), [CC-BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/), or [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 For a CC-BY license, include the following text in your initial submission:
 
@@ -96,6 +96,10 @@ For a CC-BY license, include the following text in your initial submission:
 For a CC-BY-SA license, include the following text in your initial submission:
 
 > This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+For a CC0 license, include the following text in your initial submission:
+
+> This work is in the public domain as described by the [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 Figures may be exempted from the CC-BY(-SA) licensing requirement, in which case they should have a copyright statement in their caption. However, we encourage CC-BY(-SA) licensing of figures if possible.
 
