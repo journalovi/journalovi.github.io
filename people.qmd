@@ -10,10 +10,10 @@ For submission inquiries, email [submit@journalovi.org](mailto:submit@journalovi
 
 The JoVI organizers (in alphabetical order) are:
 
-- [Lonni Besançon](https://lonnibesancon.me/), Linköping University (Github ID: [@lonnibesancon](https://github.com/lonnibesancon))
-- [Florian Echtler](https://floe.butterbrot.org/), Aalborg University (Github ID: [@floe](https://github.com/floe))
-- [Matthew Kay](https://www.mjskay.com/), Northwestern University (Github ID: [@mjskay](https://github.com/mjskay))
-- [Chat Wacharamanotham](https://chatchavan.github.io), University of Zurich (Github ID: [@chatchavan](https://github.com/chatchavan))
+- [Lonni Besançon](https://lonnibesancon.me/), Department of Science & Technology, Linköping University (Github ID: [@lonnibesancon](https://github.com/lonnibesancon))
+- [Florian Echtler](https://floe.butterbrot.org/), Department of Computer Science, Aalborg University (Github ID: [@floe](https://github.com/floe))
+- [Matthew Kay](https://www.mjskay.com/), Department of Computer Science & Communication, Northwestern University (Github ID: [@mjskay](https://github.com/mjskay))
+- [Chat Wacharamanotham](https://chatchavan.github.io), Department of Informatics, University of Zurich (Github ID: [@chatchavan](https://github.com/chatchavan))
 
 JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was instrumental in its formation and early iterations.
 
