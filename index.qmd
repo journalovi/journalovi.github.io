@@ -62,6 +62,10 @@ JoVI respects the time and effort of both authors and reviewers, and aims for a 
 
 In addition to the missions above, JoVI also aspires to be a platform for other improvements of scholarly communication. On an alternate, [optional submission track](submit.qmd#experimental), we will continually experiment with new article formats (including modern, interactive formats), new review processes, and articles as living documents. This experimentation will be motivated by re-conceptualizing peer review as a humane, constructive process aimed at improving work rather than gatekeeping.
 
+## Indexing
+
+JoVI is currently indexed at [CrossRef](https://search.crossref.org/?from_ui=yes&q=10.54337%2Fjovi.v1i1.7782),  [OpenAlex](https://openalex.org/sources/s4387289589), and [Google Scholar](https://scholar.google.de/citations?view_op=view_citation&hl=en&sortby=pubdate&citation_for_view=sZssYagAAAAJ:1yQoGdGgb4wC). We have applied for being included in [DOAJ](https://doaj.org/).
+
 ## Acknowledgements {#acks}
 
 We would like to thank the following people (in alphabetical order) who provided input on earlier versions of our mission statement:
