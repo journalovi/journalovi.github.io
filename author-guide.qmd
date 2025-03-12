@@ -103,6 +103,10 @@ For a CC0 license, include the following text in your initial submission:
 
 Figures may be exempted from the CC-BY(-SA) licensing requirement, in which case they should have a copyright statement in their caption. However, we encourage CC-BY(-SA) licensing of figures if possible.
 
+_Note:_ all copyright remains with the authors. After the license statement, add the following text:
+
+> © 20xx Copyright held by the owner/author(s).
+
 #### Conflicts of interest
 
 All submissions must include a statement about potential conflicts of interest, including activities that potentially confer material or non-material rewards on the authors in connection with the topic of the article. The simplest example: "The authors declare that there are no competing interests."
