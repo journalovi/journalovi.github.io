@@ -70,6 +70,10 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Fumeng Yang, Northwestern University
 - Daniel Zielasko, Trier University
 
+## Responsible Editor-in-Chief
+
+Lonni Besançon, Linköping University
+
 ## Publisher
 
 Aalborg University Open Publishing<br/>
