@@ -52,6 +52,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Frank Elavsky, Carnegie Mellon University
 - Niklas Elmqvist, Aarhus University
 - James Eagan, Institut Polytechnique de Paris
+- Nicolai B. Hansen, Aalborg University
 - Lane Harrison, Worcester Polytechnic Institute
 - Yvonne Jansen, CNRS
 - Miguel Nacenta, University of Victoria
