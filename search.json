@@ -291,7 +291,7 @@
     "href": "people.html#associate-editors",
     "title": "People",
     "section": "Associate Editors",
-    "text": "Associate Editors\n\nLeilani Battle, University of Washington\nCindy Xiong Bearfield, Georgia Institute of Technology\nJason Dykes, City, University of London\nFrank Elavsky, Carnegie Mellon University\nNiklas Elmqvist, Aarhus University\nJames Eagan, Institut Polytechnique de Paris\nLane Harrison, Worcester Polytechnic Institute\nYvonne Jansen, CNRS\nMiguel Nacenta, University of Victoria\nAndrew McNutt, University of Utah\nClemens Nylandsted Klokmose, Aarhus University\nHouda Lamqaddam, University of Amsterdam\nLace Padilla, Northeastern University\nEvan Peck, University of Colorado Boulder\nCharles Perin, University of Victoria\nJon Schwabish, Urban Institute\nMichael Sedlmair, University of Stuttgart\nEmily Wall, Emory University\nWesley Willett, University of Calgary\nRaphael Wimmer, University of Regensburg\nJessica K. Witt, Colorado State University\nFumeng Yang, Northwestern University\nDaniel Zielasko, Trier University"
+    "text": "Associate Editors\n\nLeilani Battle, University of Washington\nCindy Xiong Bearfield, Georgia Institute of Technology\nJason Dykes, City, University of London\nFrank Elavsky, Carnegie Mellon University\nNiklas Elmqvist, Aarhus University\nJames Eagan, Institut Polytechnique de Paris\nNicolai B. Hansen, Aalborg University\nLane Harrison, Worcester Polytechnic Institute\nYvonne Jansen, CNRS\nMiguel Nacenta, University of Victoria\nAndrew McNutt, University of Utah\nClemens Nylandsted Klokmose, Aarhus University\nHouda Lamqaddam, University of Amsterdam\nLace Padilla, Northeastern University\nEvan Peck, University of Colorado Boulder\nCharles Perin, University of Victoria\nJon Schwabish, Urban Institute\nMichael Sedlmair, University of Stuttgart\nEmily Wall, Emory University\nWesley Willett, University of Calgary\nRaphael Wimmer, University of Regensburg\nJessica K. Witt, Colorado State University\nFumeng Yang, Northwestern University\nDaniel Zielasko, Trier University"
   },
   {
     "objectID": "people.html#publisher",
@@ -348,6 +348,13 @@
     "title": "The Journal of Visualization and Interaction",
     "section": "Ambitions: Experimental track for new article formats, review processes, and articles as living documents",
     "text": "Ambitions: Experimental track for new article formats, review processes, and articles as living documents\nIn addition to the missions above, JoVI also aspires to be a platform for other improvements of scholarly communication. On an alternate, optional submission track, we will continually experiment with new article formats (including modern, interactive formats), new review processes, and articles as living documents. This experimentation will be motivated by re-conceptualizing peer review as a humane, constructive process aimed at improving work rather than gatekeeping."
+  },
+  {
+    "objectID": "index.html#indexing",
+    "href": "index.html#indexing",
+    "title": "The Journal of Visualization and Interaction",
+    "section": "Indexing",
+    "text": "Indexing\nJoVI is currently indexed at CrossRef, OpenAlex, and Google Scholar. We have applied for being included in DOAJ."
   },
   {
     "objectID": "index.html#acks",
