@@ -50,6 +50,7 @@ We expect the following sections in the paper:
 -   Authorship\*
 -   License
 -   Conflict of interest\*
+-   Acknowledgements (optional)
 -   References
 -   Appendices (optional)
 
@@ -73,7 +74,7 @@ Provide a URL to a repository containing raw data, open-source code, or (pre-)re
 
 If materials cannot be shared at all or in the raw form, provide an explanation here.
 
-#### Authorship
+#### Authorship and AI/LLM policy
 
 Articles with multiple authors must describe the contributions of each author at the end of the article. Use the [Contributor Roles Taxonomy (CRediT)](https://www.elsevier.com/authors/policies-and-guidelines/credit-author-statement).
 
@@ -84,6 +85,15 @@ Articles with multiple authors must describe the contributions of each author at
 An example authorship statement might read:
 
 > **Aggie Eilwen**: Investigation, Data Curation, Writing -- Original Draft; **Pedro Ellar**: Writing -- Review & Editing; **Alena Ennio**: Writing -- Review & Editing, Supervision, Funding Acquisition.
+
+_Note:- Generative AI tools and technologies, such as ChatGPT, may not be listed as authors of an article published at JoVI. The use of generative AI tools and technologies to create content is permitted but must be fully disclosed in the article. For example, the authors could include the following statement in the authorship section of the article: 
+
+> "During the preparation of this work, the author(s) used X-GPT-4 and Gramby in order to: check grammar and spelling. Further, the author(s) used X-AI-IMG for figures 3 and 4 in order to: generate images. After using these tool(s)/service(s), the author(s) reviewed and edited the content as needed and take(s) full responsibility for the publication’s content."
+
+If you are uncertain ­about the need to disclose the use of a particular tool, err on the side of caution, and include a disclosure in the authorship section of the article.
+Declaration of spell- and grammar-checker usage as well as translation tools are optional as long as the tool does not alter the semantics of the text the authors originally intended.
+
+This policy is based on the [ACM's policy](https://www.acm.org/publications/policies/new-acm-policy-on-authorship) as well as on the [CEUR workshop policy](https://github.com/yamadharma/ceurart/blob/26d364ae24cf21936cc3af5a46766ec600e819aa/doc/latex/ceurart/sample/sample__1col.tex#L620-L623).
 
 #### License
 
