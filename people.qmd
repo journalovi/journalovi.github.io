@@ -69,7 +69,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Wesley Willett, University of Calgary
 - Raphael Wimmer, University of Regensburg
 - Jessica K. Witt, Colorado State University
-- Fumeng Yang, Northwestern University
+- Fumeng Yang, University of Maryland, College Park
 - Daniel Zielasko, Trier University
 
 ## Responsible Editor-in-Chief
