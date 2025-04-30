@@ -1,0 +1,57 @@
+---
+title: "Call for Student Volunteers"
+description: "JoVI is seeking student volunteers to help with journal organization"
+author: "JoVI Organizing Committee"
+date: "2025-04-29"
+title-block-banner: true
+categories:
+  - News
+---
+
+Want to help promote open and transparent practices in HCI and VIS?
+Curious about the inner working of academic publication processes?
+
+The Journal of Visualization and Interaction (JoVI) is looking for volunteers at the level of PhD students or post-docs to fill in the following positions:
+
+# Assistant to the journal organizers
+You will help make the JoVI’s reviewing and publication process smoother for everyone!
+
+*Responsibilities:* 
+
+* Monitor status of the reviewing processes and keep spreadsheets up to date.  
+* Facilitate JoVI organizer meetings by preparing agenda and taking notes  
+* Collect feedback to the processes in JoVI and help improving them
+
+*Ideal candidates:* 
+
+* Pay great attention to details  
+* Know their way around Google Sheets  
+* Can join the organizers’ meeting on Mondays 10:00 (Chicago time)  
+* Great at processing conversations and bringing clarity  
+* Naturally thinking about how to organize and optimize processes
+
+# Technical co-chair (Open Journal Systems: OJS)
+
+You will help improve the experience of authors and reviewers in the PDF track.
+
+*Responsibilities:* You will help us figure out how to customize Open Journal Systems (OJS) to align to JoVI processes.
+
+*Ideal candidates:*
+
+* Like to tinker around IT systems and websites  
+* Has some experience of reviewing processes (of any conferences or journals)  
+* Can volunteer in bursts of about 2–3 hours, once per month
+
+# Assistants to the accessibility chair (2 persons)
+
+You'll help ensure that scholarly publications are accessible to anyone, regardless of their abilities.
+
+*Responsibilities:* 
+
+* Review accessibility aspects of articles in the experimental (Github) track  
+* Help improving the process (and possibly tools) to make interactive articles accessible
+
+*Ideal candidates:*
+
+* Has experience or interest in web accessibility  
+* Familiar with tools for inspecting web accessibility
