@@ -224,6 +224,20 @@
     "text": "Attribution\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.0.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about the Contributor Covenant, see the FAQ. Translations are available here."
   },
   {
+    "objectID": "posts/2025-04-29-student-volunteers/index.html",
+    "href": "posts/2025-04-29-student-volunteers/index.html",
+    "title": "Call for Student Volunteers",
+    "section": "",
+    "text": "Want to help promote open and transparent practices in HCI and VIS? Curious about the inner working of academic publication processes?\nThe Journal of Visualization and Interaction (JoVI) is looking for volunteers at the level of PhD students or post-docs to fill in the following positions:\n\nAssistant to the journal organizers\nYou will help make the JoVI’s reviewing and publication process smoother for everyone!\nResponsibilities:\n\nMonitor status of the reviewing processes and keep spreadsheets up to date.\n\nFacilitate JoVI organizer meetings by preparing agenda and taking notes\n\nCollect feedback to the processes in JoVI and help improving them\n\nIdeal candidates:\n\nPay great attention to details\n\nKnow their way around Google Sheets\n\nCan join the organizers’ meeting on Mondays 10:00 (Chicago time)\n\nGreat at processing conversations and bringing clarity\n\nNaturally thinking about how to organize and optimize processes\n\n\n\nTechnical co-chair (Open Journal Systems: OJS)\nYou will help improve the experience of authors and reviewers in the PDF track.\nResponsibilities: You will help us figure out how to customize Open Journal Systems (OJS) to align to JoVI processes.\nIdeal candidates:\n\nLike to tinker around IT systems and websites\n\nHas some experience of reviewing processes (of any conferences or journals)\n\nCan volunteer in bursts of about 2–3 hours, once per month\n\n\n\nAssistants to the accessibility chair (2 persons)\nYou’ll help ensure that scholarly publications are accessible to anyone, regardless of their abilities.\nResponsibilities:\n\nReview accessibility aspects of articles in the experimental (Github) track\n\nHelp improving the process (and possibly tools) to make interactive articles accessible\n\nIdeal candidates:\n\nHas experience or interest in web accessibility\n\nFamiliar with tools for inspecting web accessibility"
+  },
+  {
+    "objectID": "posts/2023-08-26-summer-2023-updates/index.html",
+    "href": "posts/2023-08-26-summer-2023-updates/index.html",
+    "title": "Summer 2023 Updates",
+    "section": "",
+    "text": "The summer break is winding down, and we would like to give you an update about what’s going on at the new Journal of Visualization and Interaction.\nFirst of all, we have our very first submission for the experimental track currently being reviewed. As the experimental track also exists to experiment with open reviews (among other things), you can follow the process along at Github. The interactive article draft can also be found online.\nIn addition, we have agreed with two external academic venues, namely the VISxAI workshop at IEEE VIS 2023 and the Information+ Conference 2023, to act as publication venue for the extended versions of their proceedings. These articles will be subject to the same openness requirements as other JoVI submissions, and will go through a second round of reviews before being accepted into the corresponding special issue.\nIf you have further questions about JoVI, feel free to contact us via email, join our Transparent Research Slack channel, or ping us on Twitter and Mastodon."
+  },
+  {
     "objectID": "posts/2024-04-04-chi-sig/index.html",
     "href": "posts/2024-04-04-chi-sig/index.html",
     "title": "SIG @ CHI 2024",
@@ -250,13 +264,6 @@
     "title": "SIG @ CHI 2024",
     "section": "Please spread the word",
     "text": "Please spread the word\nIf you know of other academics, researchers, students, or industry people who might be likely to give valuable input to this event, please let us know.\nIf you think your students or colleagues might be interested in attending this event, please forward them this post."
-  },
-  {
-    "objectID": "posts/2023-08-26-summer-2023-updates/index.html",
-    "href": "posts/2023-08-26-summer-2023-updates/index.html",
-    "title": "Summer 2023 Updates",
-    "section": "",
-    "text": "The summer break is winding down, and we would like to give you an update about what’s going on at the new Journal of Visualization and Interaction.\nFirst of all, we have our very first submission for the experimental track currently being reviewed. As the experimental track also exists to experiment with open reviews (among other things), you can follow the process along at Github. The interactive article draft can also be found online.\nIn addition, we have agreed with two external academic venues, namely the VISxAI workshop at IEEE VIS 2023 and the Information+ Conference 2023, to act as publication venue for the extended versions of their proceedings. These articles will be subject to the same openness requirements as other JoVI submissions, and will go through a second round of reviews before being accepted into the corresponding special issue.\nIf you have further questions about JoVI, feel free to contact us via email, join our Transparent Research Slack channel, or ping us on Twitter and Mastodon."
   },
   {
     "objectID": "under-review.html",
