@@ -151,6 +151,9 @@ After each round of review:
 -   **Major revision:** In addition to critiques and suggestions, reviewers may also ask for clarifications in the major revision.
 -   **Minor revision:** Reviewers have reached a consensus that the required revisions could be checked by the editor without requiring further input from the external reviewers.
 
+__Accelerated review turnaround:__ The associate editor can propose to make the reject or revision decisions based on only 1–2 reviews. 
+The JoVI organizer responsible for the paper shall review the proposal based on (1) thoroughness of the reviews, and (2) collective expertise of the reviewers and the AE in light of the paper's contribution.
+
 After the final round of review:
 
 -   **Accept:** The content of the manuscript is considered final. No further changes are allowed without approval from the editor.
