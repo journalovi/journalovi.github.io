@@ -60,7 +60,6 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Andrew McNutt, University of Utah
 - Clemens Nylandsted Klokmose, Aarhus University
 - Houda Lamqaddam, University of Amsterdam
-- Lace Padilla, Northeastern University
 - Evan Peck, University of Colorado Boulder
 - Charles Perin, University of Victoria
 - Jon Schwabish, Urban Institute
@@ -75,6 +74,11 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 ## Responsible Editor-in-Chief
 
 Lonni Besançon, Linköping University
+
+
+## Past associate editors
+
+- Lace Padilla, Northeastern University (until October 2025)
 
 ## Publisher
 
