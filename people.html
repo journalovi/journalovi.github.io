@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -33,14 +33,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="./images/jovi_logo.svg" rel="icon" type="image/svg+xml">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-084a7d58a058e9fd75aebed6351184f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5290aa10cf7b1bd66179c3be679bc155.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -93,7 +94,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/jovi_wordmark.svg" alt="JoVI" class="navbar-logo">
+    <img src="./images/jovi_wordmark.svg" alt="JoVI" class="navbar-logo light-content">
+    <img src="./images/jovi_wordmark.svg" alt="JoVI" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -189,6 +191,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#open-practices-chairs" id="toc-open-practices-chairs" class="nav-link" data-scroll-target="#open-practices-chairs">Open Practices Chairs</a></li>
   <li><a href="#associate-editors" id="toc-associate-editors" class="nav-link" data-scroll-target="#associate-editors">Associate Editors</a></li>
   <li><a href="#responsible-editor-in-chief" id="toc-responsible-editor-in-chief" class="nav-link" data-scroll-target="#responsible-editor-in-chief">Responsible Editor-in-Chief</a></li>
+  <li><a href="#past-associate-editors" id="toc-past-associate-editors" class="nav-link" data-scroll-target="#past-associate-editors">Past associate editors</a></li>
   <li><a href="#publisher" id="toc-publisher" class="nav-link" data-scroll-target="#publisher">Publisher</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/journalovi/journalovi.github.io/edit/main/people.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/journalovi/journalovi.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
@@ -277,7 +280,6 @@ ul.task-list li input[type="checkbox"] {
 <li>Andrew McNutt, University of Utah</li>
 <li>Clemens Nylandsted Klokmose, Aarhus University</li>
 <li>Houda Lamqaddam, University of Amsterdam</li>
-<li>Lace Padilla, Northeastern University</li>
 <li>Evan Peck, University of Colorado Boulder</li>
 <li>Charles Perin, University of Victoria</li>
 <li>Jon Schwabish, Urban Institute</li>
@@ -293,6 +295,12 @@ ul.task-list li input[type="checkbox"] {
 <section id="responsible-editor-in-chief" class="level2">
 <h2 class="anchored" data-anchor-id="responsible-editor-in-chief">Responsible Editor-in-Chief</h2>
 <p>Lonni Besançon, Linköping University</p>
+</section>
+<section id="past-associate-editors" class="level2">
+<h2 class="anchored" data-anchor-id="past-associate-editors">Past associate editors</h2>
+<ul>
+<li>Lace Padilla, Northeastern University (until October 2025)</li>
+</ul>
 </section>
 <section id="publisher" class="level2">
 <h2 class="anchored" data-anchor-id="publisher">Publisher</h2>
@@ -354,13 +362,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
