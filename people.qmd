@@ -48,6 +48,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 
 - Leilani Battle, University of Washington
 - Cindy Xiong Bearfield, Georgia Institute of Technology
+- Eli Brown, DePaul University
 - Jason Dykes, City, University of London
 - Frank Elavsky, Carnegie Mellon University
 - Niklas Elmqvist, Aarhus University
