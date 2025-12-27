@@ -50,6 +50,10 @@ website:
           href: https://journals.aau.dk/index.php/jovi/catalog/category/interactive
           text: "Collection: Interactive"
           target: _blank
+        - icon: box-arrow-up-right
+          href: https://journals.aau.dk/index.php/jovi/catalog/category/visxai
+          text: "Collection: VISxAI"
+          target: _blank
         - href: under-review.qmd
           text: Under Review
       - text: Submissions
