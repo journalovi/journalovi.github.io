@@ -65,6 +65,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Charles Perin, University of Victoria
 - Jon Schwabish, Urban Institute
 - Michael Sedlmair, University of Stuttgart
+- Jan Vornhagen, Aalto University
 - Emily Wall, Emory University
 - Wesley Willett, University of Calgary
 - Raphael Wimmer, University of Regensburg
