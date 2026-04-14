@@ -30,6 +30,7 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Arvind Satyanarayan, MIT CSAIL
 - Carlos Scheidegger, Posit
 - Jon Schwabish, Urban Institute
+- Michael Sedlmair, TU Darmstadt
 
 ## Accessibility Chair
 
@@ -64,7 +65,6 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 - Evan Peck, University of Colorado Boulder
 - Charles Perin, University of Victoria
 - Jon Schwabish, Urban Institute
-- Michael Sedlmair, University of Stuttgart
 - Jan Vornhagen, Aalto University
 - Emily Wall, Emory University
 - Wesley Willett, University of Calgary
