@@ -34,7 +34,9 @@ To submit:
     * Go to [JoVI's OJS page](https://journals.aau.dk/index.php/jovi/submission/wizard)
     * Create an account and/or log in, if needed
     * Complete all submission requirements
-    * If you are submitting anonymously, please indicate so in the `Comments for the Editor` section.
+    * In the Comments for the Editor section, please indicate:
+      1. Whether you are submitting anonymously.
+      2. Whether you prefer the reviewing process to be run on OJS or Github (Authors who are familiar with Github may benefit from avoiding the hassle with OJS.)
     * Click *Save and continue*
 3. Upload submission:
     * Click *Add file*, upload main PDF
