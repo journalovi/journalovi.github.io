@@ -36,6 +36,9 @@ JoVI also owes a huge debt to [Steve Haroz](http://steveharoz.com/), who was ins
 
 - Dominik Moritz, Carnegie Mellon University ([accessibility@journalovi.org](mailto:accessibility@journalovi.org))  (Github ID: [@domoritz](https://github.com/domoritz))
 
+## Technical chair
+- Mathis Brossier, Linköping University (Github ID: [@k2d222](https://github.com/k2d222))
+
 ## Open Practices Chairs
 
 - Charles Cui, Northwestern University (Github ID: [@digital-flaneur](https://github.com/digital-flaneur))
