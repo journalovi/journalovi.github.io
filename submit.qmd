@@ -35,6 +35,7 @@ To submit:
     * Create an account and/or log in, if needed
     * Complete all submission requirements
     * If you are submitting anonymously, please indicate so in the `Comments for the Editor` section.
+    * If you are more familiar with GitHub than our reviewing platform (OJS), you can choose to have the reviewing process carried out on GitHub by indicating so in the `Comments for the Editor` section.
     * Click *Save and continue*
 3. Upload submission:
     * Click *Add file*, upload main PDF
