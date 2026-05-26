@@ -20,10 +20,12 @@ The term for these positions are until 31 May 2027.
 You will help with the final step of publishing the papers that received endorsements from reviewers.
 
 *Responsibilities:*
+
   * Coordinate with authors and editors to gather the final materials (the article and the reviews).
   * Hand over the materials to OJS technical chair for publication
 
 *Ideal candidates:*
+
   * Has some experience of reviewing processes (of any conferences or journals)
   * Know your way around the Slack app
   * Pay great attention to details
@@ -34,10 +36,12 @@ You will help with the final step of publishing the papers that received endorse
 You’ll help ensure that scholarly publications are accessible to anyone, regardless of their abilities.
 
 *Responsibilities:*
+
   * Review accessibility aspects of articles in the experimental (Github) track
   * Help improving the process (and possibly tools) to make interactive articles accessible
 
 *Ideal candidates:*
+
   * Has experience or interest in web accessibility
   * Familiar with tools for inspecting web accessibility
 
