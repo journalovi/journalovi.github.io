@@ -2,7 +2,7 @@
 title: "Call for Student Volunteers"
 description: "JoVI is seeking student volunteers"
 author: "JoVI Organizing Committee"
-date: "2025-05-26"
+date: "2026-05-26"
 title-block-banner: true
 categories:
   - News
