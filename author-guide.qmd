@@ -117,7 +117,7 @@ _Note:_ all copyright remains with the authors. After the license statement, add
 
 > © 20xx Copyright held by the owner/author(s).
 
-#### Conflicts of interest
+#### Conflicts of interest {#conflicts-of-interest}
 
 All submissions must include a statement about potential conflicts of interest, including activities that potentially confer material or non-material rewards on the authors in connection with the topic of the article. The simplest example: "The authors declare that there are no competing interests."
 
@@ -244,6 +244,20 @@ Lastly, once you have the data in the table ready for GUI statistical software, 
 During the reviewing process, authors may choose to be anonymous or not. Reviewers may choose to sign their reviews or to remain anonymous. Editors will always know who the authors and the reviewers are. Potential editors may also see who the authors are during editor recruitment.
 
 Sharing **preprints** prior to submission is encouraged.
+
+## Submissions from Organizing Committee members
+
+For transparency, conflict of interest, and anonymity reasons, JoVI Organizing Committee members (OCs) may submit **only** to the [experimental ("Github") track](submit.qmd#experimental).
+This ensures full transparency of the review process, as papers on that track are open from the moment of submission. 
+It also ensures a submitting OC cannot see the identity of reviewers of their submission who choose to be anonymous (a guarantee we cannot make on the traditional track due to techinical limitations of that track's submission system).
+
+If an OC submits to JoVI, the following conditions **must** be met:
+
+1. In the [conflicts of interest](#conflicts-of-interest) section of the paper, the submitting OC must declare a COI with the journal.
+2. The submitting OC cannot be assigned as responsible organizer for their own paper.
+3. The submitting OC cannot be added to any internal discussion channels (e.g. Slack channels) about the paper. 
+3. The AE of the submission must be informed of this COI and told not to discuss the paper with the submitting OC.
+4. The submitting OC must excuse themselves from all conversations about their submission, including but not limited to organizing committee meetings when the paper is discussed.
 
 ## Humane and transparent reviewing
 
