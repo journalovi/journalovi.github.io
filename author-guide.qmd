@@ -9,7 +9,7 @@ Articles with different purposes take on different forms. All research articles 
 
 An **empirical research article** draws generalizable or transferable conclusions about visualization and/or interaction using methods and results that have not been described or published in another peer-reviewed venue. Also in this type are **replication studies** that improve or challenge existing knowledge through better methodology than the original studies (e.g., higher statistical power, improved methods, new population). Further examples: empirical measurements, reanalyses, meta-analyses, systematic literature reviews.
 
-A **registered report (RR)** is a subtype of the empirical research articles with two stages: In the initial submission, the motivation, methods, and potential interpretation of methods are described, but the data collection has not yet been performed. The reviewers can evaluate and recommend revision prior to the authors collecting data. Once the initial stage is accepted, the authors can run the study knowing that the results will not impact whether the study is published. The second stage of review primarily checks that the authors stuck to the original plan, documented any deviations, and drew appropriate conclusions. For more information, see [Registered Reports](http://cos.io/rr) at COS.
+A **registered report (RR)** is a subtype of the empirical research articles with two stages: In the initial submission, the motivation, methods, and potential interpretation of methods are described, but the data collection has not yet been performed. The reviewers can evaluate and recommend revision prior to the authors collecting data. Once the initial stage is accepted, the authors can run the study knowing that the results will not impact whether the study is published. The second stage of review primarily checks that the authors stuck to the original plan, documented any deviations, and drew appropriate conclusions. For the full JoVI process and requirements, see the [Registered Reports author guidelines](registered-reports.qmd).
 
 A **systems or design research article** extends what is possible in visualization and interactions, including interaction techniques, interactive systems, and tools. Articles in this type could also describe a design or engineering process that improves in, e.g., reusability, replicability, availability, efficiency, robustness, sustainability, or economy.
 
@@ -291,6 +291,7 @@ See [How to submit](submit.qmd).
 
 ## Publication
 
-After a manuscript has been accepted by JoVI, it will be published through Aalborg University Press. The manuscript will receive a DOI. We are currently exploring the possibility of versioned DOIs, which will make it possible to submit updates to an existing article and turn it into a living, evolving document of the research process.
+After a manuscript has been accepted by JoVI, it will be published through Aalborg University Press. The manuscript will receive a DOI with versioning support. 
+It possible to submit updates to an existing article and turn it into a living, evolving document of the research process.
 
 We recommend all authors read the [reviewing guide](https://docs.google.com/document/d/1ZDZtzYh8uuEoZX-5hcODHzM6Ic2a-baIDbTCzRKH9yI/edit#) for further information about the criteria and the reviewing process.

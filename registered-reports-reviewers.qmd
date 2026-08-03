@@ -1,0 +1,34 @@
+---
+title: "Registered Reports: Reviewer guidelines"
+sidebar: false
+---
+
+This page describes what reviewers are asked to assess at each stage of a Registered Report. For the full process and the requirements placed on authors, see the [Registered Reports author guidelines](registered-reports.qmd). For JoVI's general reviewing guidance, see the [Reviewer guidelines](reviewer-guide.qmd).
+
+**Registered Reports** are a form of **empirical** article in which the **methods and proposed analyses are peer-reviewed and registered prior to research being conducted**. This format of article seeks to neutralize a variety of inappropriate research practices, including inadequate statistical power, selective reporting of results, and publication bias.
+
+The review process for *Registered Reports* is divided into two stages. In Stage 1, reviewers assess study proposals **before** data is collected. In Stage 2, reviewers consider the full study, including results and interpretation.
+
+## Stage 1
+
+**Stage 1 reviewing will only be on an Introduction, Methods (including proposed analyses), and Pilot Data (where applicable).** In considering papers at Stage 1, reviewers will be asked to assess:
+
+- The importance of the research question(s).
+- The logic, rationale, and plausibility of the proposed hypotheses.
+- The soundness and feasibility of the methodology and analysis pipeline (including statistical power analysis where appropriate).
+- Whether the clarity and degree of methodological detail are sufficient to exactly replicate the proposed experimental procedures and analysis pipeline.
+- Whether the authors have pre-specified sufficient outcome-neutral tests for ensuring that the results obtained can test the stated hypotheses, including [positive controls](registered-reports.qmd#positive-controls) and quality checks.
+
+Following Stage 1 peer review, manuscripts will be accepted, offered the opportunity to revise, or rejected outright. Manuscripts that pass peer review will be issued an *in-principle acceptance* (IPA), indicating that the article will be published pending successful completion of the study according to the exact methods and analytic procedures outlined, as well as a defensible and evidence-bound interpretation of the results.
+
+## Stage 2
+
+Following completion of the study, the authors will complete the manuscript, including the Results and Discussion sections. These Stage 2 manuscripts will more closely resemble a regular article format. The manuscript will then be returned to the reviewers, who will be asked to appraise:
+
+- Whether the background and methods are the same as the approved Stage 1 submission
+- Whether the authors adhered precisely to the registered study procedures
+- Whether the data are able to test the authors’ proposed hypotheses by satisfying the approved outcome-neutral quality checks
+- Whether any unregistered exploratory analyses added by the authors are justified, methodologically sound, and informative
+- Whether the authors’ discussion and conclusions are justified given the data
+
+Please note that editorial decisions will not be based on the perceived importance, novelty, or conclusiveness of the results.
