@@ -1,0 +1,47 @@
+---
+title: "Call for Student Volunteers"
+description: "JoVI is seeking student volunteers"
+author: "JoVI Organizing Committee"
+date: "2026-05-26"
+title-block-banner: true
+categories:
+  - News
+---
+
+Want to help promote open and transparent practices in HCI and VIS?
+Curious about the inner working of academic publication processes?
+
+The Journal of Visualization and Interaction (JoVI) is looking for volunteers at the level of PhD students or post-docs to fill in the following positions:
+
+The term for these positions are until 31 May 2027.
+
+
+# Publication chair (1 person)
+You will help with the final step of publishing the papers that received endorsements from reviewers.
+
+*Responsibilities:*
+
+  * Coordinate with authors and editors to gather the final materials (the article and the reviews).
+  * Hand over the materials to OJS technical chair for publication
+
+*Ideal candidates:*
+
+  * Has some experience of reviewing processes (of any conferences or journals)
+  * Know your way around the Slack app
+  * Pay great attention to details
+  * Can volunteer in bursts of about 30 min – 60 min, on demand, around 1–2 times per month
+
+# Assistants to the accessibility chair (2 persons)
+
+You’ll help ensure that scholarly publications are accessible to anyone, regardless of their abilities.
+
+*Responsibilities:*
+
+  * Review accessibility aspects of articles in the experimental (Github) track
+  * Help improving the process (and possibly tools) to make interactive articles accessible
+
+*Ideal candidates:*
+
+  * Has experience or interest in web accessibility
+  * Familiar with tools for inspecting web accessibility
+
