@@ -86,7 +86,7 @@ An example authorship statement might read:
 
 > **Aggie Eilwen**: Investigation, Data Curation, Writing -- Original Draft; **Pedro Ellar**: Writing -- Review & Editing; **Alena Ennio**: Writing -- Review & Editing, Supervision, Funding Acquisition.
 
-_Note:- Generative AI tools and technologies, such as ChatGPT, may not be listed as authors of an article published at JoVI. The use of generative AI tools and technologies to create content is permitted but must be fully disclosed in the article. For example, the authors could include the following statement in the authorship section of the article: 
+_Note:_ Generative AI tools and technologies, such as ChatGPT, may not be listed as authors of an article published at JoVI. The use of generative AI tools and technologies to create content is permitted but must be fully disclosed in the article. For example, the authors could include the following statement in the authorship section of the article: 
 
 > "During the preparation of this work, the author(s) used X-GPT-4 and Gramby in order to: check grammar and spelling. Further, the author(s) used X-AI-IMG for figures 3 and 4 in order to: generate images. After using these tool(s)/service(s), the author(s) reviewed and edited the content as needed and take(s) full responsibility for the publication’s content."
 
@@ -272,6 +272,8 @@ JoVI aims for a collaborative, humane, and transparent review process. Reviewing
 -   **Typos happen:** Typos or minor grammatical mistakes are inevitable, and they can be especially difficult to detect for people who do not have English as a native language. We strongly recommend that you carefully proofread your manuscript before submitting and after any revision. But as long as the manuscript is clear and understandable, these issues will not affect the score by reviewers. They may simply add an additional minor revision request.
 
 -   **Editor review:** Action editors check reviews before sending them to authors, and they may ask reviewers to rewrite a part of their review that comes across as overly personal. Should an author receive any personal or inappropriate comment in a review, they are encouraged to contact the editor or any member of the editorial board.
+
+Before being published in JoVI, an article will have been reviewed by at least three different external experts and the responsible associate chair. Note that an individual review round may be completed with less than three external reviews, as long as the entire process involves at least three externals.
 
 ## Desk rejects
 
