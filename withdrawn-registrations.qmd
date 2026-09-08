@@ -1,0 +1,16 @@
+---
+title: "Withdrawn Registered Reports"
+sidebar: false
+---
+
+This page publicly records [Registered Reports](registered-reports.qmd) that received an in-principle acceptance (IPA) at Stage 1 but were subsequently withdrawn.
+
+For the full policy, see [Extra process: Withdrawal](registered-reports.qmd#extra-process-withdrawal) in the Registered Reports guidelines.
+
+## Withdrawn Registered Reports
+
+*No registrations have been withdrawn to date.*
+
+<!--
+TO ADD AN ENTRY TO THIS PAGE:
+-->

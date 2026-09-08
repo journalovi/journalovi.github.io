@@ -72,6 +72,56 @@ h4, .h4 {
 }
 
 
+/* REGISTERED REPORTS */
+
+.rr-tips, .rr-example {
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  padding: 0.75rem 1rem;
+  margin: 1.25rem 0;
+}
+
+.rr-tips {
+  background-color: #d9ead3;
+}
+
+.rr-tips > :last-child, .rr-example > :last-child {
+  margin-bottom: 0;
+}
+
+.rr-tips img, .rr-inline-icon {
+  display: inline;
+  height: 1em;
+  width: auto;
+  margin-right: 0.2em;
+  vertical-align: baseline;
+}
+
+
+.rr-steps {
+  display: block;
+  overflow-x: auto;
+  white-space: normal;
+}
+
+.rr-steps th, .rr-steps td {
+  min-width: 9rem;
+}
+
+.rr-steps ul {
+  padding-left: 1.1em;
+  margin-bottom: 0;
+}
+
+.rr-steps li {
+  color: var(--bs-body-color);
+}
+
+.rr-steps li.rr-unchanged {
+  color: #888;
+}
+
+
 /* NEWS */
 
 .quarto-title-banner {
