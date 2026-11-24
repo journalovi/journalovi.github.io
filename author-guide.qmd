@@ -90,6 +90,8 @@ _Note:_ Generative AI tools and technologies, such as ChatGPT, may not be listed
 
 > "During the preparation of this work, the author(s) used X-GPT-4 and Gramby in order to: check grammar and spelling. Further, the author(s) used X-AI-IMG for figures 3 and 4 in order to: generate images. After using these tool(s)/service(s), the author(s) reviewed and edited the content as needed and take(s) full responsibility for the publication’s content."
 
+Please note: hallucinated references are regarded as an indicator of unchecked and unedited LLM output, and will be considered grounds for desk rejection.
+
 If you are uncertain ­about the need to disclose the use of a particular tool, err on the side of caution, and include a disclosure in the authorship section of the article.
 Declaration of spell- and grammar-checker usage as well as translation tools are optional as long as the tool does not alter the semantics of the text the authors originally intended.
 
