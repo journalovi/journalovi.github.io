@@ -64,7 +64,7 @@ In addition to the missions above, JoVI also aspires to be a platform for other 
 
 ## Indexing
 
-JoVI is currently indexed at [CrossRef](https://search.crossref.org/?from_ui=yes&q=10.54337%2Fjovi.v1i1.7782),  [OpenAlex](https://openalex.org/sources/s4387289589), and [Google Scholar](https://scholar.google.de/citations?view_op=view_citation&hl=en&sortby=pubdate&citation_for_view=sZssYagAAAAJ:1yQoGdGgb4wC). We have applied for being included in [DOAJ](https://doaj.org/).
+JoVI is currently indexed at [CrossRef](https://search.crossref.org/?from_ui=yes&q=10.54337%2Fjovi.v1i1.7782),  [OpenAlex](https://openalex.org/sources/s4387289589), [Google Scholar](https://scholar.google.de/citations?view_op=view_citation&hl=en&sortby=pubdate&citation_for_view=sZssYagAAAAJ:1yQoGdGgb4wC), and [DOAJ](https://doaj.org/toc/2794-5502).
 
 ## Acknowledgements {#acks}
 
