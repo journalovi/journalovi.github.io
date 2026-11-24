@@ -50,7 +50,7 @@ All submitted work, reviews, and discussions will by default be publicly availab
 
 ## Knowledge over novelty {#knowledge}
 
-We prioritize how research advances knowledge rather than superficial novelty. Reviews aim to evaluate the credibility of a manuscript’s claims and the clarity of its evidence. Contributions of interaction techniques or interactive systems may meet this knowledge criterion through existence proofs. For empirical works, JoVI encourages **registered reports** [cf. @chambers2022past;@besancon2021rr;@nosek2014registered]—the reviewing of study plans prior to execution—and has a process to support this type of contribution. The discourses on the merit of the manuscripts must be justified by evidence, credible literature, or cogent argument. 
+We prioritize how research advances knowledge rather than superficial novelty. Reviews aim to evaluate the credibility of a manuscript’s claims and the clarity of its evidence. Contributions of interaction techniques or interactive systems may meet this knowledge criterion through existence proofs. For empirical works, JoVI encourages **[registered reports](registered-reports.qmd)** [cf. @chambers2022past;@besancon2021rr;@nosek2014registered]—the reviewing of study plans prior to execution—and has [a process to support this type of contribution](registered-reports.qmd). The discourses on the merit of the manuscripts must be justified by evidence, credible literature, or cogent argument. 
 
 
 ## A more humane process, respectful of everyone's time {#humane}

@@ -56,6 +56,8 @@ website:
           target: _blank
         - href: under-review.qmd
           text: Under Review
+        - href: withdrawn-registrations.qmd
+          text: Withdrawn Registrations
       - text: Submissions
         menu:
         - href: submit.qmd
@@ -64,6 +66,10 @@ website:
           text: Author guidelines
         - href: reviewer-guide.qmd
           text: Reviewer guidelines
+        - href: registered-reports.qmd
+          text: "Registered Reports: Authors"
+        - href: registered-reports-reviewers.qmd
+          text: "Registered Reports: Reviewers"
       - href: code-of-conduct.qmd
         text: Code of Conduct
       - href: people.qmd
